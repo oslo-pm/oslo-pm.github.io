@@ -19,7 +19,7 @@
   <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
 
   <!-- div class="annonsering">
-    <!--#include virtual="kommentarer.html" -->
+    <!--#include virtual="vedtekter/endringer.html" -->
   </div -->
 
   <div class="maintext">
