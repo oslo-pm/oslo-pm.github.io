@@ -3,7 +3,13 @@
 
 From <http://use.perl.org/~Simon/journal/6155> (Simon Cozens):
 
-So, about the module. It's called Config::Auto, and I've written it because I never want to write another config file parser ever again. So, this little baby looks around for a likely-looking config file, sniffs it to work out what sort of format it's in, and has a good shot at parsing it into a Perl data structure. It deals with XML, INI files, Perl files, lists and the more "vague" Unix-style colon-separated, equal-separated and space-separated files.
+So, about the module. It's called Config::Auto, and I've written it
+because I never want to write another config file parser ever
+again. So, this little baby looks around for a likely-looking config
+file, sniffs it to work out what sort of format it's in, and has a
+good shot at parsing it into a Perl data structure. It deals with XML,
+INI files, Perl files, lists and the more "vague" Unix-style
+colon-separated, equal-separated and space-separated files.
 
 For instance:
 
@@ -11,7 +17,8 @@ For instance:
     use Config::Auto; use Data::Dumper;
     print Dumper(Config::Auto::parse()); 
 
-This looks around my filesystem, and finds .tortuousrc, which looks like this:
+This looks around my filesystem, and finds .tortuousrc, which looks
+like this:
 
     test: foo=bar, baz=quuz
     test2: blah
@@ -63,7 +70,7 @@ my @output =
 
 7. Mail::ListDetector
 
-8. Mail::SpamAsassin
+8. Mail::SpamAssassin
 
 9. Parse::RecDescent
 
@@ -92,7 +99,8 @@ my @output =
 
 14. Proc::Daemon
 
-Kjempe-enkel måte å lage en daemon! Men den roter med DESTROY og filehandles.
+Kjempe-enkel måte å lage en daemon! Men den roter med DESTROY og
+filehandles.
 
 ==============================================================================
 
@@ -119,9 +127,9 @@ Hvordan lage en klient som navigerer og fyller ut skjema på websider
 
 19. PAR
 
-... for å lage selv-utpakkende arkiver av perl-moduler (og programmer?)
-    Nå er det ikke lenger nødvendig å ha perl installert et sted for å
-    kunne kjøre perl-programmer! :)
+... for å lage selv-utpakkende arkiver av perl-moduler (og
+    programmer?)  Nå er det ikke lenger nødvendig å ha perl installert
+    et sted for å kunne kjøre perl-programmer! :)
 
 ==============================================================================
 
@@ -145,15 +153,25 @@ Hvordan lage en klient som navigerer og fyller ut skjema på websider
 24. Autodia
 
 ... For automatic generation of UML diagrams from Perl (and Java and C
-and other) source code.
+    and other) source code.
 
 25. AppConfig
 
 ... Configuration file management, with possibilities to override
-directives with CGI or GetOpt arguments.
+    directives with CGI or GetOpt arguments.
 
 26. KWiki
 
 ... A _Very_ quick-to-set-up Wiki implementation.
 
+27. perlnow.el
+
+... Perl program templates for use with emacs.
+
+28. cperl-mode
+
+... A special emacs mode, much better than the venerable perl-mode. Info
+    on usage can be found at <http://emacswiki.org/cgi-bin/wiki/CPerlMode>.
+
 ...
+
