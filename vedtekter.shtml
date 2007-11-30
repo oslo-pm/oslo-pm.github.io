@@ -18,9 +18,9 @@
 <body>
   <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
 
-  <!-- div class="annonsering">
+  <div class="annonsering">
     <!--#include virtual="vedtekter/endringer.html" -->
-  </div -->
+  </div>
 
   <div class="maintext">
   <!--#include virtual="vedtekter/vedtekter-2007-11-29.html" -->
