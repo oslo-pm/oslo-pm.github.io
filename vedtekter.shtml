@@ -18,7 +18,7 @@
 <body>
   <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
 
-  <h1>Vedtekter for Oslo.pm - Oslo Perl Mongers</h1>
+  <h1>Vedtekter<br />Oslo Perl Mongers</h1>
 
   <div class="annonsering">
     <!--#include virtual="vedtekter/endringer.html" -->
