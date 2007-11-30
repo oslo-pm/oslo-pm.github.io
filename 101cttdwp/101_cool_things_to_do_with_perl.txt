@@ -1,0 +1,159 @@
+
+1. Config::Auto
+
+From <http://use.perl.org/~Simon/journal/6155> (Simon Cozens):
+
+So, about the module. It's called Config::Auto, and I've written it because I never want to write another config file parser ever again. So, this little baby looks around for a likely-looking config file, sniffs it to work out what sort of format it's in, and has a good shot at parsing it into a Perl data structure. It deals with XML, INI files, Perl files, lists and the more "vague" Unix-style colon-separated, equal-separated and space-separated files.
+
+For instance:
+
+    # tortuous.pl
+    use Config::Auto; use Data::Dumper;
+    print Dumper(Config::Auto::parse()); 
+
+This looks around my filesystem, and finds .tortuousrc, which looks like this:
+
+    test: foo=bar, baz=quuz
+    test2: blah
+    blez: quux 
+
+And, with no other prompting, it comes back with:
+
+    $VAR1 = {
+                'test2' => 'blah',
+                'blez' => 'quux',
+                'test' => {
+                            'foo' => 'bar',
+                            'baz' => 'quuz'
+                          }
+             }; 
+
+Laziness: check.
+Impatience: check.
+Hubris: check. 
+
+
+==============================================================================
+
+2. YAML (YAML Ain't a Markup Language)
+
+<http://search.cpan.org/author/INGY/YAML-0.35/>
+
+FIXME
+
+==============================================================================
+
+3. Schwartzian Transform
+
+my @output =
+  map { $_->[0] }
+  sort { $a->[1] cmp $b->[1] }
+  map { [$_, expensive_func($_)] }
+  @input;
+
+==============================================================================
+
+4. POE (Perl Object Environment)
+
+==============================================================================
+
+5. Mail::Audit
+
+6. Text::Autoformat
+
+7. Mail::ListDetector
+
+8. Mail::SpamAsassin
+
+9. Parse::RecDescent
+
+==============================================================================
+
+(From MJD's <http://perl.plover.com/yak/hw2/>)
+
+
+10. Globjects
+    <http://perl.plover.com/yak/hw2/samples/slide010.html>
+
+11. "use autouse 'Carp' => qw(carp croak);"
+    <http://perl.plover.com/yak/hw2/samples/slide017.html>
+
+12. "use Interpolation;"
+    <http://perl.plover.com/yak/hw2/samples/slide022.html>
+
+==============================================================================
+
+(From MJD's <http://perl.plover.com/yak/hw1/>)
+
+13. "The Orcish Maneuver"
+    <http://perl.plover.com/yak/hw1/samples/slide030.html>
+
+==============================================================================
+
+14. Proc::Daemon
+
+Kjempe-enkel måte å lage en daemon! Men den roter med DESTROY og filehandles.
+
+==============================================================================
+
+15. WWW::Mechanize
+    <http://www.perl.com/pub/a/2003/01/22/mechanize.html>
+
+Hvordan lage en klient som navigerer og fyller ut skjema på websider
+
+==============================================================================
+
+16. Referanser i perl
+
+... for å lage avanserte datastrukturer
+
+17. wantarray
+
+... for å lage kontekstavhengige funksjoner
+
+18. if/unless
+
+... før/etter blokken (øker leselighet)
+
+==============================================================================
+
+19. PAR
+
+... for å lage selv-utpakkende arkiver av perl-moduler (og programmer?)
+    Nå er det ikke lenger nødvendig å ha perl installert et sted for å
+    kunne kjøre perl-programmer! :)
+
+==============================================================================
+
+20. Data::Structure::Util
+
+... http://use.perl.org/~pierre/journal/15657
+    finne sirkulære datastrukturer.
+
+21. Scalar::Util
+
+... masse nyttige funksjoner!
+
+22. Class::DBI / Class::DBI::SQLite
+
+... veldig lettvindt databasetilgang!
+
+23. Sub::WrapPackages and Hook::LexWrap
+
+... For easily creating subroutine trace logs.
+
+24. Autodia
+
+... For automatic generation of UML diagrams from Perl (and Java and C
+and other) source code.
+
+25. AppConfig
+
+... Configuration file management, with possibilities to override
+directives with CGI or GetOpt arguments.
+
+26. KWiki
+
+... A _Very_ quick-to-set-up Wiki implementation.
+
+...

@@ -1,0 +1,91 @@
+/* CSS-fil for Oslo.pm sine websider */
+
+body {
+	font-family: verdana,arial,helvetica,sans-serif;
+
+}
+
+div.annonsering {
+	background: #dddddd;
+	color: #000;
+	width: 40%;
+	float: right;
+	padding: 1em;
+	border-style: solid;
+	margin: 1em;
+	margin-top: -3em;
+	border-color: black;
+	border-width: thin;
+	font-size: small;
+}
+
+div.maintext {
+	background: #eeeeee;
+	background-image: url(/images/oslo.pm-logo3.png);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	color: #000;
+	border-style: dashed;
+	border-color: black;
+	border-width: thin;
+	padding: 1em;
+	margin-top: 0px;
+}
+
+h1, h2 {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+h1 {
+	font-size: xx-large;
+}
+
+h2 {
+	font-size: large;
+}
+
+pre {
+	font-size: medium;
+
+}
+
+.postscript {
+	color: #999999;
+	background: white;
+	font-size: small;
+	text-align: right;
+	clear: none;
+}
+
+.langchoose {
+        margin: 1px;
+	clear: none;
+	float: left;
+}
+
+
+img.conformancelogo {
+	border: 0;
+	float: right;
+	margin-bottom: 1em;
+}
+
+a:link {
+	color: #666699;
+}
+
+a:hover {
+	color: #006699;
+	background: white;
+}
+
+a:active {
+	color: #0066ff;
+	background: white;
+}
+
+a:visited {
+	color: #006699;
+}

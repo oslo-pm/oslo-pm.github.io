@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
+<head>
+  <title>Oslo.pm</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe" xml:lang="no" lang="no" />
+  <meta name="Keywords" content="oslo,perl,mongers,usergroup,social,topical,organization,user,group" xml:lang="en" lang="en" />
+  <meta name="Author" content="Salve J. Nilsen" />
+  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org" />
+  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo" />
+  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive" />
+  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/" />
+  <link rel="stylesheet" href="oslopm.css" type="text/css" media="screen" title="Plain" />
+  <link rel="start" type="text/html" href="http://oslo.pm.org/" />
+</head>
+
+<body> 
+  <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
+
+  <h1>Oslo.pm</h1>
+
+  <div class="annonsering">
+     <!--#include virtual="arrangementer/2007-11-29-genfors.html"-->
+     <!--#include virtual="innkalling-bunn.html"-->
+  </div>
+
+  <div class="maintext">
+   <h2>Programmerer du Perl?</h2>
+
+    <p>Velkommen til Oslo Perl Mongers sitt nettsted!</p>
+
+    <p>Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i programmeringsspr&aring;ket Perl. Vi tilbyr en m&oslash;teplass for b&aring;de nybegynnere og erfarne og arrangerer jevnlig sammenkomster, foredrag og seminarer. Hos oss finner du et godt sosialt milj&oslash; for og med medlemmene, og sjansen til &aring; m&oslash;te likesinnede.</p>
+
+    <p>&Oslash;nsker du &aring; komme i kontakt med andre Perl-folk kan du komme p&aring; v&aring;re medlemsm&oslash;ter (f&oslash;rste onsdag hver m&aring;ned) eller bes&oslash;ke <a href="nntp:no.it.programmering.perl" title="Link for USENET/News-klienter">den norske Perl newsgruppen</a> som er det norske Perl-milj&oslash;et sitt prim&aelig;re diskusjonsforum. I tillegg finnes IRC-kanalen <a href="irc://irc.efnet.net:6667/%23perl.no" title="Link for IRC-klienter">#perl.no p&aring; EFNet</a> for de som vil chatte, og en egen lavtrafikk <a href="http://mail.pm.org/mailman/listinfo/oslo" title="Til side for listep&aring;melding">epostliste for annonseringer</a> for de som bare &oslash;nsker &aring; holde seg informert om Oslo.pm sine aktiviteter.</p>
+
+    <p>Bruk gjerne v&aring;r <a href="http://oslo.pm.org/Oslo.pm.ics" title="iCal kalenderfil">kalenderfil</a> for &aring; f&aring; en p&aring;minnelse rett f&oslash;r hvert m&oslash;te!</p>
+
+    <h2>Hvordan bli medlem i Oslo.pm?</h2>
+
+    <p>Meld deg inn ved &aring; <a href="http://mail.pm.org/mailman/listinfo/oslo" title="Til side for listep&aring;melding">abonnere p&aring; v&aring;r annonserings-liste</a>. Det er alt! :-)</p>
+
+    <h2>Hvordan delta?</h2>
+
+    <p>Oslo Perl Mongers har en <a href="http://mail.pm.org/mailman/listinfo/oslo-aktive" title="Til side for listep&aring;melding">mailingliste for aktive medlemmer</a>, der vi diskuterer det vi finner interessant om Perl og relaterte tema, planlegger de neste m&oslash;tene v&aring;re, forbereder Perl-arrangementer og alt annet som er interessant eller relevant. Foreningens aktiviteter er basert i medlemmenes innsats, og alle som &oslash;nsker &aring; v&aelig;re med p&aring; moroa er velkommen!</p>
+
+    <p>Ogs&aring; er du selvf&oslash;lgelig hjertelig velkommen p&aring; sammenkomstene v&aring;re - <a href="http://oslo.pm.org/Oslo.pm.ics" title="iCal kalenderfil">f&oslash;rste onsdag hver m&aring;ned</a>.</p>
+
+    <p>Oslo.pm har ogs&aring; noen <a href="vedtekter.shtml" title="Oslo Perl Mongers sine gjeldende vedtekter">vedtekter</a> samt et <a href="styre.shtml" title="Styret i Oslo Perl Mongers">styre</a>.</p>
+  </div>
+
+  <div class="langchoose">
+    <img src="images/no.png" alt="Norsk" /><img src="images/gb_grey.png" alt="English (coming soon)" />
+  </div>
+
+  <div>
+  <div class="postscript" xml:lang="en" lang="en">
+    Standards followed: <acronym title="W3C-WAI Web Content Accessibility Guidelines 1.0">WCAG 1.0</acronym> <a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Level A conformance">WAI-A</a>, <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0">XHTML 1.0</a>, <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS">CSS</a>
+  </div>
+  </div>
+</body>
+</html>
