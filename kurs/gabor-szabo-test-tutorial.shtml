@@ -1,76 +1,92 @@
 <h1>3 dagers kurs om Testautomatisering med Perl</h1>
 
-<p>2. til 4. april, i Linpro sine lokaler på Storo i Oslo. Kurset
-holdes på engelsk.</p>
+<p>2. til 4. april, i Linpro sine lokaler p&aring; Storo i
+Oslo. Kurset holdes p&aring; engelsk.</p>
 
-<p>Perl har i mange år blitt brukt i kvalitetssikring (QA) til alt fra
-forberedelse av konfigurasjonsfiler før testing til analyse av logger
-etter testen. Utviklingen har ikke stått stille, og idag kan Perl
-brukes i alle deler av et automatisk testmiljø - inkludert det å
-simulere brukere ved å styre mus og manipulere applikasjoner under
-Windows, og fungere som en web-klient for å teste web-baserte
-applikasjoner.</p>
+<p>Perl har i mange &aring;r blitt brukt i kvalitetssikring (QA) til
+alt fra forberedelse av konfigurasjonsfiler f&oslash;r testing til
+analyse av logger etter testen. Utviklingen har ikke st&aring;tt
+stille, og idag kan Perl brukes i alle deler av et automatisk
+testmilj&oslash; - inkludert det &aring; simulere brukere ved &aring;
+styre mus og manipulere applikasjoner under Windows, og fungere som en
+web-klient for &aring; teste web-baserte applikasjoner.</p>
 
-<h2>Målgruppe</h2>
+<h2>M&aring;lgruppe</h2>
+
 <p>Programmerere og testere med kjennskap til Perl.</p>
 
 <h2>Emner</h2>
-<p>Oversikt over hvordan Perl kan brukes til å automatisere
+
+<p>Oversikt over hvordan Perl kan brukes til &aring; automatisere
 kvalitetssikring.  Anvende Perl i ulike typer testing (som GUI, web,
 nettverk). Bruk av testrammeverket som kommer med Perl.</p>
 
 
 <h2>Kursformat</h2>
+
 <p>24 klasseromstimer (3 fulle dager). Omtrent 50% av tiden til
-øvelser.</p>
+&oslash;velser.</p>
 
 <h2>Forkunnskaper</h2>
-<p>Seks måneders erfaring med programmering i Perl, eller
+
+<p>Seks m&aring;neders erfaring med programmering i Perl, eller
 introduksjonskurs i Perl</p>
 
 <h2>Innhold</h2>
-<p>Først vil vi lære om de grunnleggende testverktøyene og
--rammeverkene som er tilgjengelig i Perl ved å se på unit-testing av
-Perlmoduler.  Deretter utvider vi verktøysettet for å teste andre
-typer applikasjoner.  Vi vil se på testing av Windows
-brukergrensesnitt, webapplikasjoner og nettverksutstyr</p>
+
+<p>F&oslash;rst vil vi l&aelig;re om de grunnleggende
+testverkt&oslash;yene og -rammeverkene som er tilgjengelig i Perl ved
+&aring; se p&aring; unit-testing av Perlmoduler.  Deretter utvider vi
+verkt&oslash;ysettet for &aring; teste andre typer applikasjoner.  Vi
+vil se p&aring; testing av Windows brukergrensesnitt, webapplikasjoner
+og nettverksutstyr</p>
 
 <h2>Stikkord</h2>
 <ul>
-  <li>Introduksjon til testing: hvorfor, når, hvor, hvem og hvordan?</li>
-  <li>Perl sine verktøy for testing av Perlmoduler
-  <li>Microsoft Windows GUI applikasjoner
-  <Li>Kommandolinjeapplikasjoner
-  <li>Testing av nettverksutstyr med kommandolinjegrensesnitt
-  <li>Web-applikasjoner enten med tekstnettleser eller med Internet Explorer
-  <li>Databasetesting
-  <li>X-Windows testing
-  <li>Kort om XP - Extreme Programming
-  <li>Bygge regresjonstestverktøy
+  <li>Introduksjon til testing: hvorfor, n&aring;r, hvor, hvem og
+  hvordan?</li>
+  <li>Perl sine verkt&oslash;y for testing av Perlmoduler</li>
+  <li>Microsoft Windows GUI applikasjoner</li>
+  <Li>Kommandolinjeapplikasjoner</li>
+  <li>Testing av nettverksutstyr med kommandolinjegrensesnitt</li>
+  <li>Web-applikasjoner enten med tekstnettleser eller med Internet
+  Explorer</li>
+  <li>Databasetesting</li>
+  <li>X-Windows testing</li>
+  <li>Kort om XP - Extreme Programming</li>
+  <li>Bygge regresjonstestverkt&oslash;y</li>
 </ul>
 
-<p>Kurset holdes på Engelsk. Instruktør er Gabor Szabo fra Perl
-Training Israel, og arrangeres av Gabor Szabo i samarbeid med Oslo
-Perl Mongers <a href="http://oslo.pm.org/">Oslo Perl Mongers</a> og <a
-href="http://linpro.no/">Linpro</a>.</p>
+<p>Kurset holdes p&aring; Engelsk. Instrukt&oslash;r er Gabor Szabo
+fra Perl Training Israel, og arrangeres av Gabor Szabo i samarbeid med
+Oslo Perl Mongers <a href="http://oslo.pm.org/">Oslo Perl Mongers</a>
+og <a href="http://linpro.no/">Linpro</a>.</p>
+
+<h2>Om kursholderen</h2>
 
 <p>Gabor har brukt Perl siden 1995, og undervist det siden 2000 via
 sitt firma <a href="http://www.pti.co.il/">Perl Training
-Israel</a>. Han har drevet konsulentvirksomhet med fokus på test- og
-byggings-automatisering for firmaer som Cisco og Checkpoint.</p>
+Israel</a>. Han har drevet konsulentvirksomhet med fokus p&aring;
+test- og byggings-automatisering for firmaer som Cisco og
+Checkpoint.</p>
 
-<p>I Perl-miljøet er Gabor kjent som organisatør av Perl Mongers i
-Israel, inkludert arrangering av YAPC og OSDC konferanser siden
-2003. Han har holdt flere foredrag på YAPC::EU konferanser.</p>
+<p>I Perl-milj&oslash;et er Gabor kjent som organisat&oslash;r av Perl
+Mongers i Israel, inkludert arrangering av YAPC og OSDC konferanser
+siden 2003. Han har holdt flere foredrag p&aring; YAPC::EU
+konferanser.</p>
 
 <p>Gabor er en CPAN forfatter og har bidratt med tester til mange
-CPAN-moduler.  Han er også utvikler av og ansvarlig for <a
+CPAN-moduler.  Han er ogs&aring; utvikler av og ansvarlig for <a
 href="http://www.cpanforum.com/">CPAN::Forum</a> og for <a
 href="http://pcas.szabgab.com/">Perl Community AdServer</a>.</p>
 
-<p>Kontakt Gabor på epost: <a
-href="mailto:szabgab@gmail.com">szabgab@gmail.com</a>.</p>
+<h2>P�melding</h2>
+
+<p>Kontakt Gabor p&aring; epost: <a
+href="mailto:szabgab@gmail.com">szabgab@gmail.com</a> for
+p&aring;melding.</p>
 
 <p>Du kan og ta kontakt med Kai Andresen, <a
 href="mailto:kai.andresen@ssb.no">kai.andresen@ssb.no</a>, for
 informasjon.</p>
+
