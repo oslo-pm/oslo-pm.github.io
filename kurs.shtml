@@ -3,7 +3,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
 <head>
-  <title>Kurstilbud via Oslo.pm</title>
+  <title>Kurstilbud med Oslo.pm</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe,kurs" xml:lang="no" lang="no" />
   <meta name="Author" content="Salve J. Nilsen" />
@@ -16,22 +16,18 @@
 </head>
 
 <body>
-  <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
-
-  <!-- div class="annonsering">
-    <!--#include virtual="" -->
-  </div -->
+  <!-- $Id$ -->
 
   <div class="maintext">
   <!--#include virtual="kurs/gabor-szabo-test-tutorial.html" -->
   </div>
 
-  <!-- div class="postscript" xml:lang="en" lang="en">
+  <div class="postscript" xml:lang="en" lang="en">
     Standards followed: <acronym title="W3C-WAI Web Content Accessibility Guidelines 1.0">WCAG 1.0</acronym> <a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Level A conformance">WAI-A</a>, <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0">XHTML 1.0</a>, <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS">CSS</a>
   </div>
 
   <div class="postscript" xml:lang="en" lang="en">
-    Last modified: $Date: 2004/11/24 17:06:06 $
-  </div -->
+    Last modified: $Date$
+  </div>
 </body>
 </html>

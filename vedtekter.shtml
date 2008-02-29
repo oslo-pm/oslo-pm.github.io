@@ -16,7 +16,7 @@
 </head>
 
 <body>
-  <!-- $Id: index.shtml,v 1.53 2004/11/24 17:06:06 oslo Exp $ -->
+  <!-- $Id$ -->
 
   <h1>Vedtekter<br />Oslo Perl Mongers</h1>
 
@@ -33,7 +33,7 @@
   </div>
 
   <div class="postscript" xml:lang="en" lang="en">
-    Last modified: $Date: 2004/11/24 17:06:06 $
+    Last modified: $Date$
   </div -->
 </body>
 </html>
