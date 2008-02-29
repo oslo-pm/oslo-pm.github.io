@@ -26,8 +26,8 @@
     Standards followed: <acronym title="W3C-WAI Web Content Accessibility Guidelines 1.0">WCAG 1.0</acronym> <a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Level A conformance">WAI-A</a>, <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0">XHTML 1.0</a>, <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS">CSS</a>
   </div>
 
-  <div class="postscript" xml:lang="en" lang="en">
+  <!-- div class="postscript" xml:lang="en" lang="en">
     Last modified: $Date$
-  </div>
+  </div -->
 </body>
 </html>

@@ -27,7 +27,7 @@
   </div>
 
   <div class="annonsering">
-     <h4>Kurs om Test-automatisering med Perl, 2. til 4. april!</h4>
+     <h3>Kurs om Test-automatisering, 2. til 4. april!</h3>
      
      <p>Gabor Szabo inviterer sammen med Oslo.pm og Linpro til en
      tre-dagers intro til avansert testing, i Linpro sine lokaler
@@ -63,10 +63,8 @@
     <img src="images/no.png" alt="Norsk" /><img src="images/gb_grey.png" alt="English (coming soon)" />
   </div>
 
-  <div>
   <div class="postscript" xml:lang="en" lang="en">
     Standards followed: <acronym title="W3C-WAI Web Content Accessibility Guidelines 1.0">WCAG 1.0</acronym> <a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Level A conformance">WAI-A</a>, <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0">XHTML 1.0</a>, <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS">CSS</a>
-  </div>
   </div>
 </body>
 </html>
