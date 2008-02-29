@@ -14,9 +14,12 @@ div.annonsering {
 	border-style: solid;
 	margin: 1em;
 	margin-top: -3em;
+    margin-bottom: 4em;
 	border-color: black;
 	border-width: thin;
 	font-size: small;
+    clear: right;
+    display: block;
 }
 
 div.maintext {
@@ -44,6 +47,10 @@ h1 {
 
 h2 {
 	font-size: large;
+}
+
+h3 {
+	font-size: medium;
 }
 
 pre {
