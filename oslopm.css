@@ -14,12 +14,22 @@ div.annonsering {
 	border-style: solid;
 	margin: 1em;
 	margin-top: -3em;
-    margin-bottom: 4em;
+	margin-bottom: 4em;
 	border-color: black;
 	border-width: thin;
 	font-size: small;
-    clear: right;
-    display: block;
+	clear: right;
+	display: block;
+}
+
+.first {
+	margin-top: -3em;
+	margin-bottom: 4em;
+}
+
+.next {
+        margin-top: 1em;
+        margin-bottom: 4em;
 }
 
 div.maintext {
