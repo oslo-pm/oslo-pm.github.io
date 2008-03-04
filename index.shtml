@@ -23,11 +23,15 @@
 
   <div class="annonsering first">
      <!--#include virtual="arrangementer/2008-03-05-sosialt.html"-->
-     <!--#include virtual="innkalling-bunn.html"-->&nbsp;
+     <!--#include virtual="innkalling-bunn.html"-->
   </div>
 
-  <div class="annonsering next">
-     <!--#include virtual="arrangementer/2008-04-02-teste-kurs.html"-->&nbsp;
+  <div class="annonsering">
+     <!--#include virtual="arrangementer/2008-04-02-teste-kurs.html"-->
+  </div>
+
+  <div class="annonsering">
+     <!--#include virtual="arrangementer/2008-04-02-qa-hackathon.html"-->
   </div>
 
   <div class="maintext">
