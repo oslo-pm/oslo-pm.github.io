@@ -1,3 +1,7 @@
-# How to update:
+# How to update the website
+#
+# Copy trunk/sjn/config/sitecopyrc to ~/.sitecopyrc and edit it to
+# reflect your system environment, then run the following commands:
 
+svn update
 sitecopy -u oslo.pm
