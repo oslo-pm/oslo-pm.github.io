@@ -22,13 +22,13 @@
   <h1>Oslo.pm</h1>
 
   <div class="annonsering first">
-     <!--#include virtual="arrangementer/2008-09-03-sosialt.html"-->
+     <!--#include virtual="arrangementer/2008-11-05-perl6-testing.html"-->
      <!--#include virtual="innkalling-bunn.html"-->
   </div>
 
-  <!-- div class="annonsering">
-     <!-- #include virtual="arrangementer/2008-04-02-teste-kurs.html"-->
-  </div -->
+  <div class="annonsering">
+     <!--#include virtual="arrangementer/2009-04-16-nordic-perl-workshop.html"-->
+  </div>
 
   <!-- div class="annonsering">
      <!-- #include virtual="arrangementer/2008-04-05-qa-hackathon.html"-->
