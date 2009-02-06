@@ -30,9 +30,9 @@
      <!--#include virtual="arrangementer/2009-04-16-nordic-perl-workshop.html"-->
   </div>
 
-  <!-- div class="annonsering">
-     <!-- #include virtual="arrangementer/2008-04-05-qa-hackathon.html"-->
-  </div -->
+  <!-- div class="annonsering" -->
+     <!-- #include virtual="arrangementer/2008-04-05-qa-hackathon.html" -->
+  <!-- /div -->
 
   <div class="maintext">
    <h2>Programmerer du Perl?</h2>
