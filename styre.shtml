@@ -18,12 +18,8 @@
 <body>
   <!-- $Id$ -->
 
-  <!-- div class="annonsering">
-    <!--#include virtual="kommentarer.html" -->
-  </div -->
-
   <div class="maintext">
-  <!--#include virtual="styre/styre-2007-11-29.html" -->
+  <!--#include virtual="styre/styre-2009-01-07.html" -->
   </div>
 
   <!-- div class="postscript" xml:lang="en" lang="en">
