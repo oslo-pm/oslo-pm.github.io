@@ -35,7 +35,7 @@
   </div -->
 
   <div class="annonsering">
-     <!--#include virtual="chat.html"-->
+     <!--#include virtual="links.html"-->
   </div>
 
   <div class="maintext">
