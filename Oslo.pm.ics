@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-X-WR-CALNAME:Oslo.pm
+X-WR-CALNAME:Oslo Perl Mongers
 PRODID:-//Apple Computer\, Inc//iCal 2.0//EN
 X-WR-RELCALID:3E3C7354-932A-47DE-A229-A533AAC94E17
 X-WR-TIMEZONE:Europe/Oslo
@@ -24,57 +24,21 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 LOCATION:Se oslo.pm.org for møtested
-DTSTAMP:20080229T015707Z
+DTSTAMP:20100829T015707Z
 UID:75C7A307-F815-43BF-ADD5-0BD2A3655926
 SEQUENCE:30
 URL;VALUE=URI:http://oslo.pm.org/
-DTSTART;TZID=Europe/Oslo:20080102T183000
+DTSTART;TZID=Europe/Oslo:20080101T183000
 SUMMARY:Oslo.pm
-DTEND;TZID=Europe/Oslo:20080102T213000
+DTEND;TZID=Europe/Oslo:20080101T213000
 DESCRIPTION:Månedsmøte i Oslo Perl Mongers - for flere detaljer om møtes
  ted og dagens tema\, se våre websider!\n\nSist oppdatert:\n$Date$
 RRULE:FREQ=MONTHLY;INTERVAL=1;UNTIL=20131231T225959Z;BYDAY=1WE
 BEGIN:VALARM
 ACTION:AUDIO
-TRIGGER:-PT3H
+TRIGGER:-PT6H
 X-WR-ALARMUID:0044DE2C-7E3B-4863-A83A-68A92587AEF9
 ATTACH;VALUE=URI:Basso
 END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LOCATION:Linpro sine lokaler\, Storo
-DTSTAMP:20080229T003907Z
-UID:A2FB5605-F5C1-4180-BB80-A19E1C109E39
-SEQUENCE:8
-URL;VALUE=URI:http://oslo.pm.org/kurs.shtml
-DTSTART;TZID=Europe/Oslo:20080402T090000
-SUMMARY:Kurs i avansert testing\, dag 1
-DTEND;TZID=Europe/Oslo:20080402T160000
-DESCRIPTION:Gabor Szabo holder et introduksjonskurs om avansert testing 
- med Perl.\n\nSe Oslo.pm sine websider for kurspriser og tidspunkter!
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT7H
-LOCATION:Linpro sine lokaler\, Storo
-DTSTAMP:20080229T003928Z
-UID:8BB1E823-E211-4D94-A26A-A7C8AD37C414
-SEQUENCE:2
-URL;VALUE=URI:http://oslo.pm.org/kurs.shtml
-DTSTART;TZID=Europe/Oslo:20080404T090000
-SUMMARY:Kurs i avansert testing\, dag 3
-DESCRIPTION:Gabor Szabo holder et introduksjonskurs om avansert testing 
- med Perl.\n\nSe Oslo.pm sine websider for kurspriser og tidspunkter!
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT7H
-LOCATION:Linpro sine lokaler\, Storo
-DTSTAMP:20080229T003917Z
-UID:706C0702-5B58-4418-8469-5653A74E458D
-SEQUENCE:2
-URL;VALUE=URI:http://oslo.pm.org/kurs.shtml
-DTSTART;TZID=Europe/Oslo:20080403T090000
-SUMMARY:Kurs i avansert testing\, dag 2
-DESCRIPTION:Gabor Szabo holder et introduksjonskurs om avansert testing 
- med Perl.\n\nSe Oslo.pm sine websider for kurspriser og tidspunkter!
 END:VEVENT
 END:VCALENDAR
