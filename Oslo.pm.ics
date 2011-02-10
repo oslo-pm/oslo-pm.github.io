@@ -23,15 +23,15 @@ TZNAME:CEST
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-LOCATION:Se wiki.oslo.pm.org for mÃ¸tested
+LOCATION:Se wiki.oslo.pm.org for møtested
 DTSTAMP:20100829T015707Z
 UID:75C7A307-F815-43BF-ADD5-0BD2A3655926
 SEQUENCE:30
 URL;VALUE=URI:http://wiki.oslo.pm.org/
 DTSTART;TZID=Europe/Oslo:20080101T183000
-SUMMARY:Oslo Perl Mongers medlemsmÃ¸te
+SUMMARY:Oslo Perl Mongers medlemsmøte
 DTEND;TZID=Europe/Oslo:20080101T213000
-DESCRIPTION:MÃ¥nedsmÃ¸te i Oslo Perl Mongers - for flere detaljer om mÃ¸tested og dagens tema\, se vÃ¥re websider!\n\nSist oppdatert:\n$Date$
+DESCRIPTION:Månedsmøte i Oslo Perl Mongers - for flere detaljer om møtested og dagens tema\, se våre websider!\n\nSist oppdatert:\n$Date$
 RRULE:FREQ=MONTHLY;INTERVAL=1;UNTIL=20131231T225959Z;BYDAY=1WE
 BEGIN:VALARM
 ACTION:AUDIO
