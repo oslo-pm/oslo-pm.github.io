@@ -31,9 +31,9 @@
      < ! - - # include virtual="arrangementer/2009-04-16-nordic-perl-workshop.html" - - >
   </div -->
 
-  <!-- div class="annonsering">
-     < ! - - # include virtual="arrangementer/2009-04-21-teste-kurs.html" - - >
-  </div -->
+  <div class="annonsering">
+     <!--# include virtual="arrangementer/2011-08-11-damian-conway-kurs.html" -->
+  </div>
 
   <div class="annonsering">
      <!--#include virtual="links.html"-->
