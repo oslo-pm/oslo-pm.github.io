@@ -27,12 +27,12 @@
      <!-- #-include virtual="innkalling-bunn.html"-->
   </div>
 
-  <div class="annonsering">
-     <!--#include virtual="arrangementer/2011-08-11-damian-conway-fun-with-dead-languages.html" -->
-  </div>
+  <!-- div class="annonsering">
+     <! - - #include virtual="arrangementer/2011-08-11-damian-conway-fun-with-dead-languages.html" -->
+  </div -->
 
   <div class="annonsering">
-     <!--#include virtual="arrangementer/2011-08-11-damian-conway-kurs.html" -->
+     <!--#include virtual="annonseringer/2011-08-17-donasjon-tpf.html" -->
   </div>
 
   <div class="annonsering">
