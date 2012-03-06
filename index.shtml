@@ -19,7 +19,7 @@
 <body> 
   <!-- $Id$ -->
 
-  <h1>Oslo.pm</h1>
+  <h1 title="Oslo Post Meridiem">Oslo.pm</h1>
 
   <div class="annonsering first">
      <!--#include virtual="arrangementer/bruk-wikien-istedet.html"-->
