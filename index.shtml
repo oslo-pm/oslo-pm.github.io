@@ -32,9 +32,9 @@
 
   </div>
 
-  <!-- div class="annonsering">
-     <! - -#include virtual="arrangementer/2012-04-18-damian-conway-kurs.html" - ->
-  </div -->
+  <div class="annonsering">
+     <!--#include virtual="arrangementer/2012-04-18-damian-conway-kurs.html" -->
+  </div>
 
   <div class="annonsering">
      <!--#include virtual="links.html"-->
