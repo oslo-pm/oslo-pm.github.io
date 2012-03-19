@@ -3,7 +3,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
 <head>
-  <title>Oslo.pm sine vedtekter</title>
+  <title>Oslo.pm kontakt-info</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
   <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe,vedtekter" xml:lang="no" lang="no" />
   <meta name="Author" content="Salve J. Nilsen" />
@@ -11,14 +11,14 @@
   <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo" />
   <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive" />
   <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/" />
-  <link rel="stylesheet" href="oslopm.css" type="text/css" media="screen" title="Plain" />
+  <link rel="stylesheet" href="/oslopm.css" type="text/css" media="screen" title="Plain" />
   <link rel="start" type="text/html" href="http://oslo.pm.org/" />
 </head>
 
 <body>
   <!-- $Id: vedtekter.shtml 42 2008-02-29 01:16:19Z sjn $ -->
 
-  <h1>Kontakt-info<br />Oslo Perl Mongers</h1>
+  <h1>Oslo Perl Mongers</h1>
 
   <!-- div class="annonsering">
     <! - -#include virtual="vedtekter/endringer.html" - - >

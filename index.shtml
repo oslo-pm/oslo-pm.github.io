@@ -12,7 +12,7 @@
   <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo" />
   <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive" />
   <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/" />
-  <link rel="stylesheet" href="oslopm.css" type="text/css" media="screen" title="Plain" />
+  <link rel="stylesheet" href="/oslopm.css" type="text/css" media="screen" title="Plain" />
   <link rel="start" type="text/html" href="http://oslo.pm.org/" />
 </head>
 
