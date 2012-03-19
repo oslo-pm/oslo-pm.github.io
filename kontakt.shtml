@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
+<head>
+  <title>Oslo.pm sine vedtekter</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe,vedtekter" xml:lang="no" lang="no" />
+  <meta name="Author" content="Salve J. Nilsen" />
+  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org" />
+  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo" />
+  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive" />
+  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/" />
+  <link rel="stylesheet" href="oslopm.css" type="text/css" media="screen" title="Plain" />
+  <link rel="start" type="text/html" href="http://oslo.pm.org/" />
+</head>
+
+<body>
+  <!-- $Id: vedtekter.shtml 42 2008-02-29 01:16:19Z sjn $ -->
+
+  <h1>Kontakt-info<br />Oslo Perl Mongers</h1>
+
+  <!-- div class="annonsering">
+    <! - -#include virtual="vedtekter/endringer.html" - - >
+  </div -->
+
+  <div class="maintext">
+  <!--#include virtual="kontakt/kontakt-2012-03-19.html" -->
+  </div>
+
+  <!-- div class="postscript" xml:lang="en" lang="en">
+    Standards followed: <acronym title="W3C-WAI Web Content Accessibility Guidelines 1.0">WCAG 1.0</acronym> <a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Level A conformance">WAI-A</a>, <a href="http://validator.w3.org/check/referer" title="Valid XHTML 1.0">XHTML 1.0</a>, <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS">CSS</a>
+  </div>
+
+  <div class="postscript" xml:lang="en" lang="en">
+    Last modified: $Date: 2008-02-29 02:16:19 +0100 (Fri, 29 Feb 2008) $
+  </div -->
+</body>
+</html>
