@@ -27,18 +27,17 @@
      <!-- #-include virtual="innkalling-bunn.html"-->
   </div>
 
-  <div class="annonsering">
-     <!--#include virtual="arrangementer/2012-04-19-damian-conway-quaquaversal.html" -->
-  </div>
+  <!-- div class="annonsering">
+     <!- -#include virtual="arrangementer/2012-04-19-damian-conway-quaquaversal.html" - ->
+  </div -->
 
-  <div class="annonsering">
-     <!--#include virtual="arrangementer/2012-04-20-perl6patterns-hackathon.html" -->
+  <!-- div class="annonsering">
+     <!- -#include virtual="arrangementer/2012-04-20-perl6patterns-hackathon.html" - ->
+  </div -->
 
-  </div>
-
-  <div class="annonsering">
-     <!--#include virtual="arrangementer/2012-04-18-damian-conway-kurs.html" -->
-  </div>
+  <!-- div class="annonsering">
+     <!- -#include virtual="arrangementer/2012-04-18-damian-conway-kurs.html" - ->
+  </div -->
 
   <div class="annonsering">
      <!--#include virtual="links.html"-->
