@@ -2,14 +2,14 @@
 layout: post
 title: Neste medlemsm&oslash;te i Oslo.pm
 ---
-<p>Oslo.pm forbereder <a href="http://www.perlworkshop.no/npw2006/">Nordic Perl Workshop 2006</a> på
-medlemsmøte <strong>onsdag 7. juni 2006, klokken 18:00</strong>. Oppmøte på
+<p>Oslo.pm forbereder <a href="http://www.perlworkshop.no/npw2006/">Nordic Perl Workshop 2006</a> pÃ¥
+medlemsmÃ¸te <strong>onsdag 7. juni 2006, klokken 18:00</strong>. OppmÃ¸te pÃ¥
 <strong>Meteorologisk institutt</strong>.</p>
 
 <p>
-Siste innspurt til konferansen har startet, og alle som ønsker å
-hjelpe med å få konferansen til å lykkes oppfordres herved
-til å møte opp! Det er mye som skal v&amp;aeling;re klart, og vi vil
-trenge all den hjelpen vi kan få. <strong>Dette er siste medlemsmøte
-før konferansen - Møt opp hvis du kan hjelpe!</strong>
+Siste innspurt til konferansen har startet, og alle som Ã¸nsker Ã¥
+hjelpe med Ã¥ fÃ¥ konferansen til Ã¥ lykkes oppfordres herved
+til Ã¥ mÃ¸te opp! Det er mye som skal v&amp;aeling;re klart, og vi vil
+trenge all den hjelpen vi kan fÃ¥. <strong>Dette er siste medlemsmÃ¸te
+fÃ¸r konferansen - MÃ¸t opp hvis du kan hjelpe!</strong>
 </p>

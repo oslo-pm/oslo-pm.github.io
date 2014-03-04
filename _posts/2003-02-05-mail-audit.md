@@ -9,16 +9,16 @@ title: Oslo.pm inviterer til medlemsm&oslash;te om Mail::Audit!
 
 
 <p>Audun Ytterdal vil onsdag 5. februar fortelle om hvordan man kan bruke <a href="http://search.cpan.org/author/SIMON/Mail-Audit/">Mail::Audit</a> og <a href="http://search.cpan.org/author/MSERGEANT/Mail-SpamAssassin/">Mail::Spamassasin</a>
-til å sortere mail, gjenkjenne SPAM og hvilke muligheter modulene byr på
-å samle statistikk og generere grafer om mail i en mailboks.</p>
+til Ã¥ sortere mail, gjenkjenne SPAM og hvilke muligheter modulene byr pÃ¥
+Ã¥ samle statistikk og generere grafer om mail i en mailboks.</p>
 
 <p>Foredragsholder er <a href="http://audun.ytterdal.net/">Audun
-Ytterdal</a>, 26 år, og har holdt på med datamaskiner i 20 år. Ytterdal
-er Cand. Mag. fra Universitet i Oslo, har holdt på med UNIX i fem år, 
-Perl i 2 år, vært formann i PING, og jobber for tiden som
-systemadministrator, kursholder og &quot;sentralborddame&quot; på <a href="http://www.linpro.no/">Linpro</a>. Audun er også engasjert i
+Ytterdal</a>, 26 Ã¥r, og har holdt pÃ¥ med datamaskiner i 20 Ã¥r. Ytterdal
+er Cand. Mag. fra Universitet i Oslo, har holdt pÃ¥ med UNIX i fem Ã¥r, 
+Perl i 2 Ã¥r, vÃ¦rt formann i PING, og jobber for tiden som
+systemadministrator, kursholder og &quot;sentralborddame&quot; pÃ¥ <a href="http://www.linpro.no/">Linpro</a>. Audun er ogsÃ¥ engasjert i
 <a href="http://www.linpro.no/projects/lrrd/">LLRD</a>, <a href="http://www.linpro.no/projects/lvs-kiss/">LVS-Kiss</a> og <a href="http://audun.ytterdal.net/tagclean.php">Tagclean</a>-prosjektene,
-alle programmert i Perl og alle tilgjengelig på <a href="http://sf.net/">sourceforge.net</a>.</p>
+alle programmert i Perl og alle tilgjengelig pÃ¥ <a href="http://sf.net/">sourceforge.net</a>.</p>
 
 <p>Foredraget vil vare i ca. 1 time.</p>
 

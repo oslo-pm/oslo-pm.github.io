@@ -2,14 +2,14 @@
 layout: post
 title: Neste medlemsm&oslash;te i Oslo.pm
 ---
-<p>Oslo.pm forbereder <a href="http://www.perlworkshop.no/npw2006/">Nordic Perl Workshop 2006</a> på
-medlemsmøte onsdag 7. juni 2006, klokken 18:00. Oppmøte på
-<strong>Café Amsterdam</strong> i Kristian Augusts gate 4 ved Tullinløkka.</p>
+<p>Oslo.pm forbereder <a href="http://www.perlworkshop.no/npw2006/">Nordic Perl Workshop 2006</a> pÃ¥
+medlemsmÃ¸te onsdag 7. juni 2006, klokken 18:00. OppmÃ¸te pÃ¥
+<strong>CafÃ© Amsterdam</strong> i Kristian Augusts gate 4 ved TullinlÃ¸kka.</p>
 
 <p>
-Siste innspurt til konferansen har startet, og alle som ønsker å
-hjelpe med å få konferansen til å lykkes oppfordres herved
-til å møte opp! Det er mye som skal være klart, og vi vil
-trenge all den hjelpen vi kan få. <strong>Dette er siste medlemsmøte
-før konferansen!</strong>
+Siste innspurt til konferansen har startet, og alle som Ã¸nsker Ã¥
+hjelpe med Ã¥ fÃ¥ konferansen til Ã¥ lykkes oppfordres herved
+til Ã¥ mÃ¸te opp! Det er mye som skal vÃ¦re klart, og vi vil
+trenge all den hjelpen vi kan fÃ¥. <strong>Dette er siste medlemsmÃ¸te
+fÃ¸r konferansen!</strong>
 </p>
