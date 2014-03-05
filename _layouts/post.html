@@ -1,5 +1,24 @@
----
-layout: default
----
-[% page.title %]
-[% content %]
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <meta name="Author" content="{{ page.author }}">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta charset="utf-8">
+  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe,vedtekter" lang="no">
+  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org">
+  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo">
+  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive">
+  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/">
+  <link rel="stylesheet" href="/assets/oslopm.css" type="text/css" media="screen" title="Plain">
+  <link rel="start" type="text/html" href="http://oslo.pm.org/">
+</head>
+
+<body>
+  <h1>{{ page.title }}</h1>
+
+  <div class="content">
+{{ content }}
+  </div>
+
+</body>
+</html>

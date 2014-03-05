@@ -3,41 +3,30 @@
 <html lang="no">
 <head>
   <title>{{ page.title }}</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe" lang="no" />
-  <meta name="Keywords" content="oslo,perl,mongers,usergroup,social,topical,organization,user,group" lang="en" />
-  <meta name="Author" content="{{ page.author }}" />
-  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org" />
-  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo" />
-  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive" />
-  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/" />
-  <link rel="stylesheet" href="/assets/oslopm.css" type="text/css" media="screen" title="Plain" />
-  <link rel="start" type="text/html" href="http://oslo.pm.org/" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe" lang="no">
+  <meta name="Keywords" content="oslo,perl,mongers,usergroup,social,topical,organization,user,group" lang="en">
+  <meta name="Author" content="{{ page.author }}">
+  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org">
+  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo">
+  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive">
+  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/">
+  <link rel="stylesheet" href="/assets/oslopm.css" type="text/css" media="screen" title="Plain">
+  <link rel="start" type="text/html" href="http://oslo.pm.org/">
 </head>
 
 <body> 
   <h1 title="Oslo Post Meridiem">{{ page.title }}</h1>
 
   <div class="annonsering first">
-     <!--#include virtual="arrangementer/bruk-wikien-istedet.html"-->
-     <!-- #-include virtual="arrangementer/2010-01-06-catalystx-controller-sugar.html"-->
-     <!-- #-include virtual="innkalling-bunn.html"-->
+{% for post in site.posts limit:1 %}
+    <h2>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p>{{ post.content }}</p>
+{% endfor %}
   </div>
 
   <div class="annonsering">
-     <!--#include virtual="arrangementer/2013-01-02-fagol.html" -->
-  </div>
-
-  <!-- div class="annonsering">
-     <!- -#include virtual="arrangementer/2012-04-20-perl6patterns-hackathon.html" - ->
-  </div -->
-
-  <!-- div class="annonsering">
-     <!- -#include virtual="arrangementer/2012-04-18-damian-conway-kurs.html" - ->
-  </div -->
-
-  <div class="annonsering">
-     <!--#include virtual="links.html"-->
+{{ include links.html }}
   </div>
 
   <div class="content">
@@ -45,7 +34,7 @@
   </div>
 
   <div class="langchoose">
-    <img src="images/no.png" alt="Norsk" /><img src="images/gb_grey.png" alt="English (coming soon)" />
+    <img src="images/no.png" alt="Norsk"><img src="images/gb_grey.png" alt="English (coming soon)">
   </div>
 
   <div class="postscript" lang="en">
