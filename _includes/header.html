@@ -1,0 +1,13 @@
+<header id="main-header">
+  <div id="site-title">
+    <img src="/images/oslo.pm-logo.png" alt="Oslo.pm">
+    <a href="/">{{ site.title }}</a>
+  </div>
+  <div class="links">
+    {% assign current = page.title %}
+    <a href="/" class="page-link">About</a>
+    <a href="/events" class="page-link{% if current == null %} active{% endif %}">Events</a>
+    <a href="https://www.meetup.com/Oslo-pm/" class="page-link">Meetup</a>
+    <a href="https://www.facebook.com/groups/oslo.pm">Facebook</a>
+  </div>
+</header>

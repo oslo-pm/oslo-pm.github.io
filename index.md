@@ -1,6 +1,6 @@
 ---
-layout: home
 title: Oslo.pm
+layout: default
 ---
 
 # Velkommen til Oslo Perl Mongers!

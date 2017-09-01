@@ -1,0 +1,15 @@
+---
+layout: default
+title: Oslo.pm events
+paginate:
+  permalink: /p:num
+  title_suffix: " - side :num"
+---
+
+<div>
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+    {% assign page = post %}
+    {% include post.html %}
+  {% endfor %}
+</div>
