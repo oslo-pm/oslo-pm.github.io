@@ -1,7 +1,23 @@
 ---
 title: Oslo Perl Mongers
+description: Check out Oslo.pm for news about Perl in Oslo/Norway
+logo: /images/oslo.pm-logo.png
+author: Oslo.pm board members
+facebook:
+  publisher: groups/oslo.pm
+social:
+  name: Oslo.pm
+  links:
+  - https://www.facebook.com/groups/oslo.pm
+  - https://www.meetup.com/Oslo-pm
+
+# url: oslo.pm
+
 destination: ./_site
 plugins:
 - jekyll-feed
 - jekyll-redirect-from
+- jekyll-relative-links
+- jekyll-seo-tag
+- jekyll-titles-from-headings
 - octopress-paginate

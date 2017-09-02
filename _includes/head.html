@@ -1,34 +1,19 @@
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>
-  {% if page.custom_title %}
-    {{ page.custom_title }}
-  {% else %}
-    {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}
-  {% endif %}
-  </title>
-
-  <meta name="viewport" content="width=device-width">
-  <meta name="description" content="{% if page.excerpt %}{% if page.content contains '<!-- more -->' %}{{ page.excerpt|strip_html|trim }}{% endif %}{% else %}{{ site.description }}{% endif %}">
-  {% if page.image %}<meta name="thumbnail" content="{{ site.baseurl | prepend: site.url }}{{ page.image }}" />{% endif %}
-
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="Keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe" lang="no">
-  <meta name="Keywords" content="oslo,perl,mongers,usergroup,social,topical,organization,user,group" lang="en">
-  <link rev="Made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org">
-  <link rel="Bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo">
-  <link rel="Bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive">
-  <link rel="Bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/">
-
+  {% seo %}
   {% feed_meta %}
 
-{% if page.author %}
-  <meta name="Author" content="{{ page.author }}">
-{% endif %}
-
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <meta name="keywords" content="oslo,perl,mongers,brukergruppe,sosial,faglig,forening,bruker,gruppe" lang="no">
+  <meta name="keywords" content="oslo,perl,mongers,usergroup,social,topical,organization,user,group" lang="en">
+  <link rev="made" title="Oslo.pm aktive" href="mailto:oslo-aktive@pm.org">
+  <link rel="bookmark" title="Oslo.pm annonserings-liste" href="http://mail.pm.org/mailman/listinfo/oslo">
+  <link rel="bookmark" title="Oslo.pm diskusjons-liste" href="http://mail.pm.org/mailman/listinfo/oslo-aktive">
+  <link rel="bookmark" title="Oslo.pm WebDAV grensesnitt" href="https://groups.pm.org/groups/oslo/">
   <link rel="icon" type="image/png" href="/images/oslo.pm-logo.png">
+  <link rel="shortcut icon" type="image/png" href="/images/oslo.pm-logo.png">
 
   <!-- Custom CSS -->
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
