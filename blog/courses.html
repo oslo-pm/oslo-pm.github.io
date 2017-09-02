@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Oslo.pm conferences
-filter_name: conference
+title: Oslo.pm training and courses
+filter_name: course
 ---
 
 {% include blog_menu.html %}
 
 <div>
   {% assign index = true %}
-  {% for post in site.tags.conference %}
+  {% for post in site.tags.course %}
     {% assign page = post %}
     {% include post.html %}
   {% endfor %}
