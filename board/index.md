@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Oslo.pm sitt styre 2014
+redirect_from:
+- /styre
+- /styre.html
+- /styre.shtml
 ---
 
 # Oslo.pm sitt styre 2014

@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Contact information
+redirect_from:
+- /kontakt
+- /kontakt.html
+- /kontakt.shtml
 ---
 
 # Contact information

@@ -1,6 +1,9 @@
 ---
 title: Oslo.pm
 layout: default
+redirect_from:
+- /about
+- /om
 ---
 
 # Velkommen til Oslo Perl Mongers!
