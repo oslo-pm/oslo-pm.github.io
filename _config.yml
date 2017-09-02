@@ -13,6 +13,7 @@ social:
 
 # url: oslo.pm
 
+permalink: /:year/:month/:day/:title.html
 destination: ./_site
 plugins:
 - jekyll-feed
