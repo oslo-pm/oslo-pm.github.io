@@ -5,8 +5,16 @@ use Mojo::File 'path';
 use Mojo::JSON 'encode_json';
 use Mojo::Util 'trim';
 
-my %skip
-  = (damian => 1, mojoconf => 1, qa => 1, mojolicious => 1, osdc => 1, tempire => 1);
+my %skip = (
+  damian      => 1,
+  mojoconf    => 1,
+  mojolicious => 1,
+  npw         => 1,
+  osdc        => 1,
+  qa          => 1,
+  tempire     => 1,
+);
+
 my (@li, %tags);
 
 path('_posts')->list->each(
@@ -53,10 +61,17 @@ canonical_url: http://oslo.pm/blog/
 {% include blog_menu.html %}
 
 {% assign index = true %}
-{% for i in (0..9) %}
+{% for i in (0..4) %}
   {% assign page = site.tags.$tag\[i\] %}
   {% if page %}
     {% include post.html %}
+  {% endif %}
+{% endfor %}
+
+{% for i in (5..100) %}
+  {% assign page = site.tags.$tag\[i\] %}
+  {% if page %}
+    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
   {% endif %}
 {% endfor %}
 HERE

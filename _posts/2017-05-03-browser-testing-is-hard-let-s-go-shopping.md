@@ -4,7 +4,7 @@ title: "Browser testing is hard. Let's go shopping"
 date: 2017-04-27 08:41:33 +0200
 published: True
 categories: event
-tags: event
+tags: event talk
 ---
 
 * When: May 3 18:30

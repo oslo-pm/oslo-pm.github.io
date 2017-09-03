@@ -4,7 +4,7 @@ title: "Damian Conway at kulturhuset: On the Shoulders of Giants: 400 Years of P
 date: 2017-05-22 12:59:54 +0200
 published: True
 categories: event
-tags: event
+tags: event talk
 ---
 
 * When: May 24 18:00

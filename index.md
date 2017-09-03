@@ -1,5 +1,6 @@
 ---
 layout: default
+filter_name: all
 ---
 
 # 🇳🇴 Velkommen til Oslo Perl Mongers!
@@ -13,6 +14,8 @@ Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i prog
 Oslo.pm is an informal technical community open to all who are interested in the Perl programming language, CPAN, the tools you can find there and the related Open Source communities. We organize meetings, presentations, social events, hackathons, conferences and more.
 
 ## Recent & upcoming events
+
+{% include blog_menu.html %}
 
 {% assign index = true %}
 {% assign heading = "h3" %}
