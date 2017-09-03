@@ -13,7 +13,7 @@ programmeringsspråket Perl.
 
 {% assign index = true %}
 {% assign heading = "h3" %}
-{% for i in (1..3) %}
+{% for i in (0..2) %}
   {% assign page = site.posts[i] %}
   {% include post.html %}
 {% endfor %}
