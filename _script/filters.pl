@@ -74,7 +74,7 @@ canonical_url: http://oslo.pm/blog/list.html
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
-      <small>{{ page.date | date: "%b %-d, %Y" }}
+      <small>{{ page.date | date: "%b %-d, %Y" }}</small>
     </li>
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
