@@ -3,8 +3,8 @@ layout: post
 title: "Perl 6: A Programming Language for Computer Scientists (And Other Crazy People)"
 date: 2014-03-21 16:19:03 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 28 16:15

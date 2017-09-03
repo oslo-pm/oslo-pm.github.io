@@ -3,8 +3,8 @@ layout: post
 title: "August meetup at Gaasa, Storgata 36"
 date: 2014-08-05 09:39:48 +0200
 published: True
-categories: meetup
-tags: meetup conference osdc
+categories: event
+tags: event conference osdc
 ---
 
 * When: Aug 6 18:30

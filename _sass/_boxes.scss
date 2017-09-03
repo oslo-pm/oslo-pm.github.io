@@ -78,43 +78,61 @@
 }
 
 .paginator {
-  font-weight: bold;
   text-align: center;
   border-top: 1px solid $border-color;
   padding-top: 1rem;
   margin: 3rem 0;
   overflow: hidden;
+
   .__prev, .__current, .__next {
-    display: block;
-    color: #444;
+    line-height: 1.7em;
     text-decoration: none;
+    vertical-align: middle;
+    display: block;
   }
-  .__prev {
-    float: right;
+
+  .__prev, .__next {
+    &:hover {
+      text-decoration: underline;
+    }
   }
-  .__next {
-    float: left;
-  }
+
+  .__current { font-size: 1.1em; }
+  .__prev { float: right; }
+  .__next { float: left; }
 }
 
 .blog-menu {
   overflow: hidden;
   margin: 0.5rem 0;
+  display: flex;
+
+  h4 {
+    font-weight: normal;
+    font-size: 1rem;
+    margin: 0.1rem 0;
+    padding-right: 0.5rem;
+  }
+
   ul {
     font-weight: normal;
     margin: 0;
     padding: 0;
+    float: left;
   }
+
   li {
     margin-right: 0.5rem;
     display: inline;
-  }
-  a {
-    text-decoration: none;
-  }
-  li.active a {
-    color: #222;
-    text-decoration: underline;
+
+    a {
+      text-decoration: none;
+    }
+
+    &.active a {
+      color: #222;
+      text-decoration: underline;
+    }
   }
 }
 

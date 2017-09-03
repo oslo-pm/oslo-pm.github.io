@@ -3,8 +3,8 @@ layout: post
 title: "Browser testing is hard. Let's go shopping"
 date: 2017-04-27 08:41:33 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: May 3 18:30

@@ -3,8 +3,8 @@ layout: post
 title: "December meetup: TODAY"
 date: 2014-12-03 17:47:49 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Dec 3 18:30

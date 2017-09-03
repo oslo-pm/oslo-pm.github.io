@@ -3,8 +3,8 @@ layout: post
 title: "Damian Conway at UiO: Perl 6 - More Concurrency, Less Contusion"
 date: 2016-04-06 12:23:10 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Apr 22 16:00

@@ -3,8 +3,8 @@ layout: post
 title: "Extraordinary annual meeting"
 date: 2014-03-05 13:27:10 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 5 18:30

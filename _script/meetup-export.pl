@@ -10,7 +10,7 @@ use Time::Piece;
 # $(rm _data/meetup.json) to import fresh data
 #
 # The data is also available in the jekyll templates.
-# Check out blog/index.md and look for "site.data.meetup."
+# Check out about/index.md and look for "site.data.meetup."
 #
 
 my $overwrite = grep {/^-f/} @ARGV;
@@ -63,8 +63,8 @@ layout: post
 title: "$event->{name}"
 date: $created $offset
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: $when

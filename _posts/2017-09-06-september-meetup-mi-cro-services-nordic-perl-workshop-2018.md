@@ -3,8 +3,8 @@ layout: post
 title: "September meetup: mi.Cro.services & Nordic Perl Workshop 2018"
 date: 2017-09-03 12:40:23 +0200
 published: True
-categories: meetup
-tags: meetup conference
+categories: event
+tags: event conference
 ---
 
 * When: Sep 6 18:30

@@ -3,8 +3,8 @@ layout: post
 title: "April Perl geek/beer-out"
 date: 2015-03-25 17:37:14 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Apr 1 18:30

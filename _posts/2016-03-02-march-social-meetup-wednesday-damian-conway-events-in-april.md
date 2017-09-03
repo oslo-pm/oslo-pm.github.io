@@ -3,8 +3,8 @@ layout: post
 title: "March social meetup wednesday - Damian Conway events in April"
 date: 2016-02-29 14:13:39 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 2 18:30

@@ -3,8 +3,8 @@ layout: post
 title: "November meetup"
 date: 2015-11-02 08:56:22 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Nov 4 18:30

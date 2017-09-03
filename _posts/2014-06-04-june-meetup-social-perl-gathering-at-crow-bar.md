@@ -3,8 +3,8 @@ layout: post
 title: "June meetup - Social Perl gathering at Crow Bar"
 date: 2014-06-03 13:58:38 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jun 4 18:30

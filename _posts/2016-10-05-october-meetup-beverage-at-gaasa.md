@@ -3,8 +3,8 @@ layout: post
 title: "October meetup, $beverage at Gaasa"
 date: 2016-10-04 10:49:45 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Oct 5 18:30

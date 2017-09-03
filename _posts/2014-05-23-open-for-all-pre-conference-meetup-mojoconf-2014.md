@@ -3,8 +3,8 @@ layout: post
 title: "Open-for-all pre-conference meetup - Mojoconf 2014"
 date: 2014-05-21 14:47:22 +0200
 published: True
-categories: meetup
-tags: meetup conference mojoconf
+categories: event
+tags: event conference mojoconf
 ---
 
 * When: May 23 17:00

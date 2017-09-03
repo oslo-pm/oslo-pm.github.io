@@ -3,8 +3,8 @@ layout: post
 title: "Emergency social with Jonathan Worthington"
 date: 2014-01-24 12:11:48 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jan 28 18:00

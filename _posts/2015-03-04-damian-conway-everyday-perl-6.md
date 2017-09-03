@@ -3,8 +3,8 @@ layout: post
 title: "Damian Conway: Everyday Perl 6"
 date: 2015-02-24 12:38:51 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 4 18:30

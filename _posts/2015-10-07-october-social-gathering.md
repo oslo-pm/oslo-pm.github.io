@@ -3,8 +3,8 @@ layout: post
 title: "October social gathering"
 date: 2015-10-05 13:20:14 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Oct 7 18:30

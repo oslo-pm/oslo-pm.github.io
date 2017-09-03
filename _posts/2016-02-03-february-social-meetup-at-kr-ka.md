@@ -3,8 +3,8 @@ layout: post
 title: "February social meetup at Kråka"
 date: 2016-02-02 12:25:24 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Feb 3 18:30

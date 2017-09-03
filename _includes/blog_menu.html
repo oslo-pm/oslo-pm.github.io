@@ -1,9 +1,7 @@
 <div class="blog-menu">
+  <h4>Tag:</h4>
   <ul>
-    <li>Show:</li>
-    <li class="{% if page.filter_name == 'all' %} active{% endif %}"><a href="/blog">All</a></li>
-    <li class="{% if page.filter_name == 'meetup' %} active{% endif %}"><a href="/blog/events.html">Events</a></li>
-    <li class="{% if page.filter_name == 'conference' %} active{% endif %}"><a href="/blog/conferences.html">Conferences</a></li>
-    <li class="{% if page.filter_name == 'course' %} active{% endif %}"><a href="/blog/courses.html">Courses</a></li>
+    <li class="{% if page.filter_name == 'all' %} active{% endif %}"><a href="/blog">all</a></li>
+    <li class="{% if page.filter_name == 'conference' %} active{% endif %}"><a href="/blog/conference.html">conference</a></li> <li class="{% if page.filter_name == 'course' %} active{% endif %}"><a href="/blog/course.html">course</a></li> <li class="{% if page.filter_name == 'event' %} active{% endif %}"><a href="/blog/event.html">event</a></li> <li class="{% if page.filter_name == 'hackathon' %} active{% endif %}"><a href="/blog/hackathon.html">hackathon</a></li> <li class="{% if page.filter_name == 'npw' %} active{% endif %}"><a href="/blog/npw.html">npw</a></li> <li class="{% if page.filter_name == 'protocol' %} active{% endif %}"><a href="/blog/protocol.html">protocol</a></li> <li class="{% if page.filter_name == 'workshop' %} active{% endif %}"><a href="/blog/workshop.html">workshop</a></li>
   </ul>
 </div>

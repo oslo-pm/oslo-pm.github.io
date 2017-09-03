@@ -3,8 +3,8 @@ layout: post
 title: "November coding geek/beer-out"
 date: 2014-11-05 00:54:37 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Nov 5 19:30

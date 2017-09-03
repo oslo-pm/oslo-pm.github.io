@@ -3,8 +3,8 @@ layout: post
 title: "September meetup at Crow Bar - YAPC, osdc.no, NPW"
 date: 2014-09-02 13:47:36 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Sep 3 18:30

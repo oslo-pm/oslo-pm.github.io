@@ -3,8 +3,8 @@ layout: post
 title: "May meetup - $beverage and chat with a side order of Mojoconf info"
 date: 2014-05-05 16:10:57 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: May 7 18:30

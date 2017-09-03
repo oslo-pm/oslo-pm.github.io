@@ -3,8 +3,8 @@ layout: post
 title: "Festforedrag med Damian Conway: Fifty Shades of Perl"
 date: 2015-02-24 12:28:45 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 3 18:00

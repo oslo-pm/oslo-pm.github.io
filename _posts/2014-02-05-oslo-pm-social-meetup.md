@@ -3,8 +3,8 @@ layout: post
 title: "Oslo.pm social meetup"
 date: 2014-01-24 13:33:44 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Feb 5 19:00

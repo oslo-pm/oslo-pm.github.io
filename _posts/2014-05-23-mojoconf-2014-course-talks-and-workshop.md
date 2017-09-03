@@ -3,8 +3,8 @@ layout: post
 title: "Mojoconf 2014 - Course, Talks and Workshop"
 date: 2014-03-21 12:21:50 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: May 23 09:00

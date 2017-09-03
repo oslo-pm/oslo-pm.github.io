@@ -3,8 +3,8 @@ layout: post
 title: "January-beer"
 date: 2017-01-04 13:33:26 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jan 4 18:30

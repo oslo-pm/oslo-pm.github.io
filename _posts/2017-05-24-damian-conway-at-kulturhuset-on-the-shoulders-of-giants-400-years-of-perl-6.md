@@ -3,8 +3,8 @@ layout: post
 title: "Damian Conway at kulturhuset: On the Shoulders of Giants: 400 Years of Perl 6"
 date: 2017-05-22 12:59:54 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: May 24 18:00

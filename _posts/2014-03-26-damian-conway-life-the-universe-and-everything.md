@@ -3,8 +3,8 @@ layout: post
 title: "Damian Conway - Life, the Universe, and Everything"
 date: 2014-03-07 10:37:22 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Mar 26 18:00

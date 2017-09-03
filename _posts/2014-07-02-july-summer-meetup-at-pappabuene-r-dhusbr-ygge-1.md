@@ -3,8 +3,8 @@ layout: post
 title: "July summer meetup at Pappabuene, Rådhusbr­ygge 1"
 date: 2014-07-01 14:28:53 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jul 2 18:30

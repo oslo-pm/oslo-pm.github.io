@@ -3,8 +3,8 @@ layout: post
 title: "Perl6 workshop: Hvordan sette opp NativeCall til C-bibliotek"
 date: 2015-01-20 19:07:50 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Feb 4 18:30

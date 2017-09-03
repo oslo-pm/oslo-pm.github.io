@@ -3,8 +3,8 @@ layout: post
 title: "May Meetup: Beer, osdc.no, etc."
 date: 2015-05-04 20:18:51 +0200
 published: True
-categories: meetup
-tags: meetup conference osdc
+categories: event
+tags: event conference osdc
 ---
 
 * When: May 6 18:30

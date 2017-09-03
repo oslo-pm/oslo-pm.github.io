@@ -3,8 +3,8 @@ layout: post
 title: "Perl $beverage April"
 date: 2014-04-01 18:16:39 +0200
 published: True
-categories: meetup
-tags: meetup conference mojo
+categories: event
+tags: event conference mojolicious
 ---
 
 * When: Apr 2 18:30

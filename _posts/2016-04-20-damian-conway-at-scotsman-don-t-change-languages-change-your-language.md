@@ -3,8 +3,8 @@ layout: post
 title: "Damian Conway at Scotsman: Don't change languages. Change your language!"
 date: 2016-04-06 09:20:45 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Apr 20 18:00

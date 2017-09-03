@@ -3,8 +3,8 @@ layout: post
 title: "Oslo.pm talk:  Dependency hell? Deployment woes? No problem."
 date: 2017-04-03 10:51:10 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Apr 5 18:30

@@ -3,8 +3,8 @@ layout: post
 title: "Social event - After conference social meetup"
 date: 2014-05-24 10:54:17 +0200
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: May 24 18:30

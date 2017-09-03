@@ -3,8 +3,8 @@ layout: post
 title: "Oslo.pm January meetup: Talks at Teknologihuset"
 date: 2015-12-03 09:19:19 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jan 6 18:30

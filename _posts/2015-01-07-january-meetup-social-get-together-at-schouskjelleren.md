@@ -3,8 +3,8 @@ layout: post
 title: "January meetup: Social get-together at Schouskjelleren"
 date: 2015-01-05 16:06:11 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Jan 7 18:30

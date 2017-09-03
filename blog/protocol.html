@@ -1,0 +1,16 @@
+---
+layout: default
+title: Entries by "protocol"
+filter_name: protocol
+canonical_url: http://oslo.pm/blog/
+---
+
+{% include blog_menu.html %}
+
+{% assign index = true %}
+{% for i in (0..9) %}
+  {% assign page = site.tags.protocol[i] %}
+  {% if page %}
+    {% include post.html %}
+  {% endif %}
+{% endfor %}

@@ -3,8 +3,8 @@ layout: post
 title: "Diskutere diverse perl og osdc.no"
 date: 2014-11-19 17:38:05 +0100
 published: True
-categories: meetup
-tags: meetup
+categories: event
+tags: event
 ---
 
 * When: Nov 26 18:30
