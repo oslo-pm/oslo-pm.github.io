@@ -4,8 +4,7 @@ layout: default
 
 # Velkommen til Oslo Perl Mongers!
 
-Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i
-programmeringsspråket Perl.
+Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i programmeringsspråket Perl, CPAN, verktøyene som finnes der og Open Source-samfunnene rundt disse. Vi organiserer fagtreff, sosiale samlinger, hackathons, konferanser og mer.
 
 <a href="/about">Les mer »</a>
 
