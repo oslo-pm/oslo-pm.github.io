@@ -11,7 +11,8 @@ social:
   - https://www.facebook.com/groups/oslo.pm
   - https://www.meetup.com/Oslo-pm
 
-# url: oslo.pm
+paginate: 10
+paginate_path: "/blog/all/page:num"
 
 permalink: /:year/:month/:day/:title.html
 destination: ./_site
@@ -19,5 +20,6 @@ plugins:
 - jekyll-feed
 - jekyll-redirect-from
 - jekyll-relative-links
+- jekyll-paginate
 - jekyll-seo-tag
 - jekyll-titles-from-headings
