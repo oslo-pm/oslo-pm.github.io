@@ -1,4 +1,8 @@
+{% if index %}
+<div class="entry --in-list">
+{% else %}
 <div class="entry">
+{% endif %}
   <article class="entry-content">
     <header>
       <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>

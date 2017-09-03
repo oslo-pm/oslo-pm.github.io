@@ -1,7 +1,10 @@
 .entry {
   overflow: auto;
   margin: 1rem 0;
-  border-top: 1px solid #e7e7e7;
+
+  &.--in-list {
+    border-top: 1px solid #e7e7e7;
+  }
 
   .entry-date {
     padding: 30px 0 0 0;
@@ -23,14 +26,9 @@
 
     img {
       max-height: 300px;
-      margin: 10px;
+      margin: 10px 0;
       max-width: 100%;
       display: block;
-
-      &:first-child {
-        float: right;
-        margin: 0 0 1rem 1rem;
-      }
     }
   }
 
