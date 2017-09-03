@@ -5,7 +5,11 @@
 {% endif %}
   <article class="entry-content">
     <header>
+      {% if heading %}
+      <{{heading}} class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></{{heading}}>
+      {% else %}
       <h1 class="entry-title"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+      {% endif %}
       <p class="entry-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.category %} • Category: {{ page.category|capitalize }}{% endif %}</p>
     </header>
 

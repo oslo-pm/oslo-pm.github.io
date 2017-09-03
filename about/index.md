@@ -7,9 +7,11 @@ redirect_from:
 
 # Velkommen til Oslo Perl Mongers!
 
-Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i programmeringsspråket Perl.
-Vi tilbyr en møteplass for både nybegynnere og erfarne, og vi arrangerer jevnlig sammenkomster, foredrag og seminarer.
-Hos oss finner du et godt sosialt miljø for og med medlemmene, og muligheten til å møte likesinnede.
+Oslo.pm er en uformell faglig-sosial forening for alle som er interessert i
+programmeringsspråket Perl.  Vi tilbyr en møteplass for både nybegynnere og
+erfarne, og vi arrangerer jevnlig sammenkomster, foredrag og seminarer.  Hos
+oss finner du et godt sosialt miljø for og med medlemmene, og muligheten til å
+møte likesinnede.
 
 Ønsker du å få kontakt med andre Perl-folk kan du komme på våre medlemsmøter.
 I tillegg finnes IRC-kanalene [#perl.no på EFNet](http://mibbit.com/?channel=%23perl.no&server=irc.umich.edu) og [#oslo.pm på PerlNet](http://mibbit.com/?channel=%23oslo.pm&server=irc.perl.org) for de som vil chatte, og en egen lavtrafikk moderert [annonseringsliste](http://mail.pm.org/mailman/listinfo/oslo) for de som ønsker å holde seg informert om Oslo.pm sine aktiviteter.
