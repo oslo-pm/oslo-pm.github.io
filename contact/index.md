@@ -12,9 +12,9 @@ redirect_from:
 ## Mail address
 
 Oslo Perl Mongers (Oslo.pm)
-<br>Att.: Salve J. Nilsen
-<br>St. Olavs gate 11C
-<br>0165 Oslo
+<br>Att.: Arne O. Sommer
+<br>Åsliveien 9A
+<br>1178 Oslo
 <br>Norway
 
 ## Email
