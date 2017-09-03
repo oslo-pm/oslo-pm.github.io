@@ -1,6 +1,6 @@
 ---
 layout: default
-filter_name: all
+filter_name: event
 ---
 
 # 🇳🇴 Velkommen til Oslo Perl Mongers!
@@ -20,6 +20,6 @@ Oslo.pm is an informal technical community open to all who are interested in the
 {% assign index = true %}
 {% assign heading = "h3" %}
 {% for i in (0..2) %}
-  {% assign page = site.posts[i] %}
+  {% assign page = site.tags.event[i] %}
   {% include post.html %}
 {% endfor %}
