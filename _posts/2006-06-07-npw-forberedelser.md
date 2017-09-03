@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Neste medlemsm&oslash;te i Oslo.pm
+tags: conference
 ---
 <p>Oslo.pm forbereder <a href="http://www.perlworkshop.no/npw2006/">Nordic Perl Workshop 2006</a> på
 medlemsmøte onsdag 7. juni 2006, klokken 18:00. Oppmøte på

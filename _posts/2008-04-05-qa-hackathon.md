@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Oslo.pm arrangerer QA hackathon!
+tags: conference hackathon qa
 ---
 <p>Vi har invitert kjernemedlemmer i Perl sitt Quality Assurance
 miljø til Oslo!</p>
