@@ -2,17 +2,13 @@
 layout: default
 title: Oslo.pm conferences
 filter_name: conferences
-paginate:
-  permalink: /conferences/page:num
-  title_suffix: " - page :num"
-  tags: [conference]
 ---
 
 {% include blog_menu.html %}
 
 <div>
   {% assign index = true %}
-  {% for post in paginator.posts %}
+  {% for post in site.tags.conference %}
     {% assign page = post %}
     {% include post.html %}
   {% endfor %}
