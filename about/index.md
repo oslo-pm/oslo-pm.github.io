@@ -1,8 +1,7 @@
 ---
-title: Oslo.pm
+title: About
 layout: default
 redirect_from:
-- /about
 - /om
 ---
 
@@ -26,6 +25,4 @@ Foreningens aktiviteter er basert i medlemmenes innsats, og alle som ønsker å 
 
 Alle er selvfølgelig hjertelig velkommen på sammenkomstene våre - [første onsdag i måneden](https://www.meetup.com/Oslo-pm/).
 
-{% if site.data.meetup.results[0].time / 1000 > site.time | date: '%s' %}
 Neste møte er [{{site.data.meetup.results[0].time | divided_by: 1000 | date: '%-d %b %Y %R'}}]({{site.data.meetup.results[0].event_url}}).
-{% endif %}

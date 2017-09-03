@@ -6,10 +6,8 @@ filter_name: meetup
 
 {% include blog_menu.html %}
 
-<div>
-  {% assign index = true %}
-  {% for post in site.tags.meetup %}
-    {% assign page = post %}
-    {% include post.html %}
-  {% endfor %}
-</div>
+{% assign index = true %}
+{% for post in site.tags.meetup %}
+  {% assign page = post %}
+  {% include post.html %}
+{% endfor %}

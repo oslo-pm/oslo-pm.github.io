@@ -6,10 +6,8 @@ filter_name: conference
 
 {% include blog_menu.html %}
 
-<div>
-  {% assign index = true %}
-  {% for post in site.tags.conference %}
-    {% assign page = post %}
-    {% include post.html %}
-  {% endfor %}
-</div>
+{% assign index = true %}
+{% for post in site.tags.conference %}
+  {% assign page = post %}
+  {% include post.html %}
+{% endfor %}

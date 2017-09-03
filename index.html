@@ -1,13 +1,11 @@
 ---
 layout: default
-title: Oslo.pm training and courses
-filter_name: course
 ---
 
 {% include blog_menu.html %}
 
 {% assign index = true %}
-{% for post in site.tags.course %}
-  {% assign page = post %}
+{% for i in (1..5) %}
+  {% assign page = site.posts[i] %}
   {% include post.html %}
 {% endfor %}
