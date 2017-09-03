@@ -1,0 +1,16 @@
+---
+layout: default
+title: All entries in a list
+filter_name: all
+---
+
+{% include blog_menu.html %}
+
+<ul class="entries-list">
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>{{ post.date | date: "%b %-d, %Y" }}</small>
+  </li>
+{% endfor %}
+</ul>

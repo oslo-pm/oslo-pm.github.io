@@ -55,24 +55,29 @@ sub make_filter {
 layout: default
 title: Entries by "$tag"
 filter_name: $tag
-canonical_url: http://oslo.pm/blog/
+canonical_url: http://oslo.pm/blog/list.html
 ---
 
 {% include blog_menu.html %}
 
 {% assign index = true %}
-{% for i in (0..4) %}
+{% for i in (0..2) %}
   {% assign page = site.tags.$tag\[i\] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
 {% endfor %}
 
-{% for i in (5..100) %}
+{% for i in (3..100) %}
+  {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
   {% assign page = site.tags.$tag\[i\] %}
   {% if page %}
-    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+      <small>{{ page.date | date: "%b %-d, %Y" }}
+    </li>
   {% endif %}
+  {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 HERE
 }
