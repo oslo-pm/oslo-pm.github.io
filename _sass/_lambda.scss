@@ -1,0 +1,86 @@
+body {
+  padding-bottom: 40px;
+}
+
+caption, th {
+  text-align: left;
+}
+
+q {
+  &:before, &:after {
+    content: '';
+  }
+}
+
+abbr, acronym {
+  border: 0;
+  font-variant: normal;
+}
+
+hr {
+  border-bottom: 1px solid $border-color;
+  border-top-style: none;
+}
+
+table {
+  line-height: 20px;
+  width: 100%;
+  border: 1px solid $border-color;
+  td, th {
+    border: 1px solid $border-color;
+  }
+  td {
+    padding: 3px 6px;
+  }
+  th {
+    padding: 3px 6px;
+    font-weight: bold;
+  }
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid $border-color;
+  margin: 0.5em 0;
+  padding: 0.5em 10px;
+  quotes: "“" "”" "‘" "’";
+  p {
+    display: inline;
+  }
+}
+
+.gist {
+  font-size: 14px;
+}
+
+/* terminal */
+
+.post pre.terminal code {
+  background-color: #333;
+}
+
+@media all and (max-width: 550px) {
+  .wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .main-header {
+    margin-top: $gutter;
+    .links {
+      a {
+        margin-right: 2px;
+        font-size: 14px;
+      }
+      .github-link {
+        float: none;
+        img {
+          display: none;
+        }
+      }
+    }
+  }
+}
+
+.highlight {
+  margin: 10px 0;
+}

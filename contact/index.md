@@ -9,8 +9,6 @@ redirect_from:
 
 # Contact information
 
-## Mail address
-
 Oslo Perl Mongers (Oslo.pm)
 <br>Att.: Arne O. Sommer
 <br>Åsliveien 9A

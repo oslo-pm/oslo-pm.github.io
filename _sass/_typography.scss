@@ -1,0 +1,68 @@
+a {
+  text-decoration: underline;
+  color: $link-color;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+p {
+  line-height: $line-height;
+  margin: $gutter 0;
+  text-rendering: optimizeLegibility;
+}
+
+figure p {
+  margin: 0;
+}
+
+sup { vertical-align: text-top; }
+sub { vertical-align: text-bottom; }
+legend { color: $text-color; }
+
+small {
+  font-size: 0.9rem;
+  @include media("<=small"){
+    font-size: 0.8rem;
+  }
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  margin-top: 0.4em;
+  margin-bottom: 0.5em;
+  line-height: 1.3rem;
+}
+
+h1 { font-size: map-get($header-sizes, h1); }
+h2 { font-size: map-get($header-sizes, h2); }
+h3 { font-size: map-get($header-sizes, h3); }
+h4 { font-size: map-get($header-sizes, h4); }
+
+h1, h2, h3, h4 {
+  a {
+    text-decoration: none;
+    color: $text-color;
+
+    &:hover { text-decoration: underline; }
+  }
+}
+
+h1, h2, h3, h4, .links {
+  font-family: "Open Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  line-height: $line-height;
+}
+
+ul, ol {
+  margin: $gutter 0;
+  padding-left: 1.2rem;
+
+  li {
+    margin: 0.1rem 0;
+    line-height: $line-height;
+  }
+}

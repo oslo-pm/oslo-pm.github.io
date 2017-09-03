@@ -1,0 +1,58 @@
+.entry {
+  overflow: auto;
+  margin: 1rem 0;
+  border-top: 1px solid #e7e7e7;
+
+  .entry-date {
+    padding: 30px 0 0 0;
+    font-size: 12px;
+    color: #707070;
+    width: 195px;
+    text-indent: 25px;
+    display: none;
+  }
+
+  .entry-meta {
+    font-size: 12px;
+    color: #707070;
+  }
+
+  .entry-content {
+    width: 100%;
+    overflow: hidden;
+
+    img {
+      max-height: 300px;
+      margin: 10px;
+      max-width: 100%;
+      display: block;
+
+      &:first-child {
+        float: right;
+        margin: 0 0 1rem 1rem;
+      }
+    }
+  }
+
+  pre {
+    code {
+      border: 0;
+      padding-right: 0;
+      padding-left: 0;
+      font-size: 14px;
+    }
+    line-height: 18px;
+    background: #fafafa;
+    padding: 10px 12px;
+    border-radius: 5px;
+    overflow: auto;
+    &.terminal {
+      border: 1px solid #000;
+      background-color: #333;
+      color: #FFF;
+      -webkit-border-radius: 3px;
+      -moz-border-radius: 3px;
+      border-radius: 3px;
+    }
+  }
+}

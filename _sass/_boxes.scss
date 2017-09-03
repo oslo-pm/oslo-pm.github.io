@@ -1,0 +1,127 @@
+.wrapper {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 0 $gutter * 2;
+}
+
+.main-header {
+  padding-bottom: 25px;
+  border-bottom: 2px solid black;
+  margin: $gutter * 2 auto $gutter * 2 auto;
+
+  .site-title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: normal;
+    vertical-align: middle;
+    a {
+      color: $text-color;
+      text-decoration: none;
+    }
+    img {
+      max-height: 80px;
+      position: relative;
+      top: -10px;
+      float: right;
+      vertical-align: top;
+    }
+    a {
+      vertical-align: middle;
+    }
+  }
+
+  .links {
+    margin-top: 5px;
+    font-size: 16px;
+    vertical-align: middle;
+    line-height: normal;
+    color: #777;
+    padding-left: 1px;
+    a {
+      text-decoration: none;
+      color: #777;
+      font-weight: 600;
+      margin-right: 10px;
+      &:hover {
+        text-decoration: underline;
+      }
+      &.active {
+        color: #444;
+      }
+    }
+  }
+}
+
+.site-footer {
+  margin: 3rem 0 1rem 0;
+  overflow: hidden;
+  color: #444;
+  font-size: 13px;
+  line-height: 1.2rem;
+
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin: 0;
+    list-style: none;
+  }
+  h4, a {
+    color: #444;
+    font-size: 13px;
+  }
+  .column {
+    width: 50%;
+    float: left;
+  }
+}
+
+.paginator {
+  font-weight: bold;
+  text-align: center;
+  border-top: 1px solid $border-color;
+  padding-top: 1rem;
+  margin: 3rem 0;
+  overflow: hidden;
+  .__prev, .__current, .__next {
+    display: block;
+    color: #444;
+    text-decoration: none;
+  }
+  .__prev {
+    float: right;
+  }
+  .__next {
+    float: left;
+  }
+}
+
+.blog-menu {
+  overflow: hidden;
+  margin: 0.5rem 0;
+  ul {
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-right: 0.5rem;
+    display: inline;
+  }
+  a {
+    text-decoration: none;
+  }
+  li.active a {
+    color: #222;
+    text-decoration: underline;
+  }
+}
+
+iframe.google-maps {
+  border: 1px solid #aaa;
+  margin: 1rem 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 280px;
+}
