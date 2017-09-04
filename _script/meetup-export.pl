@@ -14,9 +14,9 @@ use Time::Piece;
 #
 
 my $overwrite = grep {/^-f/} @ARGV;
-$ENV{OPM_MEETUP_FILE} = '_data/meetup.json';
+my $meetup_file = '_data/meetup.json';
 
-unless (-e $ENV{OPM_MEETUP_FILE}) {
+unless (-e $meetup_file) {
   my $data
     = Mojo::UserAgent->new->max_redirects(3)
     ->get('https://api.meetup.com/2/events?group_urlname=Oslo-pm&status=past,upcoming&desc=desc')
@@ -26,10 +26,10 @@ unless (-e $ENV{OPM_MEETUP_FILE}) {
   # It throws "found unknown escape character..."
   $data =~ s!\\\/!/!g;
 
-  path($ENV{OPM_MEETUP_FILE})->spurt($data);
+  path($meetup_file)->spurt($data);
 }
 
-my $json = Mojo::JSON::decode_json(path($ENV{OPM_MEETUP_FILE})->slurp);
+my $json = Mojo::JSON::decode_json(path($meetup_file)->slurp);
 for my $event (@{$json->{results}}) {
   my $ts      = localtime($event->{time} / 1000);
   my $created = localtime($event->{created} / 1000);
