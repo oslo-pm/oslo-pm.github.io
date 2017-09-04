@@ -1,7 +1,7 @@
 ---
-tags: events tech damian
-layout: post
 title: Temporally Quaquaversal Virtual Nanomachine Programming In Multiple Topologically Connected Quantum-Relativistic Parallel Spacetimes... Made Easy! (Damian Conway)
+layout: post
+tags: event tech damian
 ---
 <p>Damian Conway <a href="http://blogs.perl.org/users/damian_conway/2012/03/oslo-rocks-open-source.html">kommer til tigerstaden</a> og Oslo.pm inviterer til åpent foredrag! Tittelen på foredraget ser du ovenfor og om <a href="http://damian.conway.org/Seminars/Quaquaversal.html">beskrivelsen</a> er et tegn, så kommer dette til å bli moro!</p>
 

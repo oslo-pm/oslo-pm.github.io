@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Entries by "npw"
-filter_name: npw
+title: Entries by "perl6"
+filter_name: perl6
 canonical_url: http://oslo.pm/blog/list.html
 ---
 
@@ -9,7 +9,7 @@ canonical_url: http://oslo.pm/blog/list.html
 
 {% assign index = true %}
 {% for i in (0..2) %}
-  {% assign page = site.tags.npw[i] %}
+  {% assign page = site.tags.perl6[i] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
@@ -17,7 +17,7 @@ canonical_url: http://oslo.pm/blog/list.html
 
 {% for i in (3..100) %}
   {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
-  {% assign page = site.tags.npw[i] %}
+  {% assign page = site.tags.perl6[i] %}
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>

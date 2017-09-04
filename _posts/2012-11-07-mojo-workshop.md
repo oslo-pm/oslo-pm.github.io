@@ -1,7 +1,7 @@
 ---
-tags: events tech
-layout: post
 title: Mojo hands-on tutorial
+layout: post
+tags: event tech
 ---
 <p>Wednesday Movember 7th, we&#39;ll be building a real time web application in the
 Mojolicious framework! :)</p>

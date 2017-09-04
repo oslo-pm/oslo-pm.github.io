@@ -4,7 +4,7 @@ title: "Damian Conway: Everyday Perl 6"
 date: 2015-02-24 12:38:51 +0100
 published: True
 categories: event
-tags: event talk
+tags: event tech
 ---
 
 * When: Mar 4 18:30

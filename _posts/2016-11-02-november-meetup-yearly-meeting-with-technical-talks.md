@@ -4,7 +4,7 @@ title: "November meetup, yearly meeting with technical talks"
 date: 2016-10-04 10:56:59 +0100
 published: True
 categories: event
-tags: event talk board
+tags: event tech board
 ---
 
 * When: Nov 2 18:00

@@ -4,7 +4,7 @@ title: "Oslo.pm January meetup: Talks at Teknologihuset"
 date: 2015-12-03 09:19:19 +0100
 published: True
 categories: event
-tags: event talk
+tags: event tech
 ---
 
 * When: Jan 6 18:30

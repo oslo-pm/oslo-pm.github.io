@@ -5,37 +5,42 @@ use Mojo::File 'path';
 use Mojo::JSON 'encode_json';
 use Mojo::Util 'trim';
 
-my %skip = (
+my %hidden = (
   damian      => 1,
   mojoconf    => 1,
   mojolicious => 1,
   npw         => 1,
   osdc        => 1,
+  perl6       => 1,
   qa          => 1,
+  social      => 1,
+  szabgab     => 1,
   tempire     => 1,
 );
 
-my (@li, %tags);
+my (@li, %data);
 
 path('_posts')->list->each(
   sub {
     open my $POST, '<', $_ or die $!;
     while (<$POST>) {
       next unless /tags:(.*)/;
-      $skip{$_} or $tags{$_}++ for split /\s+/, trim $1;
+      ++$data{n_of}{$_} for split /\s+/, trim $1;
       last;
     }
   }
 );
 
-for my $tag (sort keys %tags) {
-  say "$tag = $tags{$tag}";
+for my $tag (sort keys %{$data{n_of}}) {
+  push @{$data{all}}, $tag;
+  say "$tag = $data{n_of}{$tag}";
   path("blog/$tag.html")->spurt(make_filter($tag));
+  next if $hidden{$tag};
   push @li,
     qq(<li class="{% if page.filter_name == '$tag' %} active{% endif %}"><a href="/blog/$tag.html">$tag</a></li>);
 }
 
-path('_data/tags.json')->spurt(encode_json({n_of => \%tags, tags => [sort keys %tags]}), "\n");
+path('_data/tags.json')->spurt(encode_json \%data);
 
 path('_includes/blog_menu.html')->spurt(<<"HERE");
 <div class="blog-menu">

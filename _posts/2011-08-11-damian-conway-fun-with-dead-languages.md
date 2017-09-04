@@ -1,7 +1,7 @@
 ---
-tags: events tech damian
-layout: post
 title: Fun with dead languages (Damian Conway)
+layout: post
+tags: event tech damian
 ---
 <p>Damian Conway <a href="http://blogs.perl.org/users/damian_conway/2011/06/visiting-oslo.html">kommer til tigerstaden</a> og sammen med <a href="http://ifi.uio.no/">Institutt for informatikk</a> inviterer Oslo.pm til åpent foredrag! Tittelen på foredraget er <em>Fun with dead languages</em> og om <a href="http://damian.conway.org/Seminars/DeadLanguages.html">beskrivelsen av foredraget hans</a> er et tegn, så kommer dette til å bli moro!</p>
 
