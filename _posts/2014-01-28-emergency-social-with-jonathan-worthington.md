@@ -2,14 +2,18 @@
 layout: post
 title: "Emergency social with Jonathan Worthington"
 date: 2014-01-24 12:11:48 +0100
+when: 2014-01-28T18:00:00 +0100
+where: "Crowbar / Kråka, Torggata 32"
+maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/162287772/"
 published: True
 categories: event
 tags: event
 ---
 
-* When: Jan 28 18:00
-* Where: [Crowbar / Kråka, Torggata 32](https://maps.google.com/maps?f=q&hl=en&q=Torggata+32%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/162287772/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 Jonathan Worthington of Perl 6 fame is in Oslo, and wouldn&#39;t mind a beer/soda and some grub while in town. 
 
@@ -19,4 +23,4 @@ Jonathan Worthington: <a href="http://www.jnthn.net/"><a class="linkified" href=
 
 Perl6 blog: <a href="http://6guts.wordpress.com/"><a class="linkified" href="http://6guts.wordpress.com/">http://6guts.wordpress.com/</a></a>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Torggata+32%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

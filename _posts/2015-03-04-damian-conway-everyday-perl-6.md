@@ -2,14 +2,18 @@
 layout: post
 title: "Damian Conway: Everyday Perl 6"
 date: 2015-02-24 12:38:51 +0100
+when: 2015-03-04T18:30:00 +0100
+where: "Teknologihuset, Pilestredet 56"
+maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/220726684/"
 published: True
 categories: event
 tags: event tech
 ---
 
-* When: Mar 4 18:30
-* Where: [Teknologihuset, Pilestredet 56](https://maps.google.com/maps?f=q&hl=en&q=Pilestredet+56%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/220726684/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 Perl 6 is a computer scientist’s dream come true. Its many advanced features (junctions, multiple dispatch, generics, delegation, grammars, lazy evaluation, infinite lists, hyperoperators, first class functions, coroutines, partial function application, macros, metadata, etc., etc.) offer the elite überhacker entirely new levels of awesome cosmic power.
 
@@ -17,7 +21,7 @@ Perl 6 is a computer scientist’s dream come true. Its many advanced features (
 
 For most Perl developers, the real and immediate benefit of using Perl 6 is this new (but eerily familiar) programming language just plain eliminates most of the minor annoyances and frustrations that plague our everyday coding.
 
-If you’ve ever mistyped a sigil, miscounted a subroutine’s parameters, mis-used the spooky action-at-a-distance of $\_, mis-sorted a numeric list, mis-indented a heredoc, mis-interpolated a variable, mis-typed a regex, or simply misunderstood a sequence of nested subroutine calls, Perl 6 has a kinder, gentler solution for you.
+If you’ve ever mistyped a sigil, miscounted a subroutine’s parameters, mis-used the spooky action-at-a-distance of $_, mis-sorted a numeric list, mis-indented a heredoc, mis-interpolated a variable, mis-typed a regex, or simply misunderstood a sequence of nested subroutine calls, Perl 6 has a kinder, gentler solution for you.
 
 This talk explores some of the most useful, convenient, and un-scary ways in which Perl 6 improves on Perl 5 and offers a dozen practical reasons why Perl 6 might now be a better choice as your everyday go-to problem-solver.<b><br></b>
 
@@ -33,4 +37,4 @@ Om dette gir mersmak, så kommer også hovedutvikleren av MoarVM (Perl 6 sin vir
 
 <br><b>Arrangementene er gratis og åpen for alle!</b>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Pilestredet+56%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

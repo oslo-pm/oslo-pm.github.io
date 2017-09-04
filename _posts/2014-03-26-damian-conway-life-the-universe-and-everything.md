@@ -2,14 +2,18 @@
 layout: post
 title: "Damian Conway - Life, the Universe, and Everything"
 date: 2014-03-07 10:37:22 +0100
+when: 2014-03-26T18:00:00 +0100
+where: "Scotsman, 2. etg, Karl Johansgt 17"
+maps_query: "Karl%20Johansgt%2017%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/169953522/"
 published: True
 categories: event
 tags: event
 ---
 
-* When: Mar 26 18:00
-* Where: [Scotsman, 2. etg, Karl Johansgt 17](https://maps.google.com/maps?f=q&hl=en&q=Karl+Johansgt+17%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/169953522/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <img src="http://photos2.meetupstatic.com/photos/event/6/7/d/6/600_339386582.jpeg">
 
@@ -39,4 +43,4 @@ Doors open at 17:00-ish for those who want to come early to get good seating and
 
 <a class="embedded" href="https://www.youtube.com/watch?v=ZpInOI4o2LY">https://www.youtube.com/watch?v=ZpInOI4o2LY</a>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Karl+Johansgt+17%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

@@ -2,14 +2,18 @@
 layout: post
 title: "Nordic Perl Workshop 2015 at OSDC.no"
 date: 2015-04-18 14:17:45 +0200
+when: 2015-05-09T09:30:00 +0200
+where: "Simula, Ole-Johan Dahls hus, Gaustadaleen 23B"
+maps_query: "Gaustadaleen%2023B%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/221930064/"
 published: True
 categories: event
 tags: event conference npw
 ---
 
-* When: May 9 09:30
-* Where: [Simula, Ole-Johan Dahls hus, Gaustadaleen 23B](https://maps.google.com/maps?f=q&hl=en&q=Gaustadaleen+23B%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/221930064/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <img src="http://photos1.meetupstatic.com/photos/event/9/4/6/5/600_436417989.jpeg">
 
@@ -33,4 +37,4 @@ The schedule is Very cool, with plenty of interesting Perl-related topics, and q
 
 Oh, and the conference promo code? It&#39;s &quot;OpenSourceFTW&quot; :)
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Gaustadaleen+23B%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

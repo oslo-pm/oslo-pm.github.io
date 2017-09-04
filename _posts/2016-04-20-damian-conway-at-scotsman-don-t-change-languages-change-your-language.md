@@ -2,14 +2,18 @@
 layout: post
 title: "Damian Conway at Scotsman: Don't change languages. Change your language!"
 date: 2016-04-06 09:20:45 +0200
+when: 2016-04-20T18:00:00 +0200
+where: "Scotsman, 2. etg, Karl Johansgt 17"
+maps_query: "Karl%20Johansgt%2017%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/230165754/"
 published: True
 categories: event
 tags: event tech
 ---
 
-* When: Apr 20 18:00
-* Where: [Scotsman, 2. etg, Karl Johansgt 17](https://maps.google.com/maps?f=q&hl=en&q=Karl+Johansgt+17%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/230165754/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 The brilliant speaker and instructor Damian Conway is back in Oslo!
 
@@ -35,4 +39,4 @@ Entrance is free and open for all. Food and drinks will be sold at the bar. If 
 
 <br>There will also be a talk by Damian on Friday the 22nd: <a href="http://www.meetup.com/Oslo-pm/events/230167281/">Damian Conway at UiO: Perl 6 - More Concurrency, Less Contusion</a>.
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Karl+Johansgt+17%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

@@ -2,14 +2,18 @@
 layout: post
 title: "November coding geek/beer-out"
 date: 2014-11-05 00:54:37 +0100
+when: 2014-11-05T19:30:00 +0100
+where: "Handverkerstuene, Rosenkrantzgt. 7,  (entr. Kristian IV's gt.)"
+maps_query: "Rosenkrantzgt.%207%2C%20%20%28entr.%20Kristian%20IV%27s%20gt.%29%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/217674462/"
 published: True
 categories: event
 tags: event
 ---
 
-* When: Nov 5 19:30
-* Where: [Handverkerstuene, Rosenkrantzgt. 7,  (entr. Kristian IV's gt.)](https://maps.google.com/maps?f=q&hl=en&q=Rosenkrantzgt.+7%2C++%28entr.+Kristian+IV%27s+gt.%29%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/217674462/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 November beer &amp; geekery!
 
@@ -19,4 +23,4 @@ OSDC is open for *all* kind of Open Source communities, technical communities an
 
 <br>If you can&#39;t find us, call Salve on[masked] 35.
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Rosenkrantzgt.+7%2C++%28entr.+Kristian+IV%27s+gt.%29%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

@@ -2,14 +2,18 @@
 layout: post
 title: "August meetup at Gaasa, Storgata 36"
 date: 2014-08-05 09:39:48 +0200
+when: 2014-08-06T18:30:00 +0200
+where: "Gaasa, Storgata 36B"
+maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
+event_url: "https://www.meetup.com/Oslo-pm/events/199092482/"
 published: True
 categories: event
 tags: event conference osdc
 ---
 
-* When: Aug 6 18:30
-* Where: [Gaasa, Storgata 36B](https://maps.google.com/maps?f=q&hl=en&q=Storgata+36B%2C+Oslo%2C+NO)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/199092482/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 We&#39;ll find an outside table and talk about upcoming Perl events and whatever else tickles our fancies.
 
@@ -19,4 +23,4 @@ Also, <a href="http://blogs.perl.org/users/neilb/2014/07/cpan-day---14th-august.
 
 Interested? Come join us!
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Storgata+36B%2C+Oslo%2C+NO&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

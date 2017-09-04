@@ -2,14 +2,18 @@
 layout: post
 title: "Perl Programming Masterclass w/Damian Conway"
 date: 2014-03-16 17:28:00 +0100
+when: 2014-03-24T09:00:00 +0100
+where: "TBD"
+maps_query: "Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/171571562/"
 published: True
 categories: event
 tags: course damian
 ---
 
-* When: Mar 24 09:00
-* Where: [TBD](https://maps.google.com/maps?f=q&hl=en&q=Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/171571562/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 This class explores a range of advanced programming techniques, that are especially suited to Perl development.
 
@@ -57,4 +61,4 @@ This course is organized by Oslo Perl Mongers in cooperation with Damian Conway 
 
 For more information and signup instructions, see <a class="linkified" href="http://oslo.pm.org/kurs.shtml">http://oslo.pm.org/kurs.shtml</a>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

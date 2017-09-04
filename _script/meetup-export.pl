@@ -3,7 +3,7 @@ use Mojo::Base -strict;
 
 use Mojo::File 'path';
 use Mojo::UserAgent;
-use Mojo::Util 'trim';
+use Mojo::Util qw(trim url_escape);
 use Time::Piece;
 
 #
@@ -13,7 +13,6 @@ use Time::Piece;
 # Check out about/index.md and look for "site.data.meetup."
 #
 
-my $overwrite = grep {/^-f/} @ARGV;
 my $meetup_file = '_data/meetup.json';
 
 unless (-e $meetup_file) {
@@ -31,11 +30,10 @@ unless (-e $meetup_file) {
 
 my $json = Mojo::JSON::decode_json(path($meetup_file)->slurp);
 for my $event (@{$json->{results}}) {
-  my $ts      = localtime($event->{time} / 1000);
+  my $when    = localtime($event->{time} / 1000);
   my $created = localtime($event->{created} / 1000);
   my $offset  = sprintf '+%02s00', $event->{utc_offset} / 1000 / 3600;
-  my $when    = sprintf '%s %s %02s:%02s', $ts->month, $ts->mday, $ts->hour, $ts->minute;
-  my $maps    = Mojo::URL->new('https://maps.google.com/maps');
+  my $tags    = 'event';
   my $where   = join ', ',
     map { Mojo::Util::encode('UTF-8', $_) } grep {$_} $event->{venue}{name},
     $event->{venue}{address_1};
@@ -47,14 +45,23 @@ for my $event (@{$json->{results}}) {
 
   my $description = Mojo::DOM->new(Mojo::Util::html_unescape($event->{description}));
 
-  $maps->query(
-    f  => 'q',
-    hl => 'en',
-    q  => join(', ',
-      grep { defined $_ } $event->{venue}{address_1},
-      $event->{venue}{city}    || 'Oslo',
-      $event->{venue}{country} || 'no',
-    ),
+  my $file = lc $event->{name};
+  $file =~ s!\W+!-!g;
+  $file =~ s!\W+$!!;
+  $file =~ s!^\W+!!;
+  $file = path("_posts", sprintf '%s-%s.md', $when->ymd, $file);
+
+  if (-e $file) {
+    for my $line (split /\n/, $file->slurp) {
+      $tags = $1 if $line =~ /tags:\s*(.+)/;
+    }
+  }
+
+  my $maps_q = url_escape(
+    join ', ',
+    grep { defined $_ } $event->{venue}{address_1},
+    $event->{venue}{city}    || 'Oslo',
+    $event->{venue}{country} || 'no',
   );
 
   push @content, <<"HERE";
@@ -62,31 +69,23 @@ for my $event (@{$json->{results}}) {
 layout: post
 title: "$event->{name}"
 date: $created $offset
+when: @{[$when->datetime]} $offset
+where: "$where"
+maps_query: "$maps_q"
+event_url: "$event->{event_url}"
 published: True
 categories: event
-tags: event
+tags: $tags
 ---
 
-* When: $when
-* Where: [$where]($maps)
-* Join us at [Meetup]($event->{event_url})
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 HERE
 
   $description->find('p')->each(sub { push @content, trim($_[0]->content), "\n\n" });
-
-  $maps->query->remove($_) for qw(f hl);
-  $maps->query->param(key => 'AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y');
-  push @content, <<"HERE";
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=@{[$maps->query->to_string]}" width="600" height="300" frameborder="0" allowfullscreen></iframe>
-HERE
-
-  my $file = lc $event->{name};
-  $file =~ s!\W+!-!g;
-  $file =~ s!\W+$!!;
-  $file =~ s!^\W+!!;
-  $file = path("_posts", sprintf '%s-%s.md', $ts->ymd, $file);
-  next if -s $file and !$overwrite;
+  push @content, qq({% include maps.html %});
   say "$file ...";
   $file->spurt(join '', @content);
 }

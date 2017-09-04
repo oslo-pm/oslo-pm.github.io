@@ -2,14 +2,18 @@
 layout: post
 title: "September meetup: mi.Cro.services & Nordic Perl Workshop 2018"
 date: 2017-09-03 12:40:23 +0200
+when: 2017-09-06T18:30:00 +0200
+where: "Teknologihuset, Pilestredet 56"
+maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/243059077/"
 published: True
 categories: event
 tags: event conference
 ---
 
-* When: Sep 6 18:30
-* Where: [Teknologihuset, Pilestredet 56](https://maps.google.com/maps?f=q&hl=en&q=Pilestredet+56%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/243059077/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 Summer is over and it&#39;s time to talk about Perl again.
 
@@ -19,4 +23,4 @@ Summer is over and it&#39;s time to talk about Perl again.
 
 Afterwards we go out for a beer.
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Pilestredet+56%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

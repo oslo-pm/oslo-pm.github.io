@@ -2,14 +2,18 @@
 layout: post
 title: "November meetup, yearly meeting with technical talks"
 date: 2016-10-04 10:56:59 +0100
+when: 2016-11-02T18:00:00 +0100
+where: "Teknologihuset, Pilestredet 56"
+maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/234612511/"
 published: True
 categories: event
 tags: event tech board
 ---
 
-* When: Nov 2 18:00
-* Where: [Teknologihuset, Pilestredet 56](https://maps.google.com/maps?f=q&hl=en&q=Pilestredet+56%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/234612511/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 We start off with our yearly meeting, to elect our board and approve our accounts and budget.
 
@@ -25,4 +29,4 @@ Live-coding the Mojolicious Blog example using DBIx::TempDB
 
 <br>ca 20:00-20:30 We go out for beer and maybe some food.
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Pilestredet+56%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

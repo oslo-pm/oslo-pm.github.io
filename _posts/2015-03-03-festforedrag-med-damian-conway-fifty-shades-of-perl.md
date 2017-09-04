@@ -2,14 +2,18 @@
 layout: post
 title: "Festforedrag med Damian Conway: Fifty Shades of Perl"
 date: 2015-02-24 12:28:45 +0100
+when: 2015-03-03T18:00:00 +0100
+where: "The Scotsman, Karl Johans g 17, 0159 Oslo"
+maps_query: "Karl%20Johans%20g%2017%2C%200159%20Oslo%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/220726599/"
 published: True
 categories: event
 tags: event
 ---
 
-* When: Mar 3 18:00
-* Where: [The Scotsman, Karl Johans g 17, 0159 Oslo](https://maps.google.com/maps?f=q&hl=en&q=Karl+Johans+g+17%2C+0159+Oslo%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/220726599/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <img src="http://photos4.meetupstatic.com/photos/event/3/7/2/7/600_434654119.jpeg">
 
@@ -39,4 +43,4 @@ Uken etter kommer hovedutvikleren av Perl 6 sin virtuelle maskin (MoarVM) til Os
 
 <b>Vel møtt!</b>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Karl+Johans+g+17%2C+0159+Oslo%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

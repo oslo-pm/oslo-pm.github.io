@@ -2,14 +2,18 @@
 layout: post
 title: "Extraordinary annual meeting"
 date: 2014-03-05 13:27:10 +0100
+when: 2014-03-05T18:30:00 +0100
+where: "Teknologihuset, Pilestredet 56"
+maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/169551702/"
 published: True
 categories: event
 tags: event board
 ---
 
-* When: Mar 5 18:30
-* Where: [Teknologihuset, Pilestredet 56](https://maps.google.com/maps?f=q&hl=en&q=Pilestredet+56%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/169551702/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <b>Agenda for Extraordinary annual meeting March 5th 2014</b>
 
@@ -37,4 +41,4 @@ Welcome!
 
 Yours, Salve J. Nilsen, head of Oslo.pm 
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Pilestredet+56%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

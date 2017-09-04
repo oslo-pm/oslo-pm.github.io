@@ -2,14 +2,18 @@
 layout: post
 title: "Damian Conway at UiO: Perl 6 - More Concurrency, Less Contusion"
 date: 2016-04-06 12:23:10 +0200
+when: 2016-04-22T16:00:00 +0200
+where: "Large Auditorium, Kristen Nygaard's House, UiO, Gaustadalléen 23A"
+maps_query: "Gaustadall%E9en%2023A%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/230167281/"
 published: True
 categories: event
 tags: event tech
 ---
 
-* When: Apr 22 16:00
-* Where: [Large Auditorium, Kristen Nygaard's House, UiO, Gaustadalléen 23A](https://maps.google.com/maps?f=q&hl=en&q=Gaustadall%C3%A9en+23A%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/230167281/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 The renowned speaker, instructor and communicator, and co-designer of the Perl 6 language, Damian Conway, will hold a talk on Friday 22. April at UiO/USIT at 16:00. It will be at the large auditorium in Kristen Nygaards House (the old IFI building).
 
@@ -29,4 +33,4 @@ The talk is free of charge and open for all.
 
 On the Wednesday before, Damian will hold a talk for the Oslo Perl Mongers: <a href="http://www.meetup.com/Oslo-pm/events/230165754/">Damian Conway at Scotsman: Don&#39;t change languages. Change your language!</a>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Gaustadall%C3%A9en+23A%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

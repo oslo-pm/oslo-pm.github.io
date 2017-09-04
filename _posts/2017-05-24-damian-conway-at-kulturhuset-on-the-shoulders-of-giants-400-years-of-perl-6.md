@@ -2,14 +2,18 @@
 layout: post
 title: "Damian Conway at kulturhuset: On the Shoulders of Giants: 400 Years of Perl 6"
 date: 2017-05-22 12:59:54 +0200
+when: 2017-05-24T18:00:00 +0200
+where: "Kulturhuset, Youngs gate 6"
+maps_query: "Youngs%20gate%206%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/240177542/"
 published: True
 categories: event
 tags: event tech
 ---
 
-* When: May 24 18:00
-* Where: [Kulturhuset, Youngs gate 6](https://maps.google.com/maps?f=q&hl=en&q=Youngs+gate+6%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/240177542/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <img src="https://secure.meetupstatic.com/photos/event/8/d/f/6/600_461196342.jpeg">
 
@@ -33,4 +37,4 @@ In this presentation, Dr Damian Conway (one of the core designers of Perl 6) wil
 
 Along the way, we’ll explore the world’s least-obvious sequence; the world’s first sorting algorithm; the world’s worst sorting algorithm; the art and science of just guessing; how to write Lisp in any language; the joy of subscripts; feline drug abuse; the world’s worst sorting algorithm... optimized; the perils of high precision; the advantages of anonymity; Leonardo’s reward; Monte Carlo, Monty Hall, and Monty Python; and how to pack your bags more efficiently by destroying the entire universe (and possibly several others we passed along the way).
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Youngs+gate+6%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}

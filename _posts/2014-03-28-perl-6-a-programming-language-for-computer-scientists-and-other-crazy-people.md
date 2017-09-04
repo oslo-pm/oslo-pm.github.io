@@ -2,14 +2,18 @@
 layout: post
 title: "Perl 6: A Programming Language for Computer Scientists (And Other Crazy People)"
 date: 2014-03-21 16:19:03 +0100
+when: 2014-03-28T16:15:00 +0100
+where: "Room 3407, Ada, Ole-Johan Dahls hus, Gaustadalléen 23B"
+maps_query: "Ole-Johan%20Dahls%20hus%2C%20Gaustadall%E9en%2023B%2C%20Oslo%2C%20no"
+event_url: "https://www.meetup.com/Oslo-pm/events/172566472/"
 published: True
 categories: event
 tags: event
 ---
 
-* When: Mar 28 16:15
-* Where: [Room 3407, Ada, Ole-Johan Dahls hus, Gaustadalléen 23B](https://maps.google.com/maps?f=q&hl=en&q=Ole-Johan+Dahls+hus%2C+Gaustadall%C3%A9en+23B%2C+Oslo%2C+no)
-* Join us at [Meetup](https://www.meetup.com/Oslo-pm/events/172566472/)
+* When: {{page.when | date: site.event_date_format }}
+* Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
+* Join us at [Meetup]({{page.event_url}})
 
 <img src="http://sonen.ifi.uio.no/content/events/Damian-Conway/DamianConway_large.jpg">
 
@@ -37,4 +41,4 @@ Technical and academic areas in which he has published internationally include: 
 
 <i>Arranged in collaboration with <a href="http://sonen.ifi.uio.no/events/Damian-Conway">Åpen Sone for Informatikk</a> @ UiO.</i>
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?q=q=Ole-Johan+Dahls+hus%2C+Gaustadall%C3%A9en+23B%2C+Oslo%2C+no&key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% include maps.html %}
