@@ -14,7 +14,7 @@
         {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.category %} • Category: {{ page.category|capitalize }}{% endif %}
         {% for tag in page.tags %}
           {% if forloop.first %} • {% endif %}
-          <a href="/blog/{{tag}}.html">{{tag}}</a>
+          <a href="/news/{{tag}}.html">{{tag}}</a>
         {% endfor %}
       </p>
     </header>

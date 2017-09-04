@@ -6,6 +6,8 @@
 {% endif %}
 {% if paginator.previous_page %}
   <a class="__prev" href="{{paginator.previous_page_path}}">Later &raquo;</a>
+{% else %}
+  <a class="__prev" href="/news/list.html">List all</a>
 {% endif %}
   <span class="__current">-{{paginator.page}}-</span>
 </div>

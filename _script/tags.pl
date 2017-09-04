@@ -34,20 +34,24 @@ path('_posts')->list->each(
 for my $tag (sort keys %{$data{n_of}}) {
   push @{$data{all}}, $tag;
   say "$tag = $data{n_of}{$tag}";
-  path("blog/$tag.html")->spurt(make_filter($tag));
+  path("news/$tag.html")->spurt(make_filter($tag));
+  $data{state}{$tag} = $hidden{$tag} ? 'hidden' : 'visible';
   next if $hidden{$tag};
   push @li,
-    qq(<li class="{% if page.filter_name == '$tag' %} active{% endif %}"><a href="/blog/$tag.html">$tag</a></li>);
+    qq(<li class="{% if page.filter_name == '$tag' %} active{% endif %}"><a href="/news/$tag.html">$tag</a></li>);
 }
 
 path('_data/tags.json')->spurt(encode_json \%data);
 
-path('_includes/blog_menu.html')->spurt(<<"HERE");
-<div class="blog-menu">
+path('_includes/tag_menu.html')->spurt(<<"HERE");
+<div class="tag-menu">
   <h4>Tag:</h4>
   <ul>
-    <li class="{% if page.filter_name == 'all' %} active{% endif %}"><a href="/blog">all</a></li>
+    <li class="{% if page.filter_name == 'all' %} active{% endif %}"><a href="/news">all</a></li>
     @li
+    {% if site.data.tags.state[page.filter_name] == "hidden" %}
+    <li class="active"><a href="/news/{{page.filter_name}}">{{page.filter_name}}</a></li>
+    {% endif %}
   </ul>
 </div>
 HERE
@@ -60,10 +64,12 @@ sub make_filter {
 layout: default
 title: Entries by "$tag"
 filter_name: $tag
-canonical_url: http://oslo.pm/blog/list.html
+canonical_url: http://oslo.pm/news/list.html
+redirect_from:
+- /blog/$tag.html
 ---
 
-{% include blog_menu.html %}
+{% include tag_menu.html %}
 
 {% assign index = true %}
 {% for i in (0..2) %}

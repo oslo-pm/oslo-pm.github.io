@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Entries by "szabgab"
-filter_name: szabgab
-canonical_url: http://oslo.pm/blog/list.html
+title: Entries by "social"
+filter_name: social
+canonical_url: http://oslo.pm/news/list.html
+redirect_from:
+- /blog/social.html
 ---
 
-{% include blog_menu.html %}
+{% include tag_menu.html %}
 
 {% assign index = true %}
 {% for i in (0..2) %}
-  {% assign page = site.tags.szabgab[i] %}
+  {% assign page = site.tags.social[i] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
@@ -17,7 +19,7 @@ canonical_url: http://oslo.pm/blog/list.html
 
 {% for i in (3..100) %}
   {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
-  {% assign page = site.tags.szabgab[i] %}
+  {% assign page = site.tags.social[i] %}
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>

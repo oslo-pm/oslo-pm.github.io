@@ -15,7 +15,7 @@ maps_url: "https://maps.google.com/maps?f=q&hl=en&amp;q="
 event_date_format: "%Y-%m-%d %H:%M"
 
 paginate: 10
-paginate_path: "/blog/all/page:num"
+paginate_path: "/news/all/page:num"
 
 permalink: /:year/:month/:day/:title.html
 destination: ./_site

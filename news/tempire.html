@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Entries by "hackathon"
-filter_name: hackathon
-canonical_url: http://oslo.pm/blog/list.html
+title: Entries by "tempire"
+filter_name: tempire
+canonical_url: http://oslo.pm/news/list.html
+redirect_from:
+- /blog/tempire.html
 ---
 
-{% include blog_menu.html %}
+{% include tag_menu.html %}
 
 {% assign index = true %}
 {% for i in (0..2) %}
-  {% assign page = site.tags.hackathon[i] %}
+  {% assign page = site.tags.tempire[i] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
@@ -17,7 +19,7 @@ canonical_url: http://oslo.pm/blog/list.html
 
 {% for i in (3..100) %}
   {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
-  {% assign page = site.tags.hackathon[i] %}
+  {% assign page = site.tags.tempire[i] %}
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>

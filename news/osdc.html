@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Entries by "course"
-filter_name: course
-canonical_url: http://oslo.pm/blog/list.html
+title: Entries by "osdc"
+filter_name: osdc
+canonical_url: http://oslo.pm/news/list.html
+redirect_from:
+- /blog/osdc.html
 ---
 
-{% include blog_menu.html %}
+{% include tag_menu.html %}
 
 {% assign index = true %}
 {% for i in (0..2) %}
-  {% assign page = site.tags.course[i] %}
+  {% assign page = site.tags.osdc[i] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
@@ -17,7 +19,7 @@ canonical_url: http://oslo.pm/blog/list.html
 
 {% for i in (3..100) %}
   {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
-  {% assign page = site.tags.course[i] %}
+  {% assign page = site.tags.osdc[i] %}
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>

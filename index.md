@@ -15,7 +15,7 @@ Oslo.pm is an informal technical community open to all who are interested in the
 
 ## Recent & upcoming events
 
-{% include blog_menu.html %}
+{% include tag_menu.html %}
 
 {% assign index = true %}
 {% assign heading = "h3" %}
