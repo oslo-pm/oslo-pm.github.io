@@ -1,4 +1,5 @@
 ---
+tags: events tech damian
 layout: post
 title: Temporally Quaquaversal Virtual Nanomachine Programming In Multiple Topologically Connected Quantum-Relativistic Parallel Spacetimes... Made Easy! (Damian Conway)
 ---

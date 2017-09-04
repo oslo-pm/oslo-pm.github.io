@@ -4,7 +4,7 @@ title: "Extraordinary annual meeting"
 date: 2014-03-05 13:27:10 +0100
 published: True
 categories: event
-tags: event
+tags: event board
 ---
 
 * When: Mar 5 18:30

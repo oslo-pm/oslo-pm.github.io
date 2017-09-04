@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: course szabgab
 title: Kurs om Test-automatisering, 21. til 24. april!
 ---
 <p>Gabor Szabo <a href="http://szabgab.com/blog/2009/01/1232302278.html">inviterer</a>

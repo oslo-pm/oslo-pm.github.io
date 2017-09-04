@@ -4,7 +4,7 @@ title: "Mojoconf 2014 - Course, Talks and Workshop"
 date: 2014-03-21 12:21:50 +0200
 published: True
 categories: event
-tags: event
+tags: event course conference hackathon
 ---
 
 * When: May 23 09:00

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mojolicious-kurs med Glen Hinkle, 24. mai
-tags: course mojolicious tempire
+tags: course mojoconf tempire
 ---
 
 Glen Hinkle, kjent fra <a href="http://mojocasts.org/">Mojocasts</a> kommer

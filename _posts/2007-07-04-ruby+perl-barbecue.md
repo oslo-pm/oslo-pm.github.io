@@ -1,4 +1,5 @@
 ---
+tags: event social
 layout: post
 title: Grilling p&aring; Hoved&oslash;ya!
 ---

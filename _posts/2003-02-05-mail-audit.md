@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: event tech
 title: Oslo.pm inviterer til medlemsm&oslash;te om Mail::Audit!
 ---
 <pre>

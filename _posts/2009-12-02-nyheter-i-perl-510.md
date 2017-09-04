@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: event
 title: Desember-medlemsm&oslash;tet i Oslo.pm
 ---
 <p>Oslo.pm har faglig-sosialt medlemsmøte <strong>onsdag 2. desember 2009,
@@ -13,6 +14,6 @@ klokken 18:30</strong>. Vi treffes på
 <li>Marcus, om given/when og named match i regex</li>
 <li>Jan Henning, om smartmatch-operatoren og pluggable MRO</li>
 <li>og Salve, om Modern::Perl og Task::Kensho</li></ul>
-<p>Etter presentasjonene fortsetter vi med videre diskusjon rundt temaet. Eventuelle drikkevarer må medbringes, og det blir en kollektiv pizza-bestilling når vi starter (si i fra på forhånd om du vil vÃ¦re med på dette.)</p>
+<p>Etter presentasjonene fortsetter vi med videre diskusjon rundt temaet. Eventuelle drikkevarer må medbringes, og det blir en kollektiv pizza-bestilling når vi starter (si i fra på forhånd om du vil være med på dette.)</p>
 
 

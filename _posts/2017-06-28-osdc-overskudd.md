@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Styremøte angående OSDC overskudd
-tags: protocol conference npw mojoconf
+tags: board conference npw mojoconf osdc
 ---
 
 * When: June 28 18:30

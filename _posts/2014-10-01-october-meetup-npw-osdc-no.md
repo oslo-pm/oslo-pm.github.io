@@ -4,7 +4,7 @@ title: "October meetup: NPW, OSDC.no."
 date: 2014-09-30 14:29:12 +0200
 published: True
 categories: event
-tags: event conference osdc npw workshop
+tags: event
 ---
 
 * When: Oct 1 18:30

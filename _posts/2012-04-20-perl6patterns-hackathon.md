@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: hackathon perl6
 title: Oslo.pm arrangerer &quot;Perl 6 Patterns&quot; hackathon!
 ---
 <p>Vi har invitert kjernemedlemmer i Perl 6 miljøet til Oslo!</p>
@@ -18,6 +19,6 @@ Men om du ikke vil kaste deg over denne, er de viktigste stikkordene
 <ul>
   <li><a href="https://gist.github.com/1711730">Oversikt over arrangementet, og invitasjon</a></li>
   <li><a href="https://gist.github.com/1848654">Fremdriftsdokument</a></li>
-  <li><a href="http://code.foo.no/2012/03/01/invitation-to-perl-6-patterns-hackathon-2012">Invitasjon pÃ¥ code.foo.no</a></li>
+  <li><strike><a href="http://code.foo.no/2012/03/01/invitation-to-perl-6-patterns-hackathon-2012">Invitasjon på code.foo.no</a></strike></li>
   <li><a href="https://docs.google.com/spreadsheet/viewform?formkey=dGhHazhleEhpdFJYNEdGc3ZoV0ZodFE6MQ#gid=5">Påmelding (signup)</a></li>
 </ul>

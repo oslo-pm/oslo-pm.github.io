@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: course szabgab
 title: Kurs om Test-automatisering, 2. til 4. april!
 ---
 <p>Gabor Szabo inviterer sammen med Oslo.pm og Linpro til en

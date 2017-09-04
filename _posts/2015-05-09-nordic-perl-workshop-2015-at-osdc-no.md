@@ -4,7 +4,7 @@ title: "Nordic Perl Workshop 2015 at OSDC.no"
 date: 2015-04-18 14:17:45 +0200
 published: True
 categories: event
-tags: event conference workshop npw
+tags: event conference npw
 ---
 
 * When: May 9 09:30

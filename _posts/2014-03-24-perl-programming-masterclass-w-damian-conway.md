@@ -4,7 +4,7 @@ title: "Perl Programming Masterclass w/Damian Conway"
 date: 2014-03-16 17:28:00 +0100
 published: True
 categories: event
-tags: event
+tags: course damian
 ---
 
 * When: Mar 24 09:00

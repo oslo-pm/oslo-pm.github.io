@@ -1,4 +1,5 @@
 ---
+tags: event board tech
 layout: post
 title: Intro til MojoMojo, samt ekstraordin&aelig;rt &aring;rsm&oslash;te 2008 for Oslo.pm
 ---

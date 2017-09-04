@@ -1,4 +1,5 @@
 ---
+tags: events tech damian
 layout: post
 title: Fun with dead languages (Damian Conway)
 ---

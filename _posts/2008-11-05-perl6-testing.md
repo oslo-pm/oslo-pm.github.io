@@ -1,4 +1,5 @@
 ---
+tags: event tech
 layout: post
 title: November-medlemsm&oslash;tet i Oslo.pm
 ---

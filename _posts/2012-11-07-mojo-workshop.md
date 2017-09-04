@@ -1,4 +1,5 @@
 ---
+tags: events tech
 layout: post
 title: Mojo hands-on tutorial
 ---
