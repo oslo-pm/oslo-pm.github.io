@@ -9,4 +9,13 @@
     <a href="/news/event.html" class="page-link">Events</a>
     <a href="/contact">Contact</a>
   </div>
+  {% if page.search %}
+  <form id="search_form" action="https://www.google.com/cse">
+    <input name="cx" type="hidden" value="003216111130611352982:uvlrck5wffw">
+    <input name="ie" type="hidden" value="UTF-8">
+    <input name="q" placeholder="Search..." type="search">
+  </form>
+  {% else %}
+  <hr>
+  {% endif %}
 </header>

@@ -52,3 +52,26 @@
   </div>
 </div>
 </footer>
+<script>
+(function(w, d) {
+  var form = d.getElementById("search_form");
+  var q = location.href;
+
+{% if page.search %}
+  var gcse = d.createElement("script");
+  gcse.async = true;
+  gcse.src = "https://cse.google.com/cse.js?cx=" + form.querySelector("[name=cx]").value;
+  gcse.type = "text/javascript";
+  var s = d.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(gcse, s);
+{% endif %}
+
+  form.action = "/search";
+  [].forEach.call(form.querySelectorAll("[type=hidden]"), function(el) {
+    el.parentNode.removeChild(el);
+  });
+  q = q.match(/\bq=/) ? q.replace(/.*q=(.*)/, "$1").replace(/\+/g, " ") : "";
+  form.querySelector("input").value = decodeURIComponent(q);
+  if (!q) d.querySelector(".no-query").classList.remove("hide");
+})(window, document);
+</script>

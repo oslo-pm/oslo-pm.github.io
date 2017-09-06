@@ -5,8 +5,6 @@
 }
 
 .main-header {
-  padding-bottom: 25px;
-  border-bottom: 2px solid black;
   margin: $gutter * 2 auto $gutter * 2 auto;
 
   .site-title {
@@ -31,12 +29,11 @@
   }
 
   .links {
-    margin-top: 5px;
-    font-size: 16px;
-    vertical-align: middle;
-    line-height: normal;
     color: #777;
-    padding-left: 1px;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    margin-top: 5px;
+
     a {
       text-decoration: none;
       color: #777;
@@ -49,6 +46,39 @@
         color: #444;
       }
     }
+  }
+
+  form {
+    border-top: 2px solid black;
+    margin: 0;
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+  }
+
+  input {
+    background: #ddd no-repeat 0% 50%;
+    background-image: url(../images/magnifying-glass-1294834_640.png);
+    background-size: contain;
+    font-size: 1.1rem;
+    border: 2px solid #ddd;
+    border-top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 0.2rem 0.5rem 0.2rem 2rem;
+    box-sizing: border-box;
+
+    &:focus {
+      border-color: #888;
+      outline: 0;
+    }
+  }
+
+  hr {
+    background: black;
+    border: 0;
+    height: 2px;
+    clear: both;
   }
 }
 
