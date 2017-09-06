@@ -28,7 +28,7 @@ Oslo Perl Mongers (Oslo.pm)
 ## Organization registries
 
 * The Brønnøysund Register Centre: [NO 990 525 277](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990525277)
-* Dun & Bradstreet D-U-N-S&reg;: [566692245](https://smallbusiness.dnb.com/ePlatform/servlet/IballValidationCmd?storeId=10001&searchPerform=true&catalogId=70001&productId=0&lookupType=AdvancedCompanySearch&searchType=DSF&skipIPValidation=YES&dunsNumber=566692245&dunsCountry=NO)
+* Dun & Bradstreet D-U-N-S&reg;: 566692245
 
 ## Bank account
 
