@@ -8,7 +8,7 @@ maps_query: "Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/243149532/"
 published: True
 categories: event
-tags: event
+tags: event conference npw
 ---
 
 * When: {{page.when | date: site.event_date_format }}

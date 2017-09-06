@@ -8,7 +8,7 @@ maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/243059077/"
 published: True
 categories: event
-tags: event conference
+tags: event tech
 ---
 
 * When: {{page.when | date: site.event_date_format }}
