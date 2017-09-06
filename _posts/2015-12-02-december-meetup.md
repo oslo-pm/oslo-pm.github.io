@@ -2,7 +2,7 @@
 layout: post
 title: "December meetup"
 date: 2015-12-01 12:51:04 +0100
-when: 2015-12-02T18:30:00 +0100
+when: 2015-12-02 18:30:00 +0100
 where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/227132759/"

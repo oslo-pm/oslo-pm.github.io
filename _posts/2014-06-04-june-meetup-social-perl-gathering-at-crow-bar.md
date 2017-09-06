@@ -2,7 +2,7 @@
 layout: post
 title: "June meetup - Social Perl gathering at Crow Bar"
 date: 2014-06-03 13:58:38 +0200
-when: 2014-06-04T18:30:00 +0200
+when: 2014-06-04 18:30:00 +0200
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/186850512/"

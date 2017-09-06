@@ -2,7 +2,7 @@
 layout: post
 title: "Damian Conway at UiO: Perl 6 - More Concurrency, Less Contusion"
 date: 2016-04-06 12:23:10 +0200
-when: 2016-04-22T16:00:00 +0200
+when: 2016-04-22 16:00:00 +0200
 where: "Large Auditorium, Kristen Nygaard's House, UiO, Gaustadalléen 23A"
 maps_query: "Gaustadall%E9en%2023A%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/230167281/"

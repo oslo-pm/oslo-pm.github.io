@@ -2,7 +2,7 @@
 layout: post
 title: "September meetup: mi.Cro.services & Nordic Perl Workshop 2018"
 date: 2017-09-03 12:40:23 +0200
-when: 2017-09-06T18:30:00 +0200
+when: 2017-09-06 18:30:00 +0200
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/243059077/"

@@ -2,7 +2,7 @@
 layout: post
 title: "December meetup: TODAY"
 date: 2014-12-03 17:47:49 +0100
-when: 2014-12-03T18:30:00 +0100
+when: 2014-12-03 18:30:00 +0100
 where: "Schouskjelleren Mikrobryggeri, Trondheimsveien 2"
 maps_query: "Trondheimsveien%202%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/219043366/"

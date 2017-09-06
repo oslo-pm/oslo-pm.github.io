@@ -2,7 +2,7 @@
 layout: post
 title: "July summer meetup at Pappabuene, Rådhusbr­ygge 1"
 date: 2014-07-01 14:28:53 +0200
-when: 2014-07-02T18:30:00 +0200
+when: 2014-07-02 18:30:00 +0200
 where: "Pappabuene, Rådhusbrygge 1"
 maps_query: "R%E5dhusbrygge%201%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/192350622/"

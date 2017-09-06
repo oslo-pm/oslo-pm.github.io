@@ -2,7 +2,7 @@
 layout: post
 title: "Browser testing is hard. Let's go shopping"
 date: 2017-04-27 08:41:33 +0200
-when: 2017-05-03T18:30:00 +0200
+when: 2017-05-03 18:30:00 +0200
 where: "Reisegiganten, Rosenkrantz gate 9"
 maps_query: "Rosenkrantz%20gate%209%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/239533530/"

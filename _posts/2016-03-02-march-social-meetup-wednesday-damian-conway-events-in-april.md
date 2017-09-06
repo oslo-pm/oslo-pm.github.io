@@ -2,7 +2,7 @@
 layout: post
 title: "March social meetup wednesday - Damian Conway events in April"
 date: 2016-02-29 14:13:39 +0100
-when: 2016-03-02T18:30:00 +0100
+when: 2016-03-02 18:30:00 +0100
 where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/229222322/"

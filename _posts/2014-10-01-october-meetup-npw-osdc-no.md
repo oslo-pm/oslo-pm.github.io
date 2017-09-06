@@ -2,7 +2,7 @@
 layout: post
 title: "October meetup: NPW, OSDC.no."
 date: 2014-09-30 14:29:12 +0200
-when: 2014-10-01T18:30:00 +0200
+when: 2014-10-01 18:30:00 +0200
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/210454212/"

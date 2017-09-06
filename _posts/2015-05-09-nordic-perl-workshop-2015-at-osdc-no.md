@@ -2,7 +2,7 @@
 layout: post
 title: "Nordic Perl Workshop 2015 at OSDC.no"
 date: 2015-04-18 14:17:45 +0200
-when: 2015-05-09T09:30:00 +0200
+when: 2015-05-09 09:30:00 +0200
 where: "Simula, Ole-Johan Dahls hus, Gaustadaleen 23B"
 maps_query: "Gaustadaleen%2023B%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/221930064/"

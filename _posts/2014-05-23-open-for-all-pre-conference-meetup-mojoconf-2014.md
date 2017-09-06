@@ -2,7 +2,7 @@
 layout: post
 title: "Open-for-all pre-conference meetup - Mojoconf 2014"
 date: 2014-05-21 14:47:22 +0200
-when: 2014-05-23T17:00:00 +0200
+when: 2014-05-23 17:00:00 +0200
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/184319252/"

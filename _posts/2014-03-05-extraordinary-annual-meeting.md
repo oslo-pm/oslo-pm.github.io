@@ -2,7 +2,7 @@
 layout: post
 title: "Extraordinary annual meeting"
 date: 2014-03-05 13:27:10 +0100
-when: 2014-03-05T18:30:00 +0100
+when: 2014-03-05 18:30:00 +0100
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/169551702/"

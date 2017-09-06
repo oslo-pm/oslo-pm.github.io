@@ -2,7 +2,7 @@
 layout: post
 title: "Oslo.pm social meetup"
 date: 2014-01-24 13:33:44 +0100
-when: 2014-02-05T19:00:00 +0100
+when: 2014-02-05 19:00:00 +0100
 where: "Schouskjelleren Mikrobryggeri, Trondheimsveien 2"
 maps_query: "Trondheimsveien%202%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/162292622/"

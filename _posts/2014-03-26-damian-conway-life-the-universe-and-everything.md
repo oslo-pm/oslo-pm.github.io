@@ -2,7 +2,7 @@
 layout: post
 title: "Damian Conway - Life, the Universe, and Everything"
 date: 2014-03-07 10:37:22 +0100
-when: 2014-03-26T18:00:00 +0100
+when: 2014-03-26 18:00:00 +0100
 where: "Scotsman, 2. etg, Karl Johansgt 17"
 maps_query: "Karl%20Johansgt%2017%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/169953522/"

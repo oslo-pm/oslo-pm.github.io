@@ -2,7 +2,7 @@
 layout: post
 title: "Perl Programming Masterclass w/Damian Conway"
 date: 2014-03-16 17:28:00 +0100
-when: 2014-03-24T09:00:00 +0100
+when: 2014-03-24 09:00:00 +0100
 where: "TBD"
 maps_query: "Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/171571562/"

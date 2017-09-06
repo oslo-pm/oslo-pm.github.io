@@ -2,7 +2,7 @@
 layout: post
 title: "Perl6 workshop: Hvordan sette opp NativeCall til C-bibliotek"
 date: 2015-01-20 19:07:50 +0100
-when: 2015-02-04T18:30:00 +0100
+when: 2015-02-04 18:30:00 +0100
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/219961292/"

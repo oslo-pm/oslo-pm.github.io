@@ -2,7 +2,7 @@
 layout: post
 title: "January meetup: Social get-together at Schouskjelleren"
 date: 2015-01-05 16:06:11 +0100
-when: 2015-01-07T18:30:00 +0100
+when: 2015-01-07 18:30:00 +0100
 where: "Schouskjelleren Mikrobryggeri, Trondheimsveien 2"
 maps_query: "Trondheimsveien%202%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/219615223/"

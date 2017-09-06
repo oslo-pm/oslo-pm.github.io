@@ -2,7 +2,7 @@
 layout: post
 title: "November meetup, yearly meeting with technical talks"
 date: 2016-10-04 10:56:59 +0100
-when: 2016-11-02T18:00:00 +0100
+when: 2016-11-02 18:00:00 +0100
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/234612511/"

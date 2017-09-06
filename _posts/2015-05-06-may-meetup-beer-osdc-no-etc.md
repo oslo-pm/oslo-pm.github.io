@@ -2,7 +2,7 @@
 layout: post
 title: "May Meetup: Beer, osdc.no, etc."
 date: 2015-05-04 20:18:51 +0200
-when: 2015-05-06T18:30:00 +0200
+when: 2015-05-06 18:30:00 +0200
 where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/222300937/"

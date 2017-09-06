@@ -2,7 +2,7 @@
 layout: post
 title: "Emergency social with Jonathan Worthington"
 date: 2014-01-24 12:11:48 +0100
-when: 2014-01-28T18:00:00 +0100
+when: 2014-01-28 18:00:00 +0100
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/162287772/"

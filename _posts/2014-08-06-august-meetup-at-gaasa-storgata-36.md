@@ -2,7 +2,7 @@
 layout: post
 title: "August meetup at Gaasa, Storgata 36"
 date: 2014-08-05 09:39:48 +0200
-when: 2014-08-06T18:30:00 +0200
+when: 2014-08-06 18:30:00 +0200
 where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/199092482/"

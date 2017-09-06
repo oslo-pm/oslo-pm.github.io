@@ -2,7 +2,7 @@
 layout: post
 title: "Perl 6: A Programming Language for Computer Scientists (And Other Crazy People)"
 date: 2014-03-21 16:19:03 +0100
-when: 2014-03-28T16:15:00 +0100
+when: 2014-03-28 16:15:00 +0100
 where: "Room 3407, Ada, Ole-Johan Dahls hus, Gaustadalléen 23B"
 maps_query: "Ole-Johan%20Dahls%20hus%2C%20Gaustadall%E9en%2023B%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/172566472/"

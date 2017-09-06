@@ -2,7 +2,7 @@
 layout: post
 title: "November coding geek/beer-out"
 date: 2014-11-05 00:54:37 +0100
-when: 2014-11-05T19:30:00 +0100
+when: 2014-11-05 19:30:00 +0100
 where: "Handverkerstuene, Rosenkrantzgt. 7,  (entr. Kristian IV's gt.)"
 maps_query: "Rosenkrantzgt.%207%2C%20%20%28entr.%20Kristian%20IV%27s%20gt.%29%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/217674462/"

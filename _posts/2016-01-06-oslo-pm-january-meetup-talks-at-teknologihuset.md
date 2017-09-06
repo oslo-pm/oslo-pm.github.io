@@ -2,7 +2,7 @@
 layout: post
 title: "Oslo.pm January meetup: Talks at Teknologihuset"
 date: 2015-12-03 09:19:19 +0100
-when: 2016-01-06T18:30:00 +0100
+when: 2016-01-06 18:30:00 +0100
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/227182136/"

@@ -2,7 +2,7 @@
 layout: post
 title: "February social meetup at Kråka"
 date: 2016-02-02 12:25:24 +0100
-when: 2016-02-03T18:30:00 +0100
+when: 2016-02-03 18:30:00 +0100
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/228548466/"

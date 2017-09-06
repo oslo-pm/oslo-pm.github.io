@@ -2,7 +2,7 @@
 layout: post
 title: "Social event - After conference social meetup"
 date: 2014-05-24 10:54:17 +0200
-when: 2014-05-24T18:30:00 +0200
+when: 2014-05-24 18:30:00 +0200
 where: "Kulturhuset, Youngstorget 3"
 maps_query: "Youngstorget%203%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/184900032/"

@@ -2,7 +2,7 @@
 layout: post
 title: "April Perl geek/beer-out"
 date: 2015-03-25 17:37:14 +0200
-when: 2015-04-01T18:30:00 +0200
+when: 2015-04-01 18:30:00 +0200
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/221393718/"

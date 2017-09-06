@@ -2,7 +2,7 @@
 layout: post
 title: "Damian Conway at kulturhuset: On the Shoulders of Giants: 400 Years of Perl 6"
 date: 2017-05-22 12:59:54 +0200
-when: 2017-05-24T18:00:00 +0200
+when: 2017-05-24 18:00:00 +0200
 where: "Kulturhuset, Youngs gate 6"
 maps_query: "Youngs%20gate%206%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/240177542/"

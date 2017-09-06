@@ -2,7 +2,7 @@
 layout: post
 title: "January-beer"
 date: 2017-01-04 13:33:26 +0100
-when: 2017-01-04T18:30:00 +0100
+when: 2017-01-04 18:30:00 +0100
 where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/236664656/"

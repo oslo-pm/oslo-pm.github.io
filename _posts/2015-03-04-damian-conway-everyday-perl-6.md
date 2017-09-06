@@ -2,7 +2,7 @@
 layout: post
 title: "Damian Conway: Everyday Perl 6"
 date: 2015-02-24 12:38:51 +0100
-when: 2015-03-04T18:30:00 +0100
+when: 2015-03-04 18:30:00 +0100
 where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/220726684/"

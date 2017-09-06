@@ -2,7 +2,7 @@
 layout: post
 title: "September meetup, $beverage at Gaasa"
 date: 2016-09-02 15:27:52 +0200
-when: 2016-09-07T18:30:00 +0200
+when: 2016-09-07 18:30:00 +0200
 where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/233819796/"

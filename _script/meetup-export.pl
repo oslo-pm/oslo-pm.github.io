@@ -67,7 +67,7 @@ for my $event (@{$json->{results}}) {
 layout: post
 title: "$event->{name}"
 date: $created $offset
-when: @{[$when->datetime]} $offset
+when: @{[$when->ymd]} @{[$when->hms]} $offset
 where: "$where"
 maps_query: "$maps_q"
 event_url: "$event->{event_url}"

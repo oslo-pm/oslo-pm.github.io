@@ -2,7 +2,7 @@
 layout: post
 title: "Mojoconf 2014 - Course, Talks and Workshop"
 date: 2014-03-21 12:21:50 +0200
-when: 2014-05-23T09:00:00 +0200
+when: 2014-05-23 09:00:00 +0200
 where: "Y3O - Nordaaker, Youngstorget 3"
 maps_query: "Youngstorget%203%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/172537312/"
