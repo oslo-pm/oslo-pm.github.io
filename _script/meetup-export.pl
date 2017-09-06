@@ -6,20 +6,18 @@ use Mojo::UserAgent;
 use Mojo::Util qw(trim url_escape);
 use Time::Piece;
 
-#
-# $(rm _data/meetup.json) to import fresh data
-#
 # The data is also available in the jekyll templates.
 # Check out about/index.md and look for "site.data.meetup."
-#
 
 my $meetup_file = '_data/meetup.json';
 
-unless (-e $meetup_file) {
+# -l to use existing file on disk
+unless (grep {/^-l$/} @ARGV) {
   my $data
     = Mojo::UserAgent->new->max_redirects(3)
-    ->get('https://api.meetup.com/2/events?group_urlname=Oslo-pm&status=past,upcoming&desc=desc')
-    ->res->body;
+    ->get(
+    'https://api.meetup.com/2/events?group_urlname=Oslo-pm&status=past,upcoming&desc=desc'
+    )->res->body;
 
   # The ruby/jekyll json parser does not like "\/" escape sequences
   # It throws "found unknown escape character..."
