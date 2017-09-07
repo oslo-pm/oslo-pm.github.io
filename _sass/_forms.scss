@@ -1,0 +1,19 @@
+form.form-inline {
+  input, button {
+    font-size: 1rem;
+    border-radius: 0;
+    padding: 0.3rem 0.6rem;
+    margin: 0;
+  }
+
+  input {
+    border: 1px solid #888;
+    width: 60%;
+  }
+
+  button {
+    background: #666;
+    color: #fff;
+    border: 1px solid #555;
+  }
+}

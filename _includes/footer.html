@@ -54,25 +54,28 @@
 </footer>
 <script>
 (function(w, d) {
-  var form = d.getElementById("search_form");
   var noQuery = d.querySelector(".no-query");
-  var q = location.href;
+  var query = location.href;
+
+  query = query.match(/\bq=/) ? query.replace(/.*q=(.*)/, "$1").replace(/\+/g, " ") : "";
 
 {% if page.search %}
   var gcse = d.createElement("script");
   gcse.async = true;
-  gcse.src = "https://cse.google.com/cse.js?cx=" + form.querySelector("[name=cx]").value;
+  gcse.src = "https://cse.google.com/cse.js?cx=" + d.querySelector(".search-form").querySelector("[name=cx]").value;
   gcse.type = "text/javascript";
   var s = d.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(gcse, s);
 {% endif %}
 
-  form.action = "/search";
-  [].forEach.call(form.querySelectorAll("[type=hidden]"), function(el) {
-    el.parentNode.removeChild(el);
+  [].forEach.call(d.querySelectorAll(".search-form"), function(form) {
+    form.action = "/search";
+    [].forEach.call(form.querySelectorAll("[type=hidden]"), function(el) {
+      el.parentNode.removeChild(el);
+    });
+    form.querySelector("input").value = decodeURIComponent(query);
   });
-  q = q.match(/\bq=/) ? q.replace(/.*q=(.*)/, "$1").replace(/\+/g, " ") : "";
-  form.querySelector("input").value = decodeURIComponent(q);
-  if (!q && noQuery) noQuery.classList.remove("hide");
+
+  if (!query && noQuery) noQuery.classList.remove("hide");
 })(window, document);
 </script>
