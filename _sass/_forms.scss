@@ -4,6 +4,11 @@ form.form-inline {
     border-radius: 0;
     padding: 0.3rem 0.6rem;
     margin: 0;
+
+    &:focus {
+      outline: auto 5px #999;
+      outline-offset: -2px;
+    }
   }
 
   input {
@@ -15,5 +20,10 @@ form.form-inline {
     background: #666;
     color: #fff;
     border: 1px solid #555;
+    cursor: pointer;
+
+    &:hover {
+      background: #444;
+    }
   }
 }
