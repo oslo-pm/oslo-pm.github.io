@@ -55,6 +55,7 @@
 <script>
 (function(w, d) {
   var form = d.getElementById("search_form");
+  var noQuery = d.querySelector(".no-query");
   var q = location.href;
 
 {% if page.search %}
@@ -72,6 +73,6 @@
   });
   q = q.match(/\bq=/) ? q.replace(/.*q=(.*)/, "$1").replace(/\+/g, " ") : "";
   form.querySelector("input").value = decodeURIComponent(q);
-  if (!q) d.querySelector(".no-query").classList.remove("hide");
+  if (!q && noQuery) noQuery.classList.remove("hide");
 })(window, document);
 </script>
