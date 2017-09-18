@@ -1,0 +1,23 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+$font-family: "Helvetica Neue", Arial, sans-serif;
+$text-color: #111111;
+$link-color: #2868a4;
+$border-color: #ccc;
+$max-width: 100%;
+$gutter: 15px;
+$header-sizes: (h1: 22px, h2: 20px, h3: 18px, h4: 16px) !default;
+$breakpoints: (small: 680px) !default;
+
+@import "config";
+@import "include-media";
+@import "reset";
+@import "typography";
+@import "forms";
+@import "boxes";
+@import "entry";
+@import "syntax";
+@import "google";

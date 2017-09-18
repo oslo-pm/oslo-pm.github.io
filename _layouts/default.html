@@ -1,11 +1,16 @@
 <!DOCTYPE html>
 <html>
+  {% if page.design %}
+    {% assign design = page.design %}
+  {% else %}
+    {% assign design = "oslo_pm" %}
+  {% endif %}
   {% include head.html %}
   <body>
     <div class="wrapper">
-      {% include header.html %}
+      {% include {{design}}/header.html %}
       {{ content }}
-      {% include footer.html %}
+      {% include {{design}}/footer.html %}
     </div>
   </body>
 </html>

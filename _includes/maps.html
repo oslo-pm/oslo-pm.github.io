@@ -1,1 +1,5 @@
-<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y&amp;q={{page.maps_query}}" width="600" height="300" frameborder="0" allowfullscreen></iframe>
+{% if include.maps_query %}
+<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y&amp;q={{include.maps_query}}" frameborder="0" allowfullscreen></iframe>
+{% else %}
+<iframe class="google-maps" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyASIjsQVcDWLnkdszZ-yw13Qcs-iFk8Q4Y&amp;q={{page.maps_query}}" frameborder="0" allowfullscreen></iframe>
+{% endif %}
