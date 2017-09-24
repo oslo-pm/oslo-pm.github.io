@@ -22,7 +22,7 @@ legend { color: $text-color; }
 
 small {
   font-size: 0.9rem;
-  @include media("<=small"){
+  @include media("<=small") {
     font-size: 0.8rem;
   }
 }
@@ -30,7 +30,7 @@ small {
 h1, h2, h3, h4 {
   font-weight: bold;
   margin: 1em 0;
-  line-height: 1.3em;
+  line-height: 1.4em;
 }
 
 h1 { font-size: map-get($header-sizes, h1); }

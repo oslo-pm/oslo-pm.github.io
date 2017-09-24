@@ -1,92 +1,12 @@
 .wrapper {
   max-width: $max-width;
   margin: 0 auto;
-  padding: 0 $gutter * 2;
-}
-
-.main-header {
-  margin: $gutter * 2 auto $gutter * 2 auto;
-
-  .site-title {
-    font-weight: 700;
-    font-size: 25px;
-    line-height: normal;
-    vertical-align: middle;
-    a {
-      color: $text-color;
-      text-decoration: none;
-    }
-    img {
-      max-height: 80px;
-      position: relative;
-      top: -5px;
-      float: right;
-      vertical-align: top;
-    }
-    a {
-      vertical-align: middle;
-    }
-  }
-
-  .links {
-    color: #777;
-    vertical-align: middle;
-    padding-bottom: 10px;
-    margin-top: 5px;
-
-    a {
-      text-decoration: none;
-      color: #777;
-      font-weight: 600;
-      margin-right: 10px;
-      &:hover {
-        text-decoration: underline;
-      }
-      &.active {
-        color: #444;
-      }
-    }
-  }
-
-  form {
-    border-top: 2px solid black;
-    margin: 0;
-    padding: 0;
-    clear: both;
-    overflow: hidden;
-  }
-
-  input {
-    background: #f6f6f6 no-repeat 0% 50%;
-    background-image: url(../images/magnifying-glass-1294834_640.png);
-    background-size: contain;
-    font-size: 1.1rem;
-    border: 1px solid #cecece;
-    border-top: 0;
-    width: 100%;
-    margin: 0;
-    padding: 0.2rem 0.5rem 0.2rem 2rem;
-    box-sizing: border-box;
-
-    &:focus {
-      border-color: #888;
-      outline: 0;
-    }
-  }
-
-  hr {
-    background: black;
-    border: 0;
-    height: 2px;
-    clear: both;
-  }
 }
 
 .site-footer {
-  margin: 3rem 0 1rem 0;
   overflow: hidden;
   color: #444;
-  font-size: 13px;
+  font-size: 0.9rem;
   line-height: 1.2rem;
 
   ul {
@@ -164,6 +84,15 @@
       text-decoration: underline;
     }
   }
+}
+
+hr {
+  background: transparent;
+  border: 0;
+  border-bottom: $seperator-border;
+  margin: 2rem 0;
+  height: 1px;
+  clear: both;
 }
 
 iframe.google-maps {

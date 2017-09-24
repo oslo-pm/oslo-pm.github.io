@@ -2,8 +2,8 @@
   overflow: auto;
   margin: 1rem 0;
 
-  &.--in-list {
-    border-top: 1px solid #e7e7e7;
+  &.-in-list {
+    border-top: $seperator-border;
   }
 
   .entry-date {
