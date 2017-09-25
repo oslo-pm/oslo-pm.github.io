@@ -5904,11 +5904,11 @@ button.close {
 p { margin: 15px 0; }
 
 #header {
-  background: url(mojoconf-header-bg.jpg) repeat-x 0 100%;
+  background: url(/mojo2014/images/mojoconf-header-bg.jpg) repeat-x 0 100%;
 }
 
 #header h1 {
-  background: url(mojoconf-logo.png) no-repeat 0 0;
+  background: url(/mojo2014/images/mojoconf-logo.png) no-repeat 0 0;
   text-indent: -10000px;
   height: 141px;
   overflow: hidden;

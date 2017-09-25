@@ -19,7 +19,7 @@ Join us at a the pre-conference meetup at Crowbar, where we eat, drink and discu
 
 Course attendants on Friday will most likely be there, so you might get a heads up on what Mojolicious is all about.
 
-More information about Mojoconf 2014: <a class="linkified" href="http://mojoconf.org">http://mojoconf.org</a>
+More information about Mojoconf 2014: <a class="linkified" href="/2014">http://mojoconf.org</a>
 
 <b>This meetup is open for all!</b>
 

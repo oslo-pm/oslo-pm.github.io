@@ -17,8 +17,8 @@ tags: event course conference hackathon
 
 Mojoconf 2014 is a conference about Mojolicious, Perl and the Web. It is divided in a course on Friday, Talks and presentations on Saturday and a workshop on Sunday.
 
-Submit talks at: <a href="http://www.mojoconf.org/mojo2014/newtalk"><a class="linkified" href="http://www.mojoconf.org/mojo2014/newtalk">http://www.mojoconf.org/mojo2014/newtalk</a></a>
+Submit talks at: <a href="http://act.yapc.eu/mojo2014/newtalk"><a class="linkified" href="http://act.yapc.eu/mojo2014/newtalk">http://act.yapc.eu/mojo2014/newtalk</a></a>
 
-More information and signup at <a href="http://www.mojoconf.org/mojo2014"><a class="linkified" href="http://www.mojoconf.org/mojo2014">http://www.mojoconf.org/mojo2014</a></a>
+More information and signup at <a href="/2014">http://act.yapc.eu/mojo2014</a>.
 
 {% include maps.html %}

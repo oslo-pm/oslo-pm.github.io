@@ -16,7 +16,7 @@ tags: event
 
 <img src="http://photos2.meetupstatic.com/photos/event/6/7/d/6/600_339386582.jpeg">
 
-<a href="http://blogs.perl.org/users/damian_conway/2014/03/what-goes-around-comes-around.html">Damian Conway</a> of Perl fame, is kind enough to pay us a visit yet again, this time with a talk about Life, the Universe, and Everything. Damian is an enticing speaker no matter the topic and this time he will guide us through a journey in time and space.
+<a href="http://blogs.perl.org/users/damian_conway/mojo2014/03/what-goes-around-comes-around.html">Damian Conway</a> of Perl fame, is kind enough to pay us a visit yet again, this time with a talk about Life, the Universe, and Everything. Damian is an enticing speaker no matter the topic and this time he will guide us through a journey in time and space.
 
 <b>Abstract:</b>
 

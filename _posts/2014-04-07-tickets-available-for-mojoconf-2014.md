@@ -23,6 +23,6 @@ As some of you might have noticed it is now possible to buy tickets for the upco
 </tbody>
 </table>
 
-Please visit the <a href="http://mojoconf.org/mojo2014">Mojoconf website</a> or go directly to the <a href="http://www.mojoconf.org/mojo2014/purchase">purchase page</a> to buy your tickets.
+Please visit the <a href="/2014">Mojoconf website</a> or go directly to the <a href="http://act.yapc.eu/mojo2014/purchase">purchase page</a> to buy your tickets.
 
 <b>tags: perl, mojolicious, web apps, conference, mojoconf</b>

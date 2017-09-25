@@ -16,4 +16,4 @@ We want to say thank you to <a href="http://www.nuug.no/">NUUG</a>, which made i
 
 The YouTube edit of the videos were created with <a href="https://github.com/jhthorsen/snippets/blob/master/media/avconv-maketalk">perl + avconv + imagemagick</a>.
 
-<a href="http://tiny.cc/Mojoconf2014presentations">http://tiny.cc/Mojoconf2014presentations</a>
+<p><a href="https://www.youtube.com/channel/UCgk2wCZr5Rk-cewLTtQA_Fg">Check out the videos!</a></p></div>

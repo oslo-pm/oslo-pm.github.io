@@ -16,4 +16,4 @@ The topics the talks we have received till now include: async, begin_decapitates
 
 If you have any questions, please don&#39;t hesitate in asking us at <a href="mailto:mojoconf14@oslo.pm">mojoconf14@oslo.pm</a>
 
-Submit a talk at: <a href="http://www.mojoconf.org/mojo2014/newtalk">http://www.mojoconf.org/mojo2014/newtalk</a>
+Submit a talk at: <a href="http://act.yapc.eu/mojo2014/newtalk">http://act.yapc.eu/mojo2014/newtalk</a>

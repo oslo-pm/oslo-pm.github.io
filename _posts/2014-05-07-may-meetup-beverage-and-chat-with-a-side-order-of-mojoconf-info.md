@@ -15,6 +15,6 @@ tags: event
 * Where: [{{page.where}}]({{site.maps_url}}{{page.maps_query}})
 * Join us at [Meetup]({{page.event_url}})
 
-Time again for this month&#39;s regular Perl Mongers meeting. The topic for today will be <a href="http://www.mojoconf.org/mojo2014/">Mojoconf</a> in Oslo later this month.
+Time again for this month&#39;s regular Perl Mongers meeting. The topic for today will be <a href="/mojo2014/">Mojoconf</a> in Oslo later this month.
 
 {% include maps.html %}

@@ -5,7 +5,7 @@ tags: course damian
 ---
 
 Damian Conway
-[inviterer](http://blogs.perl.org/users/damian_conway/2014/03/what-goes-around-comes-around.html)
+[inviterer](http://blogs.perl.org/users/damian_conway/mojo2014/03/what-goes-around-comes-around.html)
 sammen med Oslo.pm og [Redpill Linpro](http://www.redpill-linpro.no/)
 til &eacute;ndags-kurset "<em>Perl Programming Masterclass</em>".
 Dette skjer i Redpill Linpro sine lokaler på Storo 24. mars!

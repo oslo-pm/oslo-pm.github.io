@@ -2,6 +2,8 @@
 <html>
   {% if page.design %}
     {% assign design = page.design %}
+  {% elsif page.categories[0] and site.designs contains page.categories[0] %}
+    {% assign design = page.categories[0] %}
   {% else %}
     {% assign design = "oslo_pm" %}
   {% endif %}

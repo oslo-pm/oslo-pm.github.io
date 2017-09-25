@@ -4,7 +4,7 @@ title: "Welcome to mojoconf 2014"
 date: 2014-02-10 01:10 +0200
 event_url: "http://act.yapc.eu/mojo2014/news/1150"
 published: True
-categories: event
+categories: mojo2014
 tags: event mojoconf mojo2014 conference
 ---
 

@@ -4,7 +4,7 @@ title: "About the Mojolicious Core"
 date: 2014-03-07 09:00 +0200
 event_url: "http://act.yapc.eu/mojo2014/news/1163"
 published: True
-categories: event
+categories: mojo2014
 tags: event mojoconf mojo2014 conference
 ---
 

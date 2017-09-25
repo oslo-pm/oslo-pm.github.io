@@ -11,6 +11,10 @@ social:
   - https://www.facebook.com/groups/oslo.pm
   - https://www.meetup.com/Oslo-pm
 
+designs:
+  mojo2014: true
+  npw2018: true
+
 maps_url: "https://maps.google.com/maps?f=q&hl=en&amp;q="
 event_date_format: "%Y-%m-%d %H:%M"
 

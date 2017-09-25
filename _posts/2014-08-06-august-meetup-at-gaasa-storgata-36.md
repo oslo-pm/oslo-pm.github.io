@@ -18,7 +18,7 @@ We&#39;ll find an outside table and talk about upcoming Perl events and whatever
 
 YAPC in Sofia is just around the corner. We&#39;ll also test whether we can manage to arrange an OSDC (Open Source Developers&#39; Conference) together with other OS communities.
 
-Also, <a href="http://blogs.perl.org/users/neilb/2014/07/cpan-day---14th-august.html">CPAN day is on the 16. of August</a>!
+Also, <a href="http://blogs.perl.org/users/neilb/mojo2014/07/cpan-day---14th-august.html">CPAN day is on the 16. of August</a>!
 
 Interested? Come join us!
 

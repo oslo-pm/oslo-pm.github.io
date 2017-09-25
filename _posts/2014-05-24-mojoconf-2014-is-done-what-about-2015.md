@@ -4,7 +4,7 @@ title: "Mojoconf 2014 is done; What about 2015?"
 date: 2014-05-24 18:25 +0200
 event_url: "http://act.yapc.eu/mojo2014/news/1201"
 published: True
-categories: event
+categories: mojo2014
 tags: event mojoconf mojo2014 conference
 ---
 

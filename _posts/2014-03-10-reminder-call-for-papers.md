@@ -10,12 +10,12 @@ tags: event mojoconf mojo2014 conference
 
 We wish to remind you that the call for papers for Mojoconf 2014 is still open. The deadline for submissions is <strike>in five days, the 15th of March</strike> April 5th.
 
-The original announcement can be found here: <a href="http://www.mojoconf.org/mojo2014/news/1160">http://www.mojoconf.org/mojo2014/news/1160</a>
+The original announcement can be found here: <a href="/mojo2014/02/21/mojoconf-2014-call-for-papers-call-for-speakers">Mojoconf 2014 - Call for papers / Call for speakers</a>.
 
 <b>CfP Mojoconf 2014</b>
 
 <ul>
 <li>Date: 2014-05-24</li>
 <li>Deadline: <strike>2014-03-15</strike> 2014-04-05</li>
-<li>Submit 20min/40min talks: <a href="http://www.mojoconf.org/mojo2014/newtalk">http://www.mojoconf.org/mojo2014/newtalk</a></li>
+<li>Submit 20min/40min talks: <a href="http://act.yapc.eu/mojo2014/newtalk">http://act.yapc.eu/mojo2014/newtalk</a></li>
 </ul>
