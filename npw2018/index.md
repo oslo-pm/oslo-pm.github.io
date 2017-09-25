@@ -1,13 +1,12 @@
 ---
 title: "Nordic Perl Workshop and Mojoconf 2018 in Oslo, Norway"
 layout: default
-design: npw_2018
-main_header_visible: true
+design: npw2018
 ---
 
-{% assign d = site.data.npw_2018 %}
+{% assign d = site.data.npw2018 %}
 
-***DRAFT***
+## ***IMPORTANT! The following information is tentative!***
 
 Nordic Perl Workshop 2018 will be held in Oslo
 in <a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.where.name}}</a>,
@@ -23,10 +22,19 @@ want to hack on? Let us know!
 
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
-## Sponsors
+## Sponsorship
 
-Want to sponsor the Nordic Perl Workshop 2018? Send an email to
-[styret@oslo.pm](styret@oslo.pm) and we'll make the appropriate arrangements.
+Sponsoring this conference is a good way to present your brand positively to
+the attendees, enabling you to build up your company's image within the Perl
+community.
+
+We would like to help you create a meaningful relationship, providing you with
+opportunities not only for advertising, but for making contacts and even
+recruiting.
+
+Should you have any questions, feedback, or if you have already decided to
+sponsor mojoconf please contact us through the following email address:
+[styret@oslo.pm](styret@oslo.pm).
 
 ## Latest news
 

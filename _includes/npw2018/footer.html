@@ -1,0 +1,33 @@
+{% if paginator && paginator.page %}
+<div class="paginator">
+{% if paginator.next_page %}
+  <a class="__next" href="{{paginator.next_page_path}}">&laquo; Earlier</a>
+{% endif %}
+{% if paginator.previous_page %}
+  <a class="__prev" href="{{paginator.previous_page_path}}">Later &raquo;</a>
+{% else %}
+  <a class="__prev" href="/news/list.html">List all</a>
+{% endif %}
+  <span class="__current">-{{paginator.page}}-</span>
+</div>
+{% endif %}
+
+<footer class="site-footer">
+  <ul>
+    <li>
+      Powered by <a href="http://oslo.pm">Oslo.pm</a>
+      and <a href="https://github.com/oslo-pm">Github</a>
+    </li>
+    <li>
+      <a href="https://github.com/oslo-pm/NPW2018/issues">Tasks</a>
+    </li>
+    <li>
+      <a href="https://www.meetup.com/Oslo-pm/" class="page-link">Meetup</a>
+    </li>
+    <li class="last">
+      <a href="{{ "/npw2018/feed.xml" | prepend: site.baseurl }}"><img src="/images/rss.gif" alt="Atom feed"></a>
+    </li>
+  </ul>
+</div>
+</footer>
+{% include google_cse.html %}

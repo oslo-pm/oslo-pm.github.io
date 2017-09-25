@@ -6,12 +6,13 @@
 $font-family: "Helvetica Neue", Arial, sans-serif;
 $font-size: 16px;
 $text-color: #111111;
-$link-color: #2868a4;
+$link-color: #da5a19;
 $border-color: #ccc;
 $max-width: 50rem;
 $gutter: 15px;
 $header-sizes: (h1: 22px, h2: 20px, h3: 18px, h4: 16px) !default;
-$breakpoints: (small: 680px) !default;
+$breakpoints: (small: 680px, large: 1280px) !default;
+$seperator-border: 1px solid #777;
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300,800');
 @import "config";
@@ -30,10 +31,6 @@ body {
   background-position: 50% 50%;
   background-size: cover;
   background-attachment: fixed;
-}
-
-nav {
-  display: none;
 }
 
 .main-header {
@@ -79,31 +76,91 @@ nav {
   }
 }
 
+nav,
 .content,
 .paginator,
 .site-footer {
   background: rgba(255, 255, 255, 0.94);
-  padding: 1rem;
+  padding: 2rem;
 
-  @include media(">small") {
-    border-right: 1px solid #999;
-    border-left: 1px solid #999;
+  @include media("<=small") {
+    padding: 1rem;
+  }
+
+  @include media(">large") {
+    padding: 3rem;
+  }
+}
+
+nav {
+  border-bottom: $seperator-border;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  ul {
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+    float: left;
+  }
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    padding: 1rem;
+    display: block;
+
+    @include media("<=small") {
+      padding: 0.1rem 1rem;
+    }
+
+    &:hover {
+      background: #e0e0e0;
+    }
   }
 }
 
 .content {
-  border-top: 1px solid #999;
-
-  @include media(">small") {
-    padding: 2rem 1rem;
-  }
+  padding-top: 1rem;
 }
 
 .site-footer {
   border-top: $seperator-border;
-  padding: 2rem 1rem;
+
+  ul {
+    overflow: hidden;
+  }
+
+  li {
+    float: left;
+
+    &::after {
+      content: "\00a0\2014\00a0";
+    }
+
+    &.last::after {
+      content: "";
+    }
+  }
+
+  h4, a {
+    color: $link-color;
+  }
+
+  img {
+    vertical-align: middle;
+  }
 }
 
 .google-maps {
   height: 320px;
+}
+
+.entry.-in-list {
+  border: 0;
 }

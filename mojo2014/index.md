@@ -43,7 +43,7 @@ design: mojo2014
 </div>
 </div>
 </div>  <div class="row with-air">
-<div class="col-sm-8">  <h2>Latest news <a href="http://oslo.pm/mojo2014/atom/en.xml"><img src="/mojo2014/images/rss.gif" alt="Atom feed"></a></h2>  <div class="news-entry">
+<div class="col-sm-8">  <h2>Latest news <a href="http://oslo.pm/mojo2014/atom/en.xml"><img src="/images/rss.gif" alt="Atom feed"></a></h2>  <div class="news-entry">
   <h3 class="news-header">
     <span class="news-date">30/05/14</span>
     <span class="news-title">Mojoconf presentations on YouTube</span>

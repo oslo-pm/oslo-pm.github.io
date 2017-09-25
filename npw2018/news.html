@@ -1,0 +1,26 @@
+---
+layout: default
+design: npw2018
+title: "News - Nordic Perl Workshop and Mojoconf 2018"
+filter_name: npw2018
+---
+
+{% assign index = true %}
+{% for i in (0..4) %}
+  {% assign page = site.tags.npw2018[i] %}
+  {% if page %}
+    {% include post.html %}
+  {% endif %}
+{% endfor %}
+
+{% for i in (5..100) %}
+  {% if forloop.first %}<ul class="entries-list">{% endif %}
+  {% assign page = site.tags.npw2018[i] %}
+  {% if page %}
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+      <small>{{ page.date | date: "%b %-d, %Y" }}</small>
+    </li>
+  {% endif %}
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

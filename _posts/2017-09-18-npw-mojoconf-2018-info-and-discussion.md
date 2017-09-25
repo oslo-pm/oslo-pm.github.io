@@ -7,6 +7,7 @@ where: "Far East, Bernt Ankers Gate 4"
 maps_query: "Bernt%20Ankers%20Gate%204%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/243149532/"
 published: True
+categories: npw2018
 tags: event conference npw npw2018
 ---
 

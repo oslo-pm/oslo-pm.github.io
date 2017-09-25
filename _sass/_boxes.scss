@@ -1,3 +1,7 @@
+.clear {
+  clear: both;
+}
+
 .wrapper {
   max-width: $max-width;
   margin: 0 auto;
@@ -5,9 +9,6 @@
 
 .site-footer {
   overflow: hidden;
-  color: #444;
-  font-size: 0.9rem;
-  line-height: 1.2rem;
 
   ul {
     margin: 0;
@@ -17,13 +18,10 @@
     margin: 0;
     list-style: none;
   }
-  h4, a {
-    color: #444;
-    font-size: 13px;
-  }
   .column {
     width: 50%;
     float: left;
+    text-align: center;
   }
 }
 

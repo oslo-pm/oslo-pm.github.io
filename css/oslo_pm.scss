@@ -93,4 +93,8 @@
 .site-footer {
   border-top: $seperator-border;
   margin: 3rem 0 1rem 0;
+
+  h4, a {
+    color: #444;
+  }
 }
