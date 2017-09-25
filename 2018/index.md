@@ -14,8 +14,8 @@ in <a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.w
 {{d.conference.start | date: "%-d" }} - {{d.conference.stop | date: "%-d %B, %Y" }}.
 
 The conference topic is "Perl in the cloud", with focus on web development,
-and deployment methods. We are therefor pleased to announce that we will
-have members from the [Mojolicious](http://mojolicious.org/) core team and
+and deployment methods. We are pleased to announce that we will have members
+from the [Mojolicious](http://mojolicious.org/) core team attending and
 a track dedicated to the Mojolicious real-time web framework.
 
 On the following Saturday, we're hosting a Perl hackathon. Do you have anything you
