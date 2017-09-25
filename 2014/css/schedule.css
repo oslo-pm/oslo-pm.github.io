@@ -1,0 +1,50 @@
+/*~------------------------------------------------------------------*/
+/* Timetable colours                                                 */
+/*~------------------------------------------------------------------*/
+.header {
+color: inherit;
+background-color: Silver;
+vertical-align: top;
+}
+.venue {
+color: inherit;
+background-color: #FFCC00;
+vertical-align: top;
+}
+.out {
+color: inherit;
+background-color: #EEEEEE;
+vertical-align: top;
+}
+.r1 {
+color: inherit;
+background-color: #FFD3D3;
+vertical-align: top;
+}
+.r2 {
+color: inherit;
+background-color: #D3FFD3;
+vertical-align: top;
+}
+.r3 {
+color: inherit;
+background-color: #D3D3FF;
+vertical-align: top;
+}
+.r4 {
+color: inherit;
+background-color: #FFFFD3;
+vertical-align: top;
+}
+.r5 {
+color: inherit;
+background-color: #D3FFFF;
+vertical-align: top;
+}
+.mtbutton {
+cursor:pointer;
+vertical-align: middle;
+}
+.starcount {
+font-size: small;
+}

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>mojoconf 2014</title>
+  <id>http://act.yapc.eu/mojo2014/atom/en.xml</id>
+  <updated>2014-05-30T15:19:00Z</updated>
+  <link type="application/atom+xml" rel="self" href="http://act.yapc.eu/mojo2014/atom/en.xml"/>
+  <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news?language=en"/>
+  <entry>
+    <title>Mojoconf presentations on YouTube</title>
+    <id>http://act.yapc.eu/mojo2014/en/1209</id>
+    <author>
+      <email>jhthorsen@cpan.org</email>
+      <name>batman</name>
+    </author>
+    <updated>2014-05-30T15:19:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>We have created a <a href="https://plus.google.com/u/0/b/111405942135977171778/111405942135977171778/posts?pageId=111405942135977171778">Google+</a> profile and <a href="https://www.youtube.com/channel/UCgk2wCZr5Rk-cewLTtQA_Fg">YouTube</a> channel for the conference presentations. Most of the presentations are already uploaded, but there are some waiting for confirmation.</p>
+<p>If your don't know what happened with your presentation, then please <a href="mailto:mojoconf@oslo.pm">let us know</a> and we will try to fix it.</p>
+<p>We want to say thank you to <a href="http://www.nuug.no/">NUUG</a>, which made it possible to record and distribute the presentations.</p>
+<p>The YouTube edit of the videos were created with <a href="https://github.com/jhthorsen/snippets/blob/master/media/avconv-maketalk">perl + avconv + imagemagick</a>.</p>
+<p><a href="http://tiny.cc/Mojoconf2014presentations">http://tiny.cc/Mojoconf2014presentations</a></p></div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1209"/>
+  </entry>
+  <entry>
+    <title>Mojoconf 2014 is done; What about 2015?</title>
+    <id>http://act.yapc.eu/mojo2014/en/1201</id>
+    <author>
+      <email>sjn+yapc@pvv.org</email>
+      <name>sjn</name>
+    </author>
+    <updated>2014-05-24T16:25:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>Next year, we'd love to see another Mojoconf organized!</p>
+<p>To help this happen, the Mojoconf 2014 organizers donate €2000 to the next year's organizers. If you would like to organize it, state your interest publicly in the #mojo IRC channel on irc.perl.org; The Mojolicious core team gets to figure out who wins the honor! :)</p>
+<p>Thanks for a great conference, and we hope to see everyone at the hackathon on Sunday, and if not; then at next year's Mojoconf!</p>
+<p>Cheers!</p></div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1201"/>
+  </entry>
+  <entry>
+    <title>Post-conference social at Kulturhuset, Youngstorget 3!</title>
+    <id>http://act.yapc.eu/mojo2014/en/1202</id>
+    <author>
+      <email>sjn+yapc@pvv.org</email>
+      <name>sjn</name>
+    </author>
+    <updated>2014-05-24T15:30:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>We'll celebrate a successful conference at the pub downstairs (same building as the venue).</p>
+<p>Everyone is welcome! :D</p></div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1202"/>
+  </entry>
+  <entry>
+    <title>Pre-conference meetup on Crowbar</title>
+    <id>http://act.yapc.eu/mojo2014/en/1197</id>
+    <author>
+      <email>jhthorsen@cpan.org</email>
+      <name>batman</name>
+    </author>
+    <updated>2014-05-21T11:21:00Z</updated>
+    <content type="html">&lt;p&gt;The pre-conference meetup will be at Crowbar, a micro brewery just five minutes from the venue. Look for table signes with "Mojoconf" on them, or look for fellow Mojo-hackers.&lt;/p&gt;
+&lt;p&gt;Time: Friday, 23rd of May, 17:30&#13;
+&lt;br&gt;Address: Torggata 32.&#13;
+&lt;br&gt;Food: You can get small snacks and kebab. (I recommend the kebab)&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href="http://www.tripadvisor.com/Restaurant_Review-g190479-d3724405-Reviews-Crowbar_og_Bryggeri-Oslo_Eastern_Norway.html"&gt;Tripadvisor&lt;/a&gt; and &lt;a href="http://goo.gl/Fdmor7"&gt;Google maps&lt;/a&gt; for more information and directions.&lt;/p&gt;
+&lt;p&gt;Feel free to sign up at the &lt;a href="http://www.meetup.com/Oslo-pm/events/184319252/"&gt;Meetup event&lt;/a&gt; if you are coming!&lt;/p&gt;</content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1197"/>
+  </entry>
+  <entry>
+    <title>Prerequisites for the course got updated</title>
+    <id>http://act.yapc.eu/mojo2014/en/1196</id>
+    <author>
+      <email>jhthorsen@cpan.org</email>
+      <name>batman</name>
+    </author>
+    <updated>2014-05-16T06:26:00Z</updated>
+    <content type="html">&lt;p&gt;The prerequisites for the course got updated:&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;Students are recommended to bring laptops running OSX or Linux. Windows will work for much of the labs, although high performance examples may not operate as expected.&lt;/p&gt;
+&lt;p&gt;Please arrive with Perl 5.16.3+, Mojolicious 4.98+, App::cpanminus and Modern::Perl installed. For those using earlier versions of Perl, http://perlbrew.pl is recommended. Please contact us if you have questions or need help arriving prepared.&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;Read the full list on &lt;a href="http://www.mojoconf.org/mojo2014/training.html#prerequisites"&gt;Training&lt;/a&gt; page. Got questions? Don't wait to &lt;a href="mailto:mojoconf14@oslo.pm"&gt;ask&lt;/a&gt; us. (You can also &lt;a href="http://mibbit.com/?channel=%23oslo.pm&amp;server=irc.perl.org"&gt;reach us via IRC chat&lt;/a&gt;!)&lt;/p&gt;</content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1196"/>
+  </entry>
+  <entry>
+    <title>Tickets available for Mojoconf 2014</title>
+    <id>http://act.yapc.eu/mojo2014/en/1181</id>
+    <author>
+      <email>mendoza@pvv.ntnu.no</email>
+      <name>nicomen</name>
+    </author>
+    <updated>2014-04-06T22:10:00Z</updated>
+    <content type="html">&lt;p&gt;As some of you might have noticed it is now possible to buy tickets for the upcoming Mojoconf2014 conference.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Prices:&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;table class="table"&gt;&#13;
+&lt;thead&gt;&#13;
+&lt;tr&gt;&lt;th&gt;Event&lt;/th&gt;&lt;th&gt;Date&lt;/th&gt;&lt;th&gt;Price&lt;/td&gt;&lt;th&gt;Description&lt;/th&gt;&lt;/tr&gt;&#13;
+&lt;/thead&gt;&#13;
+&lt;tbody&gt;&#13;
+&lt;tr class="act-product"&gt;&lt;td&gt;Mojolicious tutorial&lt;/td&gt;&lt;td&gt;May 23rd 2014&lt;/td&gt;&lt;td&gt;&lt;b&gt;500 EUR&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Full-day tutorial with a Mojolicious core developer&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;tr class="act-product"&gt;&lt;td&gt;Mojoconf&lt;/td&gt;&lt;td&gt;May 24th 2014&lt;/td&gt;&lt;td&gt;&lt;b&gt;20 EUR&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Conference-day&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;tr class="act-product"&gt;&lt;td&gt;Mojolicious hackathon&lt;/td&gt;&lt;td&gt;May 25th 2014&lt;/td&gt;&lt;td&gt;&lt;b&gt;Free&lt;/b&gt;&lt;/td&gt;&lt;td&gt;Hacking on various projects&lt;/td&gt;&lt;/tr&gt;&#13;
+&lt;/tbody&gt;&#13;
+&lt;/table&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;Please visit the &lt;a href="http://mojoconf.org/mojo2014"&gt;Mojoconf website&lt;/a&gt; or go directly to the &lt;a href="http://www.mojoconf.org/mojo2014/purchase"&gt;purchase page&lt;/a&gt; to buy your tickets.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;p&gt;&lt;b&gt;tags: perl, mojolicious, web apps, conference, mojoconf&lt;/b&gt;&lt;/p&gt;&lt;/p&gt;</content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1181"/>
+  </entry>
+  <entry>
+    <title>Call for Papers / Call for speakers - extended deadline: April 5th</title>
+    <id>http://act.yapc.eu/mojo2014/en/1169</id>
+    <author>
+      <email>mendoza@pvv.ntnu.no</email>
+      <name>nicomen</name>
+    </author>
+    <updated>2014-03-19T12:58:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>We have received a good amount of talks, but we realize we can squeeze in quite a few more. </p>
+<p>That's why we have decide to prolong the deadline till April 5th.</p>
+<p>The topics the talks we have received till now include: async, begin_decapitates_args, dom, error_2048, html5, lucy, mojolicious, mongo, nonblocking, pitfalls, procrastination, refactoring, reuse, rss, search, security, testing, ua_halts_ioloop, websockets</p>
+<p>If you have any questions, please don't hesitate in asking us at <a href="mailto:mojoconf14@oslo.pm">mojoconf14@oslo.pm</a></p>
+<p>Submit a talk at: <a href="http://www.mojoconf.org/mojo2014/newtalk">http://www.mojoconf.org/mojo2014/newtalk</a></p></div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1169"/>
+  </entry>
+  <entry>
+    <title>Reminder Call for Papers</title>
+    <id>http://act.yapc.eu/mojo2014/en/1164</id>
+    <author>
+      <email>mendoza@pvv.ntnu.no</email>
+      <name>nicomen</name>
+    </author>
+    <updated>2014-03-10T10:24:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml"><p>We wish to remind you that the call for papers for Mojoconf 2014 is still open. The deadline for submissions is <strike>in five days, the 15th of March</strike> April 5th.</p>
+<p>The original announcement can be found here: <a href="http://www.mojoconf.org/mojo2014/news/1160">http://www.mojoconf.org/mojo2014/news/1160</a></p>
+<p><b>CfP Mojoconf 2014</b>
+<ul>
+<li>Date: 2014-05-24</li>
+<li>Deadline: <strike>2014-03-15</strike> 2014-04-05</li>
+<li>Submit 20min/40min talks: <a href="http://www.mojoconf.org/mojo2014/newtalk">http://www.mojoconf.org/mojo2014/newtalk</a></li>
+</ul></p></div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1164"/>
+  </entry>
+  <entry>
+    <title>About the Mojolicious Core</title>
+    <id>http://act.yapc.eu/mojo2014/en/1163</id>
+    <author>
+      <email>sjn+yapc@pvv.org</email>
+      <name>sjn</name>
+    </author>
+    <updated>2014-03-07T08:00:00Z</updated>
+    <content type="html">&lt;p&gt;&lt;iframe src="//player.vimeo.com/video/40992416" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="http://vimeo.com/40992416"&gt;Core&lt;/a&gt; from &lt;a href="http://vimeo.com/tempire"&gt;glen hinkle&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1163"/>
+  </entry>
+  <entry>
+    <title>Mojoconf 2014 - Call for papers / Call for speakers</title>
+    <id>http://act.yapc.eu/mojo2014/en/1160</id>
+    <author>
+      <email>mendoza@pvv.ntnu.no</email>
+      <name>nicomen</name>
+    </author>
+    <updated>2014-02-21T22:22:00Z</updated>
+    <content type="html">&lt;p&gt;TL;DR&lt;br&gt;&#13;
+&lt;ul&gt;&#13;
+&lt;li&gt; CfP Mojoconf 2014&#13;
+&lt;li&gt; Date: 2014-05-24&#13;
+&lt;li&gt; Deadline: 2014-03-15&#13;
+&lt;li&gt; Submit 20min/40min talks: &lt;a href="http://www.mojoconf.org/mojo2014/newtalk"&gt;http://www.mojoconf.org/mojo2014/newtalk&lt;/a&gt;&#13;
+&lt;/ul&gt;&#13;
+ &lt;p&gt;&#13;
+As previously announced the first Mojolicious related conference ever, Mojoconf 2014, will be hosted by Oslo.pm in Oslo, Norway during the weekend of May 23rd to 25th.&#13;
+ &lt;p&gt;&#13;
+A big part of the conference will be Saturday's presentations. This will be the only day for presentations as Friday will have a course, and Sunday is reserved for a hackathon session. &#13;
+ &lt;p&gt;&#13;
+We would like to invite anyone that wants to hold a talk related to Mojolicious, Perl and the web. In addition we will have a smaller track with related technologies, so we welcome talks about related technologies such as javascript frameworks like Angular or React.js, storage solutions like MongoDB or Redis, or web technologies like Varnish and Nginx.&#13;
+ &lt;p&gt;&#13;
+Do you have a good story, some specific technology you have used, a particular product you have made, breakthroughs or even failures, don't hesitate in submitting your talk.&#13;
+ &lt;p&gt;&#13;
+We are aiming for talks lasting either 20 minutes or 40 minutes, but we are flexible in length or presentation form, please contact us for more information. If you're interested in holding a shorter talk, send us a note, we might hold a lightening talks session as well.&#13;
+ &lt;p&gt;&#13;
+The deadline for submitting talks is set to &lt;strike&gt;March 15th&lt;/strike&gt; April 5th.&#13;
+ &lt;p&gt;&#13;
+If your talk is accepted, you will of course get free admission to the event.&#13;
+ &lt;p&gt;&#13;
+&lt;b&gt;&lt;a href="http://www.mojoconf.org/mojo2014/newtalk"&gt;Submit a talk!&lt;/a&gt;&lt;/b&gt;&#13;
+ &#13;
+Contact us: &lt;a href="mailto:mojoconf@oslo.pm"&gt;mojoconf@oslo.pm&lt;/a&gt;&lt;/p&gt;</content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1160"/>
+  </entry>
+  <entry>
+    <title>Official conference tag</title>
+    <id>http://act.yapc.eu/mojo2014/en/1151</id>
+    <author>
+      <email>sjn+yapc@pvv.org</email>
+      <name>sjn</name>
+    </author>
+    <updated>2014-02-10T00:24:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p><p>
+We have an official conference tag: <strong>#mojoconf2014</strong>.
+</p>
+<p>
+Please use it when referring to this conference in your social media channels of choice. If you have room to spare, please add the #perl tag too.
+</p></p>
+      </div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1151"/>
+  </entry>
+  <entry>
+    <title>Welcome to mojoconf 2014</title>
+    <id>http://act.yapc.eu/mojo2014/en/1150</id>
+    <author>
+      <email>sjn+yapc@pvv.org</email>
+      <name>sjn</name>
+    </author>
+    <updated>2014-02-10T00:10:00Z</updated>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>
+          <p>Mojoconf 2014 will happen in Oslo, Norway.</p>
+          <ul>
+  <li>Friday, May 23rd 2014: Mojolicious 1-day training class (€TBD)</li>
+  <li>Saturday May 24th 2014: <strong>Mojolicious 1-day conference</strong> (€20)</li>
+  <li>Sunday May 25th 2014: Mojolicious hackathon (€0)</li>
+</ul>
+          <p>More details to follow. Update your calendar today!</p>
+        </p>
+      </div>
+    </content>
+    <link type="text/html" rel="alternate" href="http://act.yapc.eu/mojo2014/news/1150"/>
+  </entry>
+</feed>

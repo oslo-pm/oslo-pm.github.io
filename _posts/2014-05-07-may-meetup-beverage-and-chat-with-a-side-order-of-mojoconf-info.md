@@ -7,7 +7,7 @@ where: "Crowbar / Kråka, Torggata 32"
 maps_query: "Torggata%2032%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/181244532/"
 published: True
-categories: event
+categories: mojo2014
 tags: event
 ---
 

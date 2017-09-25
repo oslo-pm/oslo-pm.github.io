@@ -7,9 +7,11 @@ use Mojo::Util 'trim';
 
 my %hidden = (
   damian      => 1,
+  mojo2014    => 1,
   mojoconf    => 1,
   mojolicious => 1,
   npw         => 1,
+  npw2018     => 1,
   osdc        => 1,
   perl6       => 1,
   qa          => 1,

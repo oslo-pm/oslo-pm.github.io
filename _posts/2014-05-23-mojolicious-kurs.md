@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mojolicious-kurs med Glen Hinkle, 24. mai
+categories: mojo2014
 tags: course mojoconf tempire
 ---
 
