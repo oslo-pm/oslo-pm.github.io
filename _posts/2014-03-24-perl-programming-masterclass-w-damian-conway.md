@@ -7,7 +7,6 @@ where: "TBD"
 maps_query: "Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/171571562/"
 published: True
-categories: event
 tags: course damian
 ---
 

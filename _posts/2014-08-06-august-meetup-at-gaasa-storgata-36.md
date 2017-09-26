@@ -7,7 +7,6 @@ where: "Gaasa, Storgata 36B"
 maps_query: "Storgata%2036B%2C%20Oslo%2C%20NO"
 event_url: "https://www.meetup.com/Oslo-pm/events/199092482/"
 published: True
-categories: event
 tags: event conference osdc
 ---
 

@@ -7,7 +7,6 @@ where: "Kulturhuset, Youngs gate 6"
 maps_query: "Youngs%20gate%206%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/240177542/"
 published: True
-categories: event
 tags: event tech
 ---
 

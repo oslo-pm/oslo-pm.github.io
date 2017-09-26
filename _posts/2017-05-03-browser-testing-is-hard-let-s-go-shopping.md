@@ -7,7 +7,6 @@ where: "Reisegiganten, Rosenkrantz gate 9"
 maps_query: "Rosenkrantz%20gate%209%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/239533530/"
 published: True
-categories: event
 tags: event tech
 ---
 

@@ -7,7 +7,6 @@ where: "Teknologihuset, Pilestredet 56"
 maps_query: "Pilestredet%2056%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/169551702/"
 published: True
-categories: event
 tags: event board
 ---
 

@@ -7,7 +7,6 @@ where: "Scotsman, 2. etg, Karl Johansgt 17"
 maps_query: "Karl%20Johansgt%2017%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/230165754/"
 published: True
-categories: event
 tags: event tech
 ---
 

@@ -7,7 +7,6 @@ where: "Pappabuene, Rådhusbrygge 1"
 maps_query: "R%E5dhusbrygge%201%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/192350622/"
 published: True
-categories: event
 tags: event
 ---
 

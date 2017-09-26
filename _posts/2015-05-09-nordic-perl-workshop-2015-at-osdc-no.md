@@ -7,7 +7,6 @@ where: "Simula, Ole-Johan Dahls hus, Gaustadaleen 23B"
 maps_query: "Gaustadaleen%2023B%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/221930064/"
 published: True
-categories: event
 tags: event conference npw
 ---
 

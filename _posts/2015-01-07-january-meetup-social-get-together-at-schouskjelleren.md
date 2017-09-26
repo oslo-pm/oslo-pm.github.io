@@ -7,7 +7,6 @@ where: "Schouskjelleren Mikrobryggeri, Trondheimsveien 2"
 maps_query: "Trondheimsveien%202%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/219615223/"
 published: True
-categories: event
 tags: event
 ---
 

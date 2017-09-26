@@ -7,7 +7,6 @@ where: "Large Auditorium, Kristen Nygaard's House, UiO, Gaustadalléen 23A"
 maps_query: "Gaustadall%E9en%2023A%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/230167281/"
 published: True
-categories: event
 tags: event tech
 ---
 

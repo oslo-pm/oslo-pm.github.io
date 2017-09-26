@@ -19,7 +19,7 @@ paginate_path: "/news/all/page:num"
 
 url: http://oslo.pm
 
-permalink: /:year/:month/:day/:title.html
+permalink: /:categories/:year/:month/:day/:title.html
 destination: ./_site
 plugins:
 - jekyll-feed

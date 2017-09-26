@@ -72,7 +72,6 @@ where: "$where"
 maps_query: "$maps_q"
 event_url: "$event->{event_url}"
 published: True
-categories: event
 tags: $tags
 ---
 

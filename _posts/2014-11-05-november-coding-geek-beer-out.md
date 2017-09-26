@@ -7,7 +7,6 @@ where: "Handverkerstuene, Rosenkrantzgt. 7,  (entr. Kristian IV's gt.)"
 maps_query: "Rosenkrantzgt.%207%2C%20%20%28entr.%20Kristian%20IV%27s%20gt.%29%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/217674462/"
 published: True
-categories: event
 tags: event
 ---
 

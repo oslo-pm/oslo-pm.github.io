@@ -7,7 +7,6 @@ where: "Kulturhuset, Youngstorget 3"
 maps_query: "Youngstorget%203%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/184900032/"
 published: True
-categories: event
 tags: event
 ---
 

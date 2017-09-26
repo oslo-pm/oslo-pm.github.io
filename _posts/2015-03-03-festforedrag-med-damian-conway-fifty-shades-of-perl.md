@@ -7,7 +7,6 @@ where: "The Scotsman, Karl Johans g 17, 0159 Oslo"
 maps_query: "Karl%20Johans%20g%2017%2C%200159%20Oslo%2C%20Oslo%2C%20no"
 event_url: "https://www.meetup.com/Oslo-pm/events/220726599/"
 published: True
-categories: event
 tags: event
 ---
 
