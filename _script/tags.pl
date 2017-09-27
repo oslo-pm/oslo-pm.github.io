@@ -11,6 +11,7 @@ my %hidden = (
   mojoconf    => 1,
   mojolicious => 1,
   npw         => 1,
+  npw2009     => 1,
   npw2018     => 1,
   osdc        => 1,
   perl6       => 1,

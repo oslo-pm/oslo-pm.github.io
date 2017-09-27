@@ -6,11 +6,12 @@ use Mojo::UserAgent;
 use Mojo::Util 'trim';
 
 my $ua   = Mojo::UserAgent->new;
-my $news = $ua->get('http://act.yapc.eu/mojo2014/news')->res->dom->at('.newsbox');
+my $news = $ua->get('http://www.perlworkshop.no/npw2009/news')->res->dom->at('.newsbox');
 my @current;
 
 $news->children->each(
   sub {
+    return if $_[0]->tag eq 'a' or $_[0]->content !~ /\w/;
     save() if @current and $_[0]->tag eq 'h3';
     push @current, $_[0];
   }
@@ -22,22 +23,23 @@ sub save {
   my $h2        = shift @current or return;
   my $info      = shift @current;
   my $event_url = $h2->at('a')->{href};
-  my $title     = $h2->all_text;
+  my $title     = Mojo::Util::encode('UTF-8', $h2->all_text);
   my (@content, @date);
 
   # 30/05/14 17:19 by John...
   $info = [split /\s+by\s+/, $info->all_text];
-  @date = split /\D+/, $info->[0];
+  @date = split /-/, $info->[0];
+  $date[1] = '04';
 
   push @content, <<"HERE";
 ---
 layout: post
 title: "$title"
-date: 20$date[2]-$date[1]-$date[0] $date[3]:$date[4] +0200
+date: $date[2]-$date[1]-$date[0] 00:00 +0200
 event_url: "$event_url"
 published: True
-categories: event
-tags: event mojoconf mojo2014 conference
+categories: npw2009
+tags: npw npw2009 conference
 ---
 HERE
 
@@ -53,7 +55,7 @@ HERE
   $file =~ s!\W+$!!;
   $file =~ s!^\W+!!;
   $file
-    = path("_posts", sprintf '%s-%s-%s-%s.md', "20$date[2]", $date[1], $date[0], $file);
+    = path("_posts", sprintf '%s-%s-%s-%s.md', $date[2], $date[1], $date[0], $file);
 
   warn "Saving $file ...\n";
   $file->spurt(join '', @content);

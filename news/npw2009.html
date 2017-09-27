@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Entries by "mojo2014"
-filter_name: mojo2014
+title: Entries by "npw2009"
+filter_name: npw2009
 canonical_url: http://oslo.pm/news/list.html
 redirect_from:
-- /blog/mojo2014.html
+- /blog/npw2009.html
 ---
 
 {% include tag_menu.html %}
 
 {% assign index = true %}
 {% for i in (0..2) %}
-  {% assign page = site.tags.mojo2014[i] %}
+  {% assign page = site.tags.npw2009[i] %}
   {% if page %}
     {% include post.html %}
   {% endif %}
@@ -19,7 +19,7 @@ redirect_from:
 
 {% for i in (3..100) %}
   {% if forloop.first %}<hr><ul class="entries-list">{% endif %}
-  {% assign page = site.tags.mojo2014[i] %}
+  {% assign page = site.tags.npw2009[i] %}
   {% if page %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>

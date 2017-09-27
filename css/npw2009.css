@@ -1,0 +1,226 @@
+
+body, td, a, input, textarea, select {
+    font-family: sans-serif;
+    color: #000;
+}
+
+body, td, th {
+    font-size: 12pt;
+}
+
+body {
+    background: #fefefe;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #467;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+p, form {
+    margin: 0.2em 0;
+    padding: 0;
+}
+
+p.intro {
+    margin: 0.5em;
+}
+
+h1, h2, h3 {
+    margin: 1.2em 0 0.2em 0;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 18pt;
+    margin-top: 0;
+}
+
+h2 {
+    background-color: #f5f5ff;
+    border-bottom: 1px solid #bbb;
+    font-size: 16pt;
+}
+
+h3 {
+    font-size: 12pt;
+    border-bottom: 1px solid #bbb;
+}
+
+h2 a,
+h3 a {
+    color: #000;
+    text-decoration: none;
+    //display: block;
+}
+
+h2 img,
+h3 img {
+    border: 0px;
+}
+
+h3 a:hover {
+    background-color: #eef;
+}
+
+table {
+    width: 100%;
+    border: 0;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+table table {
+    margin: 0;
+}
+
+td, th {
+    border: 0;
+    padding: 2px;
+    text-align: left;
+    border: 1px solid #aaa;
+}
+
+table table td,
+table table th,
+fieldset td,
+fieldset th {
+    border: 0;
+}
+
+#heading {
+    background: #eeeeff url(/npw2009/images/oslo.pm-logo.png) no-repeat 2em 2px;
+    border-bottom: 2px solid #d0d0f0;
+    padding: 25px 2em 0 12em;
+    margin-bottom: 2em;
+    clear: both;
+    height: 80px;
+}
+
+#heading * {
+    color: #000;
+    text-decoration: none;
+}
+
+#footer {
+    padding-top: 55px;
+    margin-top: -30px;
+    clear: both;
+}
+
+#footer .text {
+    border-top: 2px solid #d0d0f0;
+    display: block;
+    font-size: 0.8em;
+    padding: 1em 2em 1em 15em;
+}
+
+#menu, #content {
+    padding-bottom: 1em;
+    width: auto;
+}
+
+#menu {
+    float: left;
+    width: 9em;
+    font-size: 1em;
+    padding-left: 2em;
+}
+
+#menu * {
+    margin: 0;
+    padding: 0;
+}
+
+
+#menu a,
+#menu span.dummy,
+#menu .h1 {
+    display: block;
+}
+
+#menu a, #menu span.dummy {
+    text-decoration: none;
+    border-left: 2px solid #ddeeff;
+    padding-left: 0.1em;
+    margin-left: -0.1em;
+}
+
+#menu a:hover {
+    color: #000;
+    border-left-color: #467;
+}
+
+#menu .h1 {
+    margin-top: 0.5em;
+    display: block;
+}
+
+#menu .h1,
+#menu .h1 a {
+    color: #123;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+#menu ul {
+    list-style: none;
+}
+
+#menu li.item {
+    font-size: 0.9em;
+}
+
+#menu li.item span {
+    padding-left: 0.3em;
+    display: block;
+}
+
+#content {
+    padding-left: 12em;
+    padding-right: 2em;
+    line-height: 1.4em;
+}
+
+#maincontent_wrapper {
+    margin-right: -360px;
+    width: 100%;
+    float: left;
+}
+
+#maincontent {
+    margin-right: 360px;
+}
+
+#metacontent {
+    background: #fff;
+    width: 320px;
+    float: right;
+    position: relative;
+    top: -3.3em;
+    padding-left: 2em;
+}
+
+/*
+ * News
+ */
+
+.news-header .news-date {
+    float: right;
+    font-size: 0.9em;
+    font-weight: normal;
+    display: block;
+    padding-left: 1em;
+}
+
+.newsbox a img {
+    border: 0px;
+}
+
