@@ -1,0 +1,106 @@
+---
+layout: default
+title: Perl 6 Patterns Hackathon Notes 2012
+source_url: https://gist.github.com/sjn/1711730
+---
+
+# Notes
+
+- Date: 2012-04-20 - 2012-04-22
+- Location: Redpill Linpro
+- DONE:
+ - Reservering av kurslokale
+ - Få Damian til å reservere tid
+ - Bekreftede personer:
+   - jnthn
+   - pmichaud
+   - masak
+   - damian
+   - tadzik
+   - moritz
+   - fsergot
+- Regnskap og påmelding:
+  - https://docs.google.com/spreadsheet/ccc?key=0AvORp-ELYp2rdGhHazhleEhpdFJYNEdGc3ZoV0ZodFE
+- TODO:
+ - Lage short-list
+   - Patrick Michaud (pmichaud) <pmichaud@pobox.com>
+     - Kontaktet av sjn
+     - Positiv, har satt av helgen, trenger sponsing: $1000 + hotell + flybuss
+     - Flyr fra Dallas, Texas (DFW)
+     - Vi har sponsordekning, billett kjøpt inn
+   - Moritz Lenz (moritz) <moritz@faui2k3.org>
+     - Har satt av helgen, kommer. Fly er booket.
+     - Flyr fra NUE (Nüremburg) eller MUC (München), ~€200
+     - Kan bo hjemme hos noen
+   - Jonathan Worthington (jnthn) <jnthn@jnthn.net>
+     - Kontaktet av sjn
+     - Kommer, kan sove over hos noen, reiser selv
+   - Carl Mäsak (masak) <cmasak@gmail.com>
+     - Kontaktet av sjn
+     - Kommer, kan bo hjemme hos noen, betaler egen reise
+   - Mark Leighton Fisher (?) <fisherscreek.consulting@gmail.com>
+     - Ønsket å porte pmtools til Perl6 en gang i 2010, men gjør andre ting nå.
+   - Tadeusz Sośnierz (tadzik) <tadeusz.sosnierz@onet.pl>
+     - Kontaktet av sjn
+     - Kommer, Har bestilt flybilett, villig til å sove hjemme hos noen
+   - "Stefan O'Rear (sorear)" <stefanor@cox.net>
+     - Flyr fra Los Angeles (LAX)
+     - Negativ, "I live about as far from Oslo as you can get and still be on land in the subtropical Northern Hemisphere" :-\
+   - Pawel Murias (pmurias) <pawelmurias@gmail.com>
+     - TODO: Kontakt -- krunen
+     - Er ikke ofte tilgjengelig på IRC
+   - Martin Berends (mberends) <perl@autoexec.demon.nl>
+     - Kontakt -- frettled
+     - moritz sier mberends er veldig travelt opptatt privat og jobbmessig, ventes tilbake i Perl 6-miljøet «om noen uker»
+     - mberends er litt lei av fremdriften, og usikker om han vil komme
+ - Kontakte folk på short-list
+   - DONE: Finne epostadresser -- sjn
+   - TODO: Formulere mail til short-list folk -- krunen
+ - Sponsing?
+   - NUUGf
+     - DONE: Vi fikk 10,000kr!
+   - NLNet Foundation?
+     - TODO: Skrive søknad (engelsk)
+     - Vi dropper.
+   - Redpill Linpro program for Go Open?
+     - DONE: Snakke med Ann Rosalind om saken -- sjn
+     - Linpro bruker ikke Damian til noe spesielt.
+   - Arrangement med IfI/UiO (kjekje)
+     - TODO: Møte med ifi, kanskje eget foredrag på 24. april?
+     - Vi dropper dette (utsatt til en annen gang).
+   - TODO: Call for Sponsors tekst til oslo-aktive -- krunen
+     - Jan foreslår å formulere teksten som "vil du matche det Jan gir?"
+ - Sponsorbehov (flybilletter, hotell)
+   - tadzik
+     - 476 PLN Fly
+     - Flybuss-pris (Torp-Oslo-Torp) er IKKE inkludert. (+2 * 200NOK)
+     - Kan bo hjemme hos noen
+     - Billetter er kjøpt, Oslo.pm sponser
+   - pmichaud
+     - 1050 USD Fly
+     - Flybuss
+     - Foretrekker Hotell, kan bo hjemme hos noen
+   - masak
+     - Reiser på egen regning
+     - Kan bo hjemme hos noen
+   - moritz
+     - Trenger reisestøtte (ca €200) + Flybuss
+     - Han bo hjemme hos noen
+     - Billetter er kjøpt, Oslo.pm sponser
+ - Hotell
+   - TODO: Finne et billig hotell
+     - DONE: sjn - Anker hotell (for pmichaud), forhåndsbetalt
+ - Sengeplasser (krunen tildeler)
+   - Salve (1-2 personer)
+   - Rune (2-3 personer)
+   - Jan (kanskje 1 person)
+   - Marcus (1 person)
+- Hjelp/avlasting:
+ - TODO: Søke etter frivllige på aktive-lista
+   - ???
+ - TODO: Frivillige til overnatting
+   - DONE: krunen har sendt mail
+- Informasjons-side
+ - https://gist.github.com/1711730
+ - Oppdateres av sjn
+ - fork() for å endre, si i fra til sjn

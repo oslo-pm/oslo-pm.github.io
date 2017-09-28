@@ -3,7 +3,7 @@ layout: default
 title: Resources
 ---
 
-# Resources
+# Oslo.pm resources
 
 * [About Oslo.pm](/about)
 * [Board](/board)
@@ -14,11 +14,18 @@ title: Resources
 * [Meetup](https://www.meetup.com/Oslo-pm)
 * [News](/news) ([RSS]({{ "/feed.xml" | prepend: site.baseurl }}))
 
-## Conferences
+## Conferences, hackathons and workshops
 
-* [Nordic Perl Workshop and Mojoconf 2018](/npw2018)
-* [Mojoconf 2014](/mojo2014)
-* [Nordic Perl Workshop 2009](/npw2009)
+* [Nordic Perl Workshop and Mojoconf](/npw2018) - 2018
+* [Mojoconf](/mojo2014) - 2014
+* [Moving to Moose Hackathon](http://act.yapc.eu/mtmh2012) - 2012
+* [Perl 6 Patterns Hackathon](/hackathon2012) - 2012
+* [Nordic Perl Workshop](/npw2009) - 2009
+* [QA hackathon](http://perl-qa.hexten.net/wiki/index.php/Oslo_QA_Hackathon_2008) - 2008
+
+## External resources
+
+* [Perl weekly](http://perlweekly.com/)
 
 ## Search our page
 
