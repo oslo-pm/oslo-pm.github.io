@@ -116,7 +116,7 @@ nav {
     display: block;
 
     @include media("<=small") {
-      padding: 0.1rem 1rem;
+      padding: 0.5rem 1rem;
     }
 
     &:hover {
@@ -167,4 +167,26 @@ nav {
 
 .entry.-in-list {
   border: 0;
+}
+
+ul.committee {
+  list-style: none;
+  padding: 0;
+
+  li {
+    margin: 0.4rem 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  img {
+    height: 60px;
+    vertical-align: middle;
+  }
+
+  span {
+    margin-left: 1rem;
+  }
 }
