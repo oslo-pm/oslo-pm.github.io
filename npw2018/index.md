@@ -18,7 +18,7 @@ have members from the [Mojolicious](http://mojolicious.org/) core team
 attending and a track dedicated to the Mojolicious real-time web framework.
 
 On the following Saturday, we're hosting a Perl hackathon. Do you have anything you
-want to hack on? [Let us know!](/npw2018/info#contact).
+want to hack on? [Let us know](/npw2018/info#contact)!
 
 ## Venue
 

@@ -59,9 +59,10 @@ information.
 ## Contact
 
 The conference is hosted by [Oslo.pm](http://oslo.pm/contact). You can get in
-touch with us by [email](mailto:{{d.contact.email}}) or via
-[IRC](http://mibbit.com/?channel=%23oslo.pm&server=irc.perl.org) - #oslo.pm on
-irc.perl.org.
+touch with us by sending us an [email](mailto:{{d.contact.email}})
+({{d.contact.email}}) or via
+[IRC](http://mibbit.com/?channel=%23oslo.pm&server=irc.perl.org) (#oslo.pm on
+irc.perl.org).
 
 ### Conference committee
 
