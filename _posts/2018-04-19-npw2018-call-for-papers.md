@@ -2,11 +2,9 @@
 layout: post
 title: "Nordic Perl Workshop 2018 Call for Papers"
 date: 2018-04-19 20:23:26 +0100
-published: False
+published: True
 tags: event
 ---
-
-# Nordic Perl Workshop & MojoConf 2018
 
 ## Call for Papers
 
@@ -46,7 +44,7 @@ special subjects which require more time, we may schedule an Extended Talk
 instead. If you really can't fill the full 45 minutes, feel free to submit a
 short talk.
 
-### Lightning Talks
+## Lightning Talks
 
 Lightning talks are brief talks that focus on a single example, idea, project,
 or technique. The purpose is not to cover all aspects of the respective topics,
@@ -57,16 +55,15 @@ from using slides, or have a presentation setup that you can set up in just a
 few seconds. In addition, we recommend that you bring a backup of your slides
 on a USB drive, or have it available on a website.
 
-# Submission
+## Submission
 
 To submit a proposal for a talk/presentation, please send your proposed
 title and an abstract to <npw2018@oslo.pm>.
 
-Submissions are due midnight (23:59 CET) on June 1th 2018. Submitters will
-be notified within two weeks whether or not their talks have been accepted.
-If your proposal is accepted, you will be expected to confirm within 48 hours
-that you in fact will give the talk; otherwise, your slot may be given to
-someone else.
+Submissions are due on June 1th 2018. Submitters will be notified within two
+weeks whether or not their talks have been accepted.  If your proposal is
+accepted, you will be expected to confirm within 48 hours that you in fact
+will give the talk; otherwise, your slot may be given to someone else.
 
 If you have something which does not fit the formats listed please feel free
 to contact us anyway and we will evaluate it.
@@ -113,7 +110,8 @@ Preliminary important dates
 * August 15th - Closing of Registration
 * Sep 6th-7th - The 2009 Nordic Perl Workshop
 
-- With regards
+With regards
 
-For the Program Commitee.
+Fom the Program Commitee.
+
 Marcus Ramberg
