@@ -3,7 +3,7 @@ layout: post
 title: "Nordic Perl Workshop 2018 Call for Papers"
 date: 2018-04-19 20:23:26 +0100
 published: True
-tags: event
+tags: event conference npw npw2018
 ---
 
 ## Call for Papers
