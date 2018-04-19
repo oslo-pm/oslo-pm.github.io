@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Nordic Perl Workshop 2018 Call for Papers"
-date: 2018-04-19 20:23:26 +0100
+date: 2018-04-19 20:23:26 +0200
 published: True
 tags: event conference npw npw2018
 ---
-
-## Call for Papers
 
 Nordic Perl Workshop & MojoConf 2018 will be held in Oslo, on September 6th
 and 7th.
