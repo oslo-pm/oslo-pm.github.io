@@ -75,13 +75,6 @@ irc.perl.org).
     &mdash; Finance manager.
   </li>
   <li>
-    <a href="http://github.com/geira">
-      <img src="/images/users/geira.png" alt="">
-      <span>Geir Aalberg</span>
-    </a>
-    &mdash; Venue manager.
-  </li>
-  <li>
     <a href="http://github.com/jhthorsen">
       <img src="/images/users/jhthorsen.png" alt="">
       <span>Jan Henning Thorsen</span>
@@ -103,9 +96,9 @@ irc.perl.org).
     &mdash; Program manager.
   </li>
   <li>
-    <a href="http://github.com/nicomen">
-      <img src="/images/users/nicomen.png" alt="">
-      <span>Nicolas Mendoza</span>
+    <a href="http://github.com/stigtsp">
+      <img src="/images/users/stigtsp.png" alt="">
+      <span>Stig Palmquist</span>
     </a>
     &mdash; Herder.
   </li>
