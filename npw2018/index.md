@@ -22,8 +22,7 @@ want to hack on? [Let us know](/npw2018/info#contact)!
 
 ## Venue
 
-We are working on [finding a venue](https://github.com/oslo-pm/NPW2018/issues/1)
-for the conference.
+The venue selection is currently being finalized!
 
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
