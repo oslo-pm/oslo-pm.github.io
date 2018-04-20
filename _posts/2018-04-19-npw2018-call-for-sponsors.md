@@ -5,6 +5,8 @@ date: 2018-04-19 20:13:26 +0200
 published: True
 categories: npw2018
 tags: event conference npw npw2018
+redirect_from:
+- /2018/04/19/npw2018-call-for-sponsors.html
 ---
 
 Konferansen avholdes 6-7. Juni i Institutt for Informatikk sine

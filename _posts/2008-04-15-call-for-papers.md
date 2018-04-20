@@ -6,6 +6,8 @@ event_url: "http://www.perlworkshop.no/npw2009/news/306"
 published: True
 categories: npw2009
 tags: npw npw2009 conference
+redirect_from:
+- /2018/04/19/npw2018-call-for-papers.html
 ---
 
 The <a href="http://www.perlworkshop.no/npw2009/cfpapers.html">call for papers</a> is out now!
