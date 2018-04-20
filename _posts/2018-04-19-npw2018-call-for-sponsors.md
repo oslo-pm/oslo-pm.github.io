@@ -41,8 +41,7 @@ Til gjengjeld kan vi tilby:
   og opphold for disse.
 
 For mer informasjon, se konferansens websider,
-
-http://oslo.pm/npw2018
+[oslo.pm/npw2018](//oslo.pm/npw2018).
 
 Med din hjelp blir dette en glimrende konferanse.
 
