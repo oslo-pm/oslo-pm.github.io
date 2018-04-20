@@ -43,8 +43,6 @@ Til gjengjeld kan vi tilby:
 For mer informasjon, se konferansens websider,
 [oslo.pm/npw2018](//oslo.pm/npw2018).
 
-Med din hjelp blir dette en glimrende konferanse.
+Med din hjelp blir dette en glimrende konferanse!
 
-Interesserte bes ta kontakt med sponsoransvarlig,
-
-Arne Sommer <arne@bbop.org>
+Interesserte bes ta kontakt med sponsoransvarlig, Arne Sommer <arne@bbop.org>.
