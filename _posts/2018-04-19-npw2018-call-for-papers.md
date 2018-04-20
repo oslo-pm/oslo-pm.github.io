@@ -94,7 +94,7 @@ speakers)
 * Free admittance
 * A chance to meet a lot of Perl people
 * If you have any special requests which have to do with fee and payment please
-  contact us at <npw2009-info@perlworkshop.no>.
+  contact us at <npw2018@oslo.pm>.
 
 Thank you; we hope you will participate either as a speaker or as an attendee.
 
@@ -107,7 +107,7 @@ Preliminary important dates
 * June 8th  - Notification of acceptance
 * June 10th - Final confirmation for accepted proposals/programme available
 * August 15th - Closing of Registration
-* Sep 6th-7th - The 2009 Nordic Perl Workshop
+* Sep 6th-7th - The 2018 Nordic Perl Workshop
 
 With regards
 
