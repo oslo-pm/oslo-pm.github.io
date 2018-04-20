@@ -3,6 +3,7 @@ layout: post
 title: "Nordic Perl Workshop 2018 Call for Sponsors"
 date: 2018-04-19 20:13:26 +0200
 published: True
+categories: npw2018
 tags: event conference npw npw2018
 ---
 
