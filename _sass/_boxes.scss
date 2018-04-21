@@ -18,10 +18,17 @@
   text-align: right;
 }
 
+span.error {
+  background: #f3e4dd;
+  border: 1px solid #da5a19;
+  padding: 0.5rem 0.8rem;
+  display: block;
+}
+
 .info-box {
   background: #f3e4dd;
   border: 1px solid #da5a19;
-  padding: 0.3rem 0.8rem;
+  padding: 0.5rem 0.8rem;
 }
 
 .wrapper {
