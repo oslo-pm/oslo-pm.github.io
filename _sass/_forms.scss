@@ -76,6 +76,7 @@ form {
   border: 1px solid #70b51c;
   border-radius: 2px;
   padding: 0.4rem 1rem;
+  cursor: pointer;
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
 
   &:hover {
@@ -94,6 +95,7 @@ form {
   &.-link {
     background: #eee;
     color: #222;
+    text-decoration: none;
     border-color: #888;
 
     &:hover {
