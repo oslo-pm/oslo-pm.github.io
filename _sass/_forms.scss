@@ -141,6 +141,35 @@ form {
   }
 }
 
+.form-horizontal {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .input-wrap,
+  .submit-wrap {
+    float: left;
+  }
+
+  .input-wrap {
+    margin-right: 0.5rem;
+
+    &.-text input {
+      width: 10em;
+    }
+  }
+
+  .submit-wrap {
+    padding-top: 1.4rem;
+
+    .button {
+      padding: 0.35rem 0.7rem;
+    }
+  }
+}
+
 .user-talk-submit form {
   .input-wrap.-text {
     > input,
