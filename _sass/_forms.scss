@@ -45,9 +45,9 @@ form {
       display: block;
     }
 
-    input,
-    select,
-    textarea {
+    > input,
+    > select,
+    > textarea {
       font-size: 1rem;
       margin-bottom: 1rem;
     }
@@ -142,7 +142,7 @@ form {
 }
 
 .user-talk-submit form {
-  &.-text {
+  .input-wrap.-text {
     > input,
     > textarea {
       width: 100%;
