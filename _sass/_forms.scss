@@ -73,12 +73,31 @@ form {
   color: #fff;
   font-size: 1em;
   font-weight: bold;
-  border: 0;
+  border: 1px solid #70b51c;
   border-radius: 2px;
   padding: 0.4rem 1rem;
+  transition: background-color 0.25s ease-out, color 0.25s ease-out;
+
+  &:hover {
+    background: darken(#70b51c, 10%);
+  }
 
   &.-danger {
     background: darken(#da5a19, 10%);
     border-color: #333;
+
+    &:hover {
+      background: darken(#da5a19, 10%);
+    }
+  }
+
+  &.-link {
+    background: #eee;
+    color: #222;
+    border-color: #888;
+
+    &:hover {
+      background: darken(#eee, 10%);
+    }
   }
 }
