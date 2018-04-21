@@ -40,7 +40,7 @@ form.form-inline {
 
 form {
   .input-wrap {
-    label {
+    > label {
       margin-bottom: 0.4rem;
       display: block;
     }
@@ -76,13 +76,13 @@ form {
     }
 
     &.-radio {
-      label {
+      > label {
         display: inline-block;
       }
     }
 
     &.-text {
-      input {
+      > input {
         background: #fff;
         border: 2px solid #ccc;
         border-radius: 2px;
@@ -90,10 +90,6 @@ form {
         width: 21em;
         max-width: 100%;
       }
-
-    .form-help input {
-      width: auto;
-      margin: 0 0.3rem;
     }
   }
 
@@ -106,10 +102,6 @@ form {
     border-left: 3px solid #ccc;
     padding-left: 0.5rem;
     margin: -0.4rem 0 1rem 0;
-
-    label {
-      display: inline;
-    }
   }
 }
 
