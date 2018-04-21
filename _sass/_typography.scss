@@ -70,6 +70,13 @@ ul, ol {
   }
 }
 
+dl {
+  dt {
+    font-weight: bold;
+    margin-left: 1rem;
+  }
+}
+
 .hide {
   display: none;
 }

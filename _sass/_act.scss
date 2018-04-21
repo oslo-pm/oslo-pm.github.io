@@ -1,0 +1,13 @@
+dl.talk_info {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  dt {
+    float: left;
+    width: 6em;
+    clear: left;
+  }
+}
