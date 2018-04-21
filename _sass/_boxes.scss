@@ -2,6 +2,22 @@
   clear: both;
 }
 
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
 .wrapper {
   max-width: $max-width;
   margin: 0 auto;
