@@ -140,3 +140,12 @@ form {
     }
   }
 }
+
+.user-talk-submit form {
+  &.-text {
+    > input,
+    > textarea {
+      width: 100%;
+    }
+  }
+}
