@@ -36,17 +36,30 @@ form {
     }
 
     input {
-      background: #fff;
       font-size: 1rem;
-      border: 2px solid #ccc;
       margin-bottom: 0.8rem;
+    }
+
+    select {
+      background: #fff;
+      border: 2px solid #ccc;
+      border-radius: 2px;
       padding: 0.3em;
-      width: 20em;
-      max-width: 100%;
     }
 
     &.-checkbox {
       margin: 0.8rem 0;
+    }
+
+    &.-text {
+      input {
+        background: #fff;
+        border: 2px solid #ccc;
+        border-radius: 2px;
+        padding: 0.3em;
+        width: 20em;
+        max-width: 100%;
+      }
     }
   }
 
