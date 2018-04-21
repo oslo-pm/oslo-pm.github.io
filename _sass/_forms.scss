@@ -76,11 +76,25 @@ form {
         width: 20em;
         max-width: 100%;
       }
+
+      input[type=checkbox],
+      input[type=radio] {
+        width: auto;
+      }
     }
   }
 
   .submit-wrap {
     margin-bottom: 0.8rem;
+  }
+
+  .form-help {
+    font-size: 0.9em;
+    margin: 0 0 0.5rem 0;
+
+    input {
+      width: auto;
+    }
   }
 }
 
