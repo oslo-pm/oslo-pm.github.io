@@ -1,4 +1,5 @@
-dl.talk_info {
+dl.talk_info,
+dl.user-show_info {
   &:after {
     content: "";
     display: table;
@@ -9,5 +10,19 @@ dl.talk_info {
     float: left;
     width: 9em;
     clear: left;
+  }
+}
+
+dl.user-show_info {
+  dt {
+    width: 11em;
+  }
+}
+
+.user-show_photo {
+  img {
+    float: right;
+    margin-left: 0.5rem;
+    margin-bottom: 0.5rem;
   }
 }
