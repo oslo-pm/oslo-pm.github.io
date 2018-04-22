@@ -101,6 +101,10 @@ span.error {
     padding: 0.5rem 0.25rem;
     border-bottom: 1px solid #aaa;
   }
+
+  .table {
+    width: calc(100% + 0.8rem);
+  }
 }
 
 .tag-menu {
