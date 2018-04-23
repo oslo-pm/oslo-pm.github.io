@@ -9,11 +9,10 @@ redirect_from:
 - /2018/04/19/npw2018-call-for-sponsors.html
 ---
 
-Konferansen avholdes 6-7. Juni i Institutt for Informatikk sine
-lokaler ved Universitetet i Oslo. Som den største årlige konferansen
-av sin sort i Norden samler den 80-100 deltagere. Målgruppen vil være
-alt fra studenter til meget erfarne programmerere, og hovedtema for
-årets konferanse er "Perl i Skyen".
+Konferansen avholdes 6-7. september, i Oslo.  Som den største årlige
+konferansen av sin sort i Norden samler den 80-100 deltagere. Målgruppen vil
+være alt fra studenter til meget erfarne programmerere, og hovedtema for årets
+konferanse er "Perl i Skyen".
 
 Hensikten med konferansen er å utvide kunnskapen om programmerings-
 språket Perl og dets nytte i nordiske utviklingsmiljøer, samt å vise
