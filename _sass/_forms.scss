@@ -39,6 +39,12 @@ form.form-inline {
 }
 
 form {
+  input,
+  select,
+  textarea {
+    font-size: 1rem;
+  }
+
   .input-wrap {
     > label {
       margin-bottom: 0.4rem;
@@ -48,7 +54,6 @@ form {
     > input,
     > select,
     > textarea {
-      font-size: 1rem;
       margin-bottom: 1rem;
     }
 
@@ -145,7 +150,6 @@ form {
   }
 }
 
-.talk_tags form,
 .form-horizontal {
   &:after {
     content: "";

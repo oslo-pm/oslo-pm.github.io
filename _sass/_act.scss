@@ -31,3 +31,30 @@ dl.user-show_info {
   padding: 0.5rem;
   margin-bottom: 1rem;
 }
+
+.talk_tags {
+  margin: 0.5rem 0;
+
+  form {
+    margin-top: 0.5rem;
+  }
+
+  input[type="text"] {
+    background: #fff;
+    border: 2px solid #ccc;
+    border-radius: 2px;
+    padding: 0.3em;
+    width: 40%;
+  }
+
+  input[type="submit"] {
+    background: #70b51c;
+    color: #fff;
+    font-size: 1em;
+    font-weight: bold;
+    border: 1px solid #70b51c;
+    border-radius: 2px;
+    padding: 0.35rem 0.7rem;
+    cursor: pointer;
+  }
+}
