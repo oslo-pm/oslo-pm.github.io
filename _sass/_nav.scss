@@ -1,0 +1,104 @@
+nav,
+.content,
+.paginator,
+.site-footer {
+  background: rgba(255, 255, 255, 0.94);
+  padding: 2rem;
+
+  @include media("<=small") {
+    padding: 1rem;
+  }
+
+  @include media(">large") {
+    padding: 3rem;
+  }
+}
+
+nav {
+  border-bottom: $seperator-border;
+  padding-top: 0;
+  padding-bottom: 0;
+
+  ul {
+    list-style: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin: 0;
+    float: left;
+  }
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 1rem 0.5rem;
+    display: block;
+
+    &:hover {
+      background: #e0e0e0;
+    }
+  }
+
+  @include media("<=small") {
+    padding: 0 0.5rem;
+
+    a {
+      padding: 0.5rem;
+    }
+  }
+}
+
+nav.sub-nav {
+  background: transparent;
+  border-bottom: 1px solid #ddd;
+  margin: -1rem -2rem 1rem -2rem;
+
+  a {
+    padding: 0.5rem;
+  }
+
+  .active {
+    background: #d8d8d8;
+  }
+
+  @include media("<=small") {
+    margin: -1rem -1rem 1rem -1rem;
+    padding: 0 0.5rem;
+  }
+}
+
+.site-footer {
+  border-top: $seperator-border;
+
+  ul {
+    overflow: hidden;
+  }
+
+  li {
+    float: left;
+
+    &::after {
+      content: "\00a0\2014\00a0";
+    }
+
+    &.last::after {
+      content: "";
+    }
+  }
+
+  h4, a {
+    color: $link-color;
+  }
+
+  img {
+    vertical-align: middle;
+  }
+
+  .column {
+    text-align: center;
+  }
+}
