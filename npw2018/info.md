@@ -41,7 +41,9 @@ for the conference.
 There are [many places](https://www.booking.com/searchresults.en-gb.html?dest_id=-273837;dest_type=city)
 to choose from in Oslo. Here are some suggestions:
 
-* [Anker Hotel](http://anker-hotel.no/)
+* [Radisson Blu Scandinavia](https://www.radissonblu.com/en/scandinaviahotel-oslo)
+
+* [Smarthotell Oslo](https://smarthotel.no/en/)
 
 * [Citybox](https://citybox.no/oslo-en/)
 
