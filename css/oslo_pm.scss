@@ -3,6 +3,7 @@
 # only Main files contain this front matter, not partials.
 ---
 
+@charset "UTF-8";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
 @import "config";
 @import "include-media";
@@ -27,10 +28,12 @@
     font-size: 25px;
     line-height: normal;
     vertical-align: middle;
+
     a {
       color: $text-color;
       text-decoration: none;
     }
+
     img {
       max-height: 80px;
       position: relative;
@@ -38,6 +41,7 @@
       float: right;
       vertical-align: top;
     }
+
     a {
       vertical-align: middle;
     }

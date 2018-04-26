@@ -6,49 +6,6 @@
   border: 0;
 }
 
-.main-header {
-  padding: 4rem 1rem 6rem 1rem;
-
-  &, a, h1, h2, p {
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
-    text-shadow: 0 0 3px #111;
-  }
-
-  h1 {
-    font-size: 3.4rem;
-    line-height: 1.4em;
-    margin: 0 0 1rem 0;
-  }
-
-  h2 {
-    font-size: 2rem;
-    margin: 0;
-  }
-
-  p {
-    font-size: 1.5rem;
-  }
-
-  @include media(">small") {
-    p {
-      font-size: 1.5rem;
-      margin: 0;
-      float: right;
-      position: relative;
-      top: -1.5rem;
-    }
-  }
-
-  @include media("<=small") {
-    padding: 2rem 1rem;
-
-    h1 { font-size: 2.5rem; }
-    h2 { font-size: 1.6rem; }
-  }
-}
-
 .content {
   padding-top: 1rem;
 }
