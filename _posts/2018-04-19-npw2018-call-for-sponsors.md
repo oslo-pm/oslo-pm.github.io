@@ -44,4 +44,4 @@ For mer informasjon, se konferansens websider,
 
 Med din hjelp blir dette en glimrende konferanse!
 
-Interesserte bes ta kontakt med sponsoransvarlig, Arne Sommer <arne@bbop.org>.
+Interesserte bes ta kontakt med sponsoransvarlig, Arne Sommer <npw2018@oslo.pm>.
