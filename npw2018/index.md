@@ -6,6 +6,8 @@ design: npw2018
 
 {% assign d = site.data.npw2018 %}
 
+{% include npw2018/sub_nav.html %}
+
 ## ***IMPORTANT! The following information is tentative!***
 
 Nordic Perl Workshop 2018 will be held in Oslo
