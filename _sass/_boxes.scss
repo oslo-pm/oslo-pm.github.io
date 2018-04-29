@@ -225,4 +225,8 @@ ul.committee {
       text-decoration: underline;
     }
   }
+
+  @include media("<=small") {
+    width: 96%;
+  }
 }
