@@ -191,3 +191,38 @@ ul.committee {
     margin-left: 1rem;
   }
 }
+
+.tickets-for-sale {
+  text-align: center;
+  margin: 1rem 0;
+  overflow: hidden;
+}
+
+.tickets-for-sale_ticket {
+  color: #000;
+  margin: 0 2%;
+  width: 29%;
+  display: block;
+  float: left;
+
+  &, &:hover {
+    text-decoration: none;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  b {
+    color: #70b51c;
+    font-size: 2rem;
+    margin: 1rem;
+    display: block;
+  }
+
+  &:hover {
+    b {
+      text-decoration: underline;
+    }
+  }
+}

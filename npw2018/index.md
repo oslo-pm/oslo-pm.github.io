@@ -12,12 +12,12 @@ Nordic Perl Workshop 2018 will be held in Oslo
 in <a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.where.name}}</a>,
 {{d.conference.start | date: "%-d" }} - {{d.conference.stop | date: "%-d %B, %Y" }}.
 
-(We are working on getting confirmation on a venue)
-
 The conference topic is ["Perl in the cloud"](/npw2018/info#theme), with focus on web
 development, and deployment methods. We are pleased to announce that we will
 have members from the [Mojolicious](http://mojolicious.org/) core team
 attending and a track dedicated to the Mojolicious real-time web framework.
+
+<a href="/npw2018/tickets" class="button -attention">Ticket information</a>
 
 On the following Saturday, we're hosting a Perl hackathon. Do you have anything you
 want to hack on? [Let us know](/npw2018/info#contact)!

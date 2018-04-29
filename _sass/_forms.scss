@@ -119,6 +119,7 @@ form {
   color: #fff;
   font-size: 1em;
   font-weight: bold;
+  text-decoration: none;
   border: 1px solid #70b51c;
   border-radius: 2px;
   padding: 0.5rem 1rem;
@@ -147,6 +148,15 @@ form {
     &:hover {
       background: darken(#eee, 10%);
     }
+  }
+
+  &.-attention {
+    font-size: 2rem;
+    text-align: center;
+    margin: 1em auto;
+    padding: 0.5em 1em;
+    max-width: 50%;
+    display: block;
   }
 }
 
