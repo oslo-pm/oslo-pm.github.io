@@ -28,6 +28,6 @@ We will start selling tickets as soon as we got everything set up in May.
   <a href="http://npw2018.oslo.pm/npw2018/main" class="tickets-for-sale_ticket">
     <h2>Supporter</h2>
     <b>400&euro;</b>
-    <p>If you feel like supporting the conference without being a sponsor.</p>
+    <p>If you want to support the conference without being a sponsor.</p>
   </a>
 </div>
