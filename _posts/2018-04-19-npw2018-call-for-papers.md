@@ -7,7 +7,7 @@ categories: npw2018
 tags: event conference npw npw2018
 ---
 
-Nordic Perl Workshop & MojoConf 2018 will be held in Oslo, on September 6th
+Nordic Perl Workshop & Mojoconf 2018 will be held in Oslo, on September 6th
 and 7th.
 
 The conference topic is “Perl in the cloud”, with focus on web development,
