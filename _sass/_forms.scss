@@ -157,6 +157,10 @@ form {
     padding: 0.5em 1em;
     max-width: 50%;
     display: block;
+
+    @include media("<=small") {
+      max-width: 90%;
+    }
   }
 }
 
