@@ -112,6 +112,6 @@ Preliminary important dates
 
 With regards
 
-Fom the Program Commitee.
+From the Program Committee.
 
 Marcus Ramberg
