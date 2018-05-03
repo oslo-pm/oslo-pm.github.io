@@ -15,6 +15,8 @@ and deployment methods. We are pleased to announce that we will have members
 from the Mojolicious core team attending and a track dedicated to the
 Mojolicious real-time web framework.
 
+<a href="/npw2018/tickets" class="button -attention">Ticket information</a>
+
 We're interested in hearing about your talks on these topics:
 
 * Web development with the Perl and/or the Mojolicious Web Framework
