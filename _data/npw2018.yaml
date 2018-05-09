@@ -2,7 +2,7 @@
 title: NPW/Mojoconf 2018
 description: Nordic Perl Workshop and Mojoconf 2018 in Oslo, Norway
 filter_name: npw2018
-event_url: "https://www.meetup.com/Oslo-pm/events/TODO/"
+event_url: "https://www.meetup.com/Oslo-pm/events/250184644"
 
 contact:
   email: npw2018@oslo.pm
@@ -18,8 +18,8 @@ conference:
   start: 2018-09-06 09:00:00 +0200
   stop: 2018-09-07 17:00:00 +0200
   where:
-    name: Oslo
-    maps_query: Oslo%2C%20no
+    name: Oslo, Teknologihuset
+    maps_query: Teknologihuset%20Oslo%2C%20no
 
 hackathon:
   start: 2018-09-08 09:00:00 +0200

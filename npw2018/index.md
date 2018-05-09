@@ -9,7 +9,7 @@ design: npw2018
 {% include npw2018/sub_nav.html %}
 
 Nordic Perl Workshop 2018 will be held in Oslo
-in <a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.where.name}}</a>,
+at <a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.where.name}}</a>,
 {{d.conference.start | date: "%-d" }} - {{d.conference.stop | date: "%-d %B, %Y" }}.
 
 The conference topic is ["Perl in the cloud"](/npw2018/info#theme), with focus on web
