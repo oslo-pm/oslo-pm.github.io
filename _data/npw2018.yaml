@@ -18,7 +18,7 @@ conference:
   start: 2018-09-06 09:00:00 +0200
   stop: 2018-09-07 17:00:00 +0200
   where:
-    name: Oslo, Teknologihuset
+    name: Teknologihuset
     maps_query: Teknologihuset%20Oslo%2C%20no
 
 hackathon:
