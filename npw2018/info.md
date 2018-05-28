@@ -30,9 +30,9 @@ Coming from abroad? Oslo has two airports:
   to use the expensive [airport express train](http://flytoget.no/), if you want to save
   a couple of minutes. 
 
-* You can get to Oslo from [Torp](https://www.torp.no/) (TRF) by taking the
+* You can get to Oslo from [Torp Airport](https://www.torp.no/) (TRF) by 
   [bus](http://torpekspressen.no/). The bus trip takes about 90 minutes. 
-  Torp offer low-cost flights.
+  Torp offers low-cost flights.
 
 ## Travel and lodging
 
