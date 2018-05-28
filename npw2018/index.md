@@ -27,6 +27,9 @@ want to hack on? [Let us know](/npw2018/info#contact)!
 
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
+The tram stop [Dalsbergstien] <https://ruter.no/reiseplanlegger/Stoppested/(3010306)Dalsbergstien (i Pilestredet) (Oslo)/Avganger/> is 
+right oustide the venue. Tram 17 and 18 brings you here from the city centre, with departures every fifth minute.
+
 ## Sponsors
 
 [Sponsoring](https://github.com/oslo-pm/NPW2018/issues/6) this conference is a
