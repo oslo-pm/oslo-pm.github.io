@@ -28,7 +28,11 @@ want to hack on? [Let us know](/npw2018/info#contact)!
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
 The tram stop "Dalsbergstien" is right oustide the venue. Tram 17 and 18 take you here from
-the city centre, with departures every fifth minute.
+the city centre, with departures every fifth minute. It is not possible to buy tickets on
+board, so we recommend using the Ruter Ticket App
+[RuterBillett](https://ruter.no/en/buying-tickets/mobile-ticket-app/) - if you have a supported
+credit card (check the first FAQ entry). It is possoble to buy tickets for several people at
+the same time, if you travel in a group.
 
 ## Sponsors
 
