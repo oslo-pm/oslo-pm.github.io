@@ -21,23 +21,18 @@ like to give a talk!
 
 ## How to get to Oslo
 
-Coming from abroad? Oslo has two airports close by, that you can fly to.
+Coming from abroad? Oslo has two airports:
+
+* The main Oslo Airport, [Gardermoen](http://osl.no) (OSL) is the most
+  convenient way to get into Oslo. The cheapest way to Oslo is by 
+  [regular train](https://www.nsb.no/bestill/velg-togavgang?to=Oslo+S&from=Oslo+Lufthavn). 
+  The ticket gives free transfer to busses, trams and metro in Oslo. It is also possible
+  to use the expensive [airport express train](http://flytoget.no/), if you want to save
+  a couple of minutes. 
 
 * You can get to Oslo from [Torp](https://www.torp.no/) (TRF) by taking the
-  [bus](http://torpekspressen.no/). Torp offer low-budget flights from many
-  places in Europe.
-
-* The main Oslo airport, [Gardermoen](http://osl.no) (OSL) is the most
-  convenient way to get into Oslo. You can either take the
-  [airport express train](http://flytoget.no/) for the fastest and most
-  reliable route, or the
-  [regular train](https://www.nsb.no/bestill/velg-togavgang?to=Oslo+S&from=Oslo+Lufthavn)
-  for a lower price.
-
-## Directions to the venue
-
-We are working on [finding a venue](https://github.com/oslo-pm/NPW2018/issues/1)
-for the conference.
+  [bus](http://torpekspressen.no/). The bus trip takes about 90 minutes. 
+  Torp offer low-cost flights.
 
 ## Travel and lodging
 
