@@ -23,8 +23,7 @@ On the following Saturday, we're hosting a Perl hackathon. Do you have anything 
 want to hack on? [Let us know](/npw2018/info#contact)!
 
 ## Venue
-
-The venue selection is currently being finalized!
+<a href="{{site.maps_url}}{{d.conference.where.maps_query}}">{{d.conference.where.name}}</a>
 
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
@@ -39,7 +38,7 @@ opportunities not only for advertising, but for making contacts and even
 recruiting.
 
 Should you have any questions, feedback, or if you have already decided to
-sponsor mojoconf please [contact us](/npw2018/info#contact) by sending an
+sponsor NPW or mojoconf please [contact us](/npw2018/info#contact) by sending an
 email to [{{d.contact.email}}](mailto:{{d.contact.email}}).
 
 ## Latest news
