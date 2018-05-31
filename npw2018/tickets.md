@@ -12,7 +12,7 @@ Tickets are not yet available, but you can still
 [register](http://npw2018.oslo.pm/npw2018/main) and
 [submit talks](/npw2018/2018/04/19/npw2018-call-for-papers.html).
 
-We will start selling tickets as soon as we got everything set up in May.
+We will start selling tickets as soon as we got everything set up in early June.
 
 <div class="tickets-for-sale">
   <a href="http://npw2018.oslo.pm/npw2018/main" class="tickets-for-sale_ticket">
