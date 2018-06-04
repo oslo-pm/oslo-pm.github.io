@@ -27,6 +27,9 @@ want to hack on? [Let us know](/npw2018/info#contact)!
 
 {% include maps.html maps_query=d.conference.where.maps_query %}
 
+Note that the venue is not suitable for disabled persons, as we use the second and third floor
+in a building without lifts.
+
 The tram stop "Dalsbergstien" is right oustide the venue. Tram 17 and 18 take you here from
 the city centre, with departures every fifth minute. It is not possible to buy tickets on
 board, so we recommend using the Ruter Ticket App
@@ -36,9 +39,9 @@ the same time, if you travel in a group.
 
 ## Partners (Sponsors)
 
-[Partners](https://github.com/oslo-pm/NPW2018/issues/6) this conference is a
-good way to present your brand positively to the attendees, enabling you to
-build up your company's image within the Perl community.
+Being a [Partner](https://github.com/oslo-pm/NPW2018/issues/6) for this conference is a
+good way to present your brand positively to the attendees, enabling you to build up 
+your company's image within the Perl community.
 
 We would like to help you create a meaningful relationship, providing you with
 opportunities not only for advertising, but for making contacts and even
