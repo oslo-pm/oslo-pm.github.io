@@ -34,15 +34,22 @@ board, so we recommend using the Ruter Ticket App
 credit card (check the first FAQ entry). It is possible to buy tickets for several people at
 the same time, if you travel in a group.
 
-## Sponsors
+## Partners (Sponsors)
 
-[Sponsoring](https://github.com/oslo-pm/NPW2018/issues/6) this conference is a
+[Partners](https://github.com/oslo-pm/NPW2018/issues/6) this conference is a
 good way to present your brand positively to the attendees, enabling you to
 build up your company's image within the Perl community.
 
 We would like to help you create a meaningful relationship, providing you with
 opportunities not only for advertising, but for making contacts and even
 recruiting.
+
+We have three partner packages; Bronze (at 1.000€), Silver (at 2.000€), and Gold
+(at 5.000€). 
+
+All partners get their logo with link on our web site. Bronze and Silver partners can place
+a banner (type [L-Banner](https://www.mitostudios.com/wp-content/uploads/2010/12/110112-Premier-Pull-Up-Floor-Banners-1865_LR1024.jpg) 
+at the venue. Gold partners can also get a table for presentations etc. during the whole conference.
 
 Should you have any questions, feedback, or if you have already decided to
 sponsor NPW or mojoconf please [contact us](/npw2018/info#contact) by sending an
