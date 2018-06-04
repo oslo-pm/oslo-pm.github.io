@@ -51,7 +51,7 @@ We have three partner packages; Bronze (at 1.000€), Silver (at 2.000€), and 
 (at 5.000€). 
 
 All partners get their logo with link on our web site. Bronze and Silver partners can place
-a banner (type [L-Banner](https://www.mitostudios.com/wp-content/uploads/2010/12/110112-Premier-Pull-Up-Floor-Banners-1865_LR1024.jpg) 
+a banner (type [L-Banner](https://www.mitostudios.com/wp-content/uploads/2010/12/110112-Premier-Pull-Up-Floor-Banners-1865_LR1024.jpg))
 at the venue. Gold partners can also get a table for presentations etc. during the whole conference.
 
 Should you have any questions, feedback, or if you have already decided to
