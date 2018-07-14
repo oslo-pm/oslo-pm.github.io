@@ -35,7 +35,6 @@ form.form-inline {
     &:hover {
       background: #444;
     }
-  }
 }
 
 form {
@@ -161,6 +160,12 @@ form {
     @include media("<=small") {
       max-width: 90%;
     }
+  }
+
+  &[disabled] {
+    background: #999;
+    border-color: #fff;
+    color: #eee;
   }
 }
 
