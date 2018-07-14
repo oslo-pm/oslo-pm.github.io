@@ -113,6 +113,7 @@ form {
   }
 }
 
+input[type=submit], // Add styling for [type=submit] since there's not everything I can override on the act pages
 .button {
   background: #70b51c;
   color: #fff;
