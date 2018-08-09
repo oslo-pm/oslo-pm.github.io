@@ -15,6 +15,4 @@ If you still want to give a talk, we might be able to squeeze you in either on
 Friday or as a lightning talk. Don't hesitate to contact us, if you have
 something you want to share with the community.
 
-<div class="text-center">
-  <img src="images/professor-ceiling-cat-text_s.jpg" alt="">
-</div>
+<img src="/images/professor-ceiling-cat-text_s.jpg" alt="">
