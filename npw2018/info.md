@@ -10,14 +10,9 @@ design: npw2018
 
 ## Theme
 
-The conference theme is "Perl in the cloud". The goal is to have days of
-conference, with two tracks: One for generic Perl talks and one for web
-development, with focus on Mojolicious.
-
-We are [working](https://github.com/oslo-pm/NPW2018/issues/8) on getting
-speakers for the conference.
-[We](/npw2018/2018/04/19/npw2018-call-for-papers.html) would love if you would
-like to give a talk!
+The conference theme is "Perl in the cloud". We'll have two days of
+conference, with one track, both covering generic Perl topics and web
+development with focus on Mojolicious.
 
 ## How to get to Oslo
 
