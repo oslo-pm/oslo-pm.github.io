@@ -2,7 +2,7 @@
 layout: post
 title: "Nordic Perl Workshop 2018 hackathon"
 date: 2018-09-03 23:30:18 +0100
-published: False
+published: True
 categories: npw2018
 tags: event conference npw npw2018
 ---

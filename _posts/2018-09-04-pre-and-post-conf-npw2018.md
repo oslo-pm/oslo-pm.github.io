@@ -2,7 +2,7 @@
 layout: post
 title: "Nordic Perl Workshop 2018 Pre/post-conf meetups"
 date: 2018-09-04 09:33:26 +0100
-published: False
+published: True
 categories: npw2018
 tags: event conference npw npw2018
 ---
