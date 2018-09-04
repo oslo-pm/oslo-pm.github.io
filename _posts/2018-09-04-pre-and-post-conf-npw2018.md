@@ -33,9 +33,10 @@ tickets by following the link below:
 * When: 7th of September, 18:00
 * Where: [Hausmanns gate 34](https://goo.gl/maps/6Z5iXLusGs92)
 
-> Hackeriet is a hackerspace in Oslo. Hackerspaces are community-operated
-> physical places, where people share their interest in tinkering with
-> technology, meet and work on their projects, and learn from each other.
+> [Hackeriet](https://hackeriet.no/) is a hackerspace in Oslo. Hackerspaces
+> are community-operated physical places, where people share their interest in
+> tinkering with technology, meet and work on their projects, and learn from
+> each other.
 
 You can bring your own beverage to this event, but there's also wending
 machines, where you can buy your own drinks.
