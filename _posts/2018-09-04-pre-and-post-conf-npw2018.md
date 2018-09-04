@@ -38,5 +38,5 @@ tickets by following the link below:
 > tinkering with technology, meet and work on their projects, and learn from
 > each other.
 
-You can bring your own beverage to this event, but there's also wending
-machines, where you can buy your own drinks.
+You can bring your own beverage to this event, but there's also a vending
+machine there where you can buy Club Mate and beer.
