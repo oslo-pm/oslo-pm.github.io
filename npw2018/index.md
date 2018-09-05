@@ -39,7 +39,9 @@ the same time, if you travel in a group.
 
 ## Partner
 
-<img src="npw2018/images/KSAT_hovedlogo_farger2.png" alt="Kongsberg Satellite Services is sponsoring NPW2018">
+<div class="text-center">
+  <img src="/npw2018/images/KSAT_hovedlogo_farger2.png" alt="Kongsberg Satellite Services is sponsoring NPW2018">
+</div>
 
 ## Latest news
 
