@@ -21,3 +21,5 @@ and we'll let you in.
 
 We have also set up a Telegram group
 "[Mojolicious (MojoConf/NPW](https://t.me/perlmojo)" you can reach us in.
+
+<a href="https://www.meetup.com/Oslo-pm/events/254405854" class="button -attention">Sign up</a>

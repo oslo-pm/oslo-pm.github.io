@@ -26,6 +26,7 @@ tickets by following the link below:
 > craft beer geek. The bar has about seventy taps, a well stocked fridge, they
 > play great vinyl records and you can play shuffleboard if you like.
 
+<a href="https://www.meetup.com/Oslo-pm/events/253870556" class="button -attention">Sign up</a>
 
 ## Friday post-conf meetup
 
@@ -40,3 +41,5 @@ tickets by following the link below:
 
 You can bring your own beverage to this event, but there's also a vending
 machine there where you can buy Club Mate and beer.
+
+<a href="https://www.meetup.com/Oslo-pm/events/254405815" class="button -attention">Sign up</a>
