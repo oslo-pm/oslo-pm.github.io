@@ -18,3 +18,6 @@ you can meet fellow Perl-hackers, team up or ask for input.
 Ring the doorbell to get in or ask in
 [#oslo.pm](https://kiwiirc.com/nextclient/#irc://irc.perl.org/#oslo.pm?nick=npw-guest-?),
 and we'll let you in.
+
+We have also set up a Telegram group
+"[Mojolicious (MojoConf/NPW](https://t.me/perlmojo)" you can reach us in.

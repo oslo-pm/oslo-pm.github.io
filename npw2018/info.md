@@ -59,6 +59,9 @@ touch with us by sending us an [email](mailto:{{d.contact.email}})
 [IRC](http://mibbit.com/?channel=%23oslo.pm&server=irc.perl.org) (#oslo.pm on
 irc.perl.org).
 
+We have also set up a Telegram group
+"[Mojolicious (MojoConf/NPW](https://t.me/perlmojo)" you can reach us in.
+
 ### Conference committee
 
 <ul class="committee">
