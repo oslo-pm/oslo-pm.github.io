@@ -9,7 +9,7 @@ tags: event conference npw npw2018
 
 We are very grateful for all the good submissions to the Nordic Perl Workshop
 this year, and we're proud to present the schedule at
-[npw2018.oslo.pm/npw2018/schedule](http://npw2018.oslo.pm/npw2018/schedule).
+[npw2018.oslo.pm/npw2018/schedule](https://npw2018.oslo.pm/npw2018/schedule).
 
 If you still want to give a talk, we might be able to squeeze you in either on
 Friday or as a lightning talk. Don't hesitate to contact us, if you have

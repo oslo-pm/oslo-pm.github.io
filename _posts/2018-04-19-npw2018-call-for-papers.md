@@ -60,7 +60,7 @@ on a USB drive, or have it available on a website.
 
 To submit a proposal for a talk/presentation, please register your proposed
 title and an abstract through
-[http://npw2018.oslo.pm/npw2018/newtalk](http://npw2018.oslo.pm/npw2018/newtalk).
+[npw2018.oslo.pm/npw2018/newtalk](https://npw2018.oslo.pm/npw2018/newtalk).
 
 Submissions are due on June 1th 2018. Submitters will be notified within two
 weeks whether or not their talks have been accepted.  If your proposal is
