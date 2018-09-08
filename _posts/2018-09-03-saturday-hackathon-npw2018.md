@@ -13,9 +13,11 @@ you can meet fellow Perl-hackers, team up or ask for input.
 
 * Venue: Reisegiganten AS
 * When: 8th of September, 11:00
-* Where: [Rosenkrantz' gate 10]()
+* Where: [Rosenkrantz' gate 9](https://goo.gl/maps/jWQMZqe7PfA2)
 
-Ring the doorbell to get in or ask in
+Might be a bit tricky to find the door, but there's a passage way going between
+two buildings, with some construction on the left side of the entrance. Walk to
+the middle of the passage and ring the doorbell to get in or ask in
 [#oslo.pm](https://kiwiirc.com/nextclient/#irc://irc.perl.org/#oslo.pm?nick=npw-guest-?),
 and we'll let you in.
 
