@@ -1,13 +1,20 @@
 ---
 layout: post
 title: "Looking forward to Perl 7 w/brian d foy"
+date: 2020-09-07 10:30:00 +0100
 date: 2020-10-07 18:30:00 +0100
+where: Online
+event_url: "https://meetup.com/Oslo-pm/"
 published: True
 categories: meetups
-tags: talk perl perl7
---
+tags: event tech perl
+---
 
-# How will the transition to Perl 7 go?
+* When: {{page.when | date: site.event_date_format }} 
+* Where: {{page.where}}
+* Join us at [Meetup]({{page.event_url}})
+
+# How may the transition to Perl 7 go?
 
 We have invited _brian d foy_ to speak about the upcoming major release
 of Perl! He'll give us dive into the rationale behind this release, what
