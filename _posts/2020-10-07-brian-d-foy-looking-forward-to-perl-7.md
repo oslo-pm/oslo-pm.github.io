@@ -4,8 +4,8 @@ title: "Looking forward to Perl 7 w/brian d foy"
 date: 2020-10-07 18:30:00 +0100
 published: True
 categories: meetups
-tags: event perl7 upgrading
----
+tags: talk perl perl7
+--
 
 # How will the transition to Perl 7 go?
 
