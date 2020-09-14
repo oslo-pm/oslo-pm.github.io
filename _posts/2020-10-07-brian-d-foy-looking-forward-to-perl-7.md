@@ -2,7 +2,7 @@
 layout: post
 title: "October meetup: Looking forward to Perl 7, with brian d foy"
 date: 2020-14-07 10:30:00 +0100
-date: 2020-10-07 18:30:00 +0100
+when: 2020-10-07 18:30:00 +0100
 where: Online
 event_url: "https://meetup.com/Oslo-pm/"
 published: True
