@@ -5,7 +5,7 @@ date: 2020-09-14 10:30:00 +0100
 when: 2020-10-07 18:30:00 +0100
 where: Husleie.no offices, St. Olavs plass 2, Oslo
 max_attending: 10
-event_url: "https://meetup.com/Oslo-pm/"
+event_url: "https://www.meetup.com/Oslo-pm/events/273374484/"
 published: True
 categories: meetups
 tags: event tech perl
