@@ -67,18 +67,19 @@ is currently working on a [guide for transitioning from Perl 5 to 7](https://lea
 
 ## Oslo Perl Mongers - the organizer
 
-Oslo.pm is the largest network of developers who use and care about Perl,
-CPAN, Raku and related technologies and communities. We're all about Open
-Source, and have members with deep and wide experiences in these. If you or
-your company cares about or depends on the Perl, CPAN or Raku ecosystems,
-this is the community where you want to be!
+[Oslo.pm](https://oslo.pm) is the largest network of developers who use and
+care about Perl, CPAN, Raku and related technologies and communities. We're
+all about Open Source, and have members with deep and wide experiences in
+these. If you or your company cares about or depends on the Perl, CPAN
+or Raku ecosystems, this is the community where you want to be!
 
 
 ## Husleie.no - the venue host
 
-Husleie.no is a Norwegian tech startup that has found much success with
-Perl, Mojolicious and CPAN. The company is currently growing, and looking
-for talent with strong skills with these and other technologies.
+[Husleie.no](https://husleie.no) is a Norwegian tech startup that has found
+much success with Perl, Mojolicious and CPAN. The company is currently
+growing, and looking for talent with strong skills with these and other
+technologies.
 
 
 ## Yourself - the participant
