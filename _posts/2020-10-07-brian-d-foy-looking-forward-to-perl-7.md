@@ -17,7 +17,7 @@ tags: event tech perl
 
 # October 2020 meetup
 
-## How may the transition to Perl 7 go?
+## Looking forward to Perl 7
 
 We have invited _brian d foy_ to speak about the upcoming major release
 of Perl! He'll give us dive into the rationale behind this release, what
