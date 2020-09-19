@@ -83,9 +83,10 @@ for talent with strong skills with these and other technologies.
 
 ## Yourself - the participant
 
-No preparations are necessary, but we recommend you read the following:
+No preparations are necessary, but we recommend you check out the following:
 
 * Read "[Announcing Perl 7](https://www.perl.com/article/announcing-perl-7/)"
-* Optionally, read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
+* Optionally, buy and read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
+* Bring your greatest worries about Perl 7, so we can help you solve them!
 
-Please make sure you follow our COVID-19 considerations above!
+Please also make sure you carefully follow our COVID-19 considerations above!
