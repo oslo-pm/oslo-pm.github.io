@@ -53,7 +53,7 @@ of updates.
 
 # About...
 
-## brian d foy - the speaker
+## - brian d foy, the speaker
 
 brian is a prolific author of many well-known books on Perl and Raku, and
 has been a cornerstone in the Perl community for well over two decades.
@@ -65,7 +65,7 @@ Brian is preparing his 8th edition of the seminal Learning Perl book, and
 is currently working on a [guide for transitioning from Perl 5 to 7](https://leanpub.com/preparing_for_perl7).
 
 
-## Oslo Perl Mongers - the organizer
+## - Oslo Perl Mongers, the organizer
 
 [Oslo.pm](https://oslo.pm) is the largest network of developers who use and
 care about Perl, CPAN, Raku and related technologies and communities. We're
@@ -74,7 +74,7 @@ these. If you or your company cares about or depends on the Perl, CPAN
 or Raku ecosystems, this is the community where you want to be!
 
 
-## Husleie.no - the venue host
+## - Husleie.no, the venue host
 
 [Husleie.no](https://husleie.no) is a Norwegian tech startup that has found
 much success with Perl, Mojolicious and CPAN. The company is currently
@@ -82,12 +82,13 @@ growing, and looking for talent with strong skills with these and other
 technologies.
 
 
-## Yourself - the participant
+## - Yourself, the participant
 
-No preparations are necessary, but we recommend you check out the following:
+Beyond the normal COVID-19 preparations, none are required. We do recommend
+you check out the following, though:
 
 * Read "[Announcing Perl 7](https://www.perl.com/article/announcing-perl-7/)"
 * Optionally, buy and read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
 * Bring your greatest worries about Perl 7, so we can help you solve them!
 
-Please also make sure you carefully follow our COVID-19 considerations above!
+Finnaly, _Please make sure you carefully follow our COVID-19 considerations above_!
