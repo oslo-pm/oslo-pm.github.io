@@ -32,7 +32,7 @@ new tips and tricks on this topic from one of the most experienced Perl
 developers out there. _This part will not be streamed or published._
 
 
-# COVID-19 Considerations
+# COVID-19 Considerations & maximum participants
 
 Due to the current COVID-19 situation in Oslo, we are limiting the event
 to {{page.max_attending}} people. Make sure to sign up!
