@@ -91,4 +91,4 @@ you check out the following, though:
 * Optionally, buy and read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
 * Bring your greatest worries about Perl 7, so we can help you solve them!
 
-Finnaly, _Please make sure you carefully follow our COVID-19 considerations above_!
+Finally, *Please make sure you carefully follow our COVID-19 considerations above!*
