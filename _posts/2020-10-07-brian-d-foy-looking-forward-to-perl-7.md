@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October meetup: Looking forward to Perl 7, with brian d foy"
+title: "October meeting: Looking forward to Perl 7, with brian d foy"
 date: 2020-09-14 10:30:00 +0100
 when: 2020-10-07 18:30:00 +0100
 where: Husleie.no offices, St. Olavs plass 2, Oslo
@@ -15,9 +15,8 @@ tags: event tech perl
 * Where: {{page.where}}
 * Join us and sign up at [Meetup]({{page.event_url}})
 
-# October 2020 meetup
 
-## Looking forward to Perl 7
+## How may we transition to Perl 7?
 
 We have invited _brian d foy_ to speak about the upcoming major release
 of Perl! He'll give us dive into the rationale behind this release, what
