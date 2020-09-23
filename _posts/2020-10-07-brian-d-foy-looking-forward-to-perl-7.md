@@ -16,7 +16,7 @@ tags: event tech perl
 * Join us and sign up at [Meetup]({{page.event_url}})
 
 
-## How may we transition to Perl 7?
+## How may we prepare for Perl 7?
 
 We have invited _brian d foy_ to speak about the upcoming major release
 of Perl! With us, he'll make dive into the rationale behind this release,
@@ -62,7 +62,7 @@ His books have introduced Perl to thousands of developers, and he is still
 active writing about Perl and Raku and offering training classes to both
 beginners and experienced developers.
 
-Brian is preparing his 8th edition of the seminal Learning Perl book, and
+Brian is preparing his 8th edition of the seminal _Learning Perl_ book, and
 is currently working on a [guide for transitioning from Perl 5 to 7](https://leanpub.com/preparing_for_perl7).
 
 
