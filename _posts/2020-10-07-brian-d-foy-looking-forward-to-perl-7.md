@@ -19,8 +19,8 @@ tags: event tech perl
 ## How may we transition to Perl 7?
 
 We have invited _brian d foy_ to speak about the upcoming major release
-of Perl! He'll give us dive into the rationale behind this release, what
-to expect and how to transition your own codebase to the new version.
+of Perl! With us, he'll make dive into the rationale behind this release,
+what to expect and how to transition your own codebase to the new version.
 
 The first part of this meeting will be done online and later published on
 [YouTube](https://www.youtube.com/channel/UCqMg7ia28fvx6iN08QR_-ig/videos).
@@ -44,7 +44,8 @@ Furthermore, please DO NOT sign up if you have done any following:
 * Are in a high-risk group for COVID-19
 
 Hand washing facilities will be available at the entrance, and antibac in
-the meeting room.
+the meeting room. We recommend bringing a facemask and wearing it if
+necessary.
 
 The considerations above will be updated if the Norwegian health authorities
 publish updates to their recommendations. Please check back here in case
