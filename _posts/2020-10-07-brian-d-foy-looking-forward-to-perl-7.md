@@ -79,8 +79,8 @@ or Raku ecosystems, this is the community where you want to be!
 
 [Husleie.no](https://husleie.no) is a Norwegian tech startup that has found
 much success with Perl, Mojolicious and CPAN. The company is currently
-growing, and looking for talent with strong skills with these and other
-technologies.
+expanding into Germany, and therefore looking for talent with strong skills
+in these and other technologies.
 
 
 ## - Yourself, the participant
