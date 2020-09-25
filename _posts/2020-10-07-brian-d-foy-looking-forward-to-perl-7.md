@@ -40,7 +40,7 @@ to {{page.max_attending}} people. Make sure to sign up!
 Furthermore, please DO NOT sign up if you have done any following:
 
 * Have ANY flu-like symptoms
-* Have traveled to a red or yellow region or country within the two last weeks
+* Have recently traveled from/to a red region/country outside of Oslo
 * Are in a high-risk group for COVID-19
 
 Hand washing facilities will be available at the entrance, and antibac in
