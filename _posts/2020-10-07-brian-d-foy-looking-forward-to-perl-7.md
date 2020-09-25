@@ -60,9 +60,9 @@ brian is a prolific author of many well-known books on Perl and Raku, and
 has been a cornerstone in the Perl community for well over two decades.
 His books have introduced Perl to thousands of developers, and he is still
 active writing about Perl and Raku and offering training classes to both
-beginners and experienced developers.
+beginning and experienced developers.
 
-Brian is preparing his 8th edition of the seminal _Learning Perl_ book, and
+brian is preparing his 8th edition of the seminal _Learning Perl_ book, and
 is currently working on a [guide for transitioning from Perl 5 to 7](https://leanpub.com/preparing_for_perl7).
 
 
