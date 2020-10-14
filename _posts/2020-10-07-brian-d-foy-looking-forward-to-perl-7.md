@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "October meeting: Looking forward to Perl 7, with brian d foy"
+title: "December meeting: Looking forward to Perl 7, with brian d foy"
 date: 2020-10-01 20:30:00 +0100
 when: 2020-12-02 18:30:00 +0100
 where: Husleie.no offices, St. Olavs plass 2, Oslo
