@@ -54,6 +54,12 @@ The considerations above will be updated if the Norwegian health authorities
 publish updates to their recommendations. Please check back here in case
 of updates.
 
+When attending, we request you to follow these instructions:
+
+* Allow us to register us your name and phone number, in case infection is detected later.
+* Notify the organizers if you are tested positive for COVID-19 in the following weeks.
+* Follow any instructions demanded by local or national health autorities.
+
 
 # About...
 
