@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "December meeting: Looking forward to Perl 7, with brian d foy"
+title: "January meeting: Looking forward to Perl 7, with brian d foy"
 date: 2020-10-01 20:30:00 +0100
 when: 2021-01-06 18:30:00 +0100
 where: Husleie.no offices, St. Olavs plass 2, Oslo
-max_attending: 10
+max_attending: 5
 event_url: "https://www.meetup.com/Oslo-pm/events/273374484/"
 published: True
 categories: meetups
@@ -53,15 +53,15 @@ Hand washing facilities will be available at the entrance, and antibac in
 the meeting room. We recommend bringing a facemask and wearing it if
 necessary.
 
-The considerations above will be updated if the Norwegian health authorities
+The considerations above will be updated if any relevant health authorities
 publish updates to their recommendations. Please check back here in case
 of updates.
 
 When attending, we request you to follow these instructions:
 
-* Follow any instructions demanded by local or national health autorities.
+* Follow any instructions demanded by [local (Oslo kommune)](https://www.oslo.kommune.no/koronavirus/rad-og-regler-i-oslo/arrangementer-pa-offentlig-sted/) or [national (Folkehelseinstituttet)](https://www.fhi.no/nettpub/coronavirus/rad-og-informasjon-til-andre-sektorer-og-yrkesgrupper/anbefalinger-ved--store-arrangementer-knyttet-til-koronasmitte-i-norge/) health autorities.
 * Allow us to register your name and phone number in case infection is detected later.
-* Notify the organizers if you are tested positive for COVID-19 in the following weeks.
+* Immediately notify the organizers if you are tested positive for COVID-19 at any time in the following two weeks.
 
 
 # About...
