@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "January meeting: Looking forward to Perl 7, with brian d foy"
+title: "February meeting: Looking forward to Perl 7, with brian d foy"
 date: 2020-10-01 20:30:00 +0100
-when: 2021-01-06 18:30:00 +0100
+when: 2021-02-03 18:30:00 +0100
 where: Husleie.no offices, St. Olavs plass 2, Oslo
 max_attending: 5
 event_url: "https://www.meetup.com/Oslo-pm/events/273374484/"
@@ -16,9 +16,9 @@ tags: event tech perl
 * Join us and sign up at [Meetup]({{page.event_url}})
 
 
-[This meeting has been postponed from October due to brian having been
-summoned to fight fires in the US North-West, and from December due to
-stricter Covid-19 rules in Oslo. We apologize for this inconvenience]
+[This meeting was initially postponed due to brian being summoned to
+fight forest fires in the US North-West, and later due to stricter
+Covid-19 rules in Oslo. We apologize for this inconvenience]
 
 ## How may we prepare for Perl 7?
 
