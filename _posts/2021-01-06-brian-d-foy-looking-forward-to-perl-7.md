@@ -3,8 +3,8 @@ layout: post
 title: "February meeting: Looking forward to Perl 7, with brian d foy"
 date: 2020-10-01 20:30:00 +0100
 when: 2021-02-03 18:30:00 +0100
-where: Husleie.no offices, St. Olavs plass 2, Oslo
-max_attending: 5
+where: Online; Please join the meetup to get participation details
+max_attending: 40
 event_url: "https://www.meetup.com/Oslo-pm/events/273374484/"
 published: True
 categories: meetups
@@ -33,35 +33,17 @@ The second part of this meetup (when we're done with the above part), we
 will continue with a closed session where the participants at the meetup
 can join the conversation with brian! This is a great opportunity to learn
 new tips and tricks on this topic from one of the most experienced Perl
-developers out there. _This part will not be streamed or published._
+developers out there. _This part will not be streamed or published, and is
+only available to registered participants._
 
 Access to the second part is given to those who [sign up on our meetup page]({{page.event_url}}).
 
 
 # COVID-19 Considerations & maximum participants
 
-Due to the current COVID-19 situation in Oslo, we are limiting the event
-to {{page.max_attending}} people. Make sure to sign up!
-
-Furthermore, please DO NOT sign up if you have done any following:
-
-* Have ANY flu-like symptoms
-* Have recently traveled from/to a red region/country outside of Oslo
-* Are in a high-risk group for COVID-19
-
-Hand washing facilities will be available at the entrance, and antibac in
-the meeting room. We recommend bringing a facemask and wearing it if
-necessary.
-
-The considerations above will be updated if any relevant health authorities
-publish updates to their recommendations. Please check back here in case
-of updates.
-
-When attending, we request you to follow these instructions:
-
-* Follow any instructions demanded by [local (Oslo kommune)](https://www.oslo.kommune.no/koronavirus/rad-og-regler-i-oslo/arrangementer-pa-offentlig-sted/) or [national (Folkehelseinstituttet)](https://www.fhi.no/nettpub/coronavirus/rad-og-informasjon-til-andre-sektorer-og-yrkesgrupper/anbefalinger-ved--store-arrangementer-knyttet-til-koronasmitte-i-norge/) health autorities.
-* Allow us to register your name and phone number in case infection is detected later.
-* Immediately notify the organizers if you are tested positive for COVID-19 at any time in the following two weeks.
+Due to the current COVID-19 situation in Oslo, we will be conducting this
+meetup online only. There is no maximum limit to the online participation.
+Make sure to sign up!
 
 
 # About...
@@ -85,14 +67,6 @@ Perl, CPAN, Raku and related technologies and communities. We're Open Source
 participants, open to both experienced and new members. If you or your
 company depend on the Perl, CPAN or Raku ecosystems, this is the community
 where you want to be.
-
-
-## - Husleie.no, the venue host
-
-[Husleie.no](https://husleie.no) is a Norwegian tech startup that has found
-much success with Perl, Mojolicious and CPAN. The company is currently
-expanding into Germany, and therefore looking for talent with strong skills
-in these and other technologies.
 
 
 ## - Yourself, the participant
