@@ -71,11 +71,12 @@ where you want to be.
 
 ## - Yourself, the participant
 
-Beyond the normal COVID-19 preparations, none are required. We do recommend
-you check out the following, though:
+Beyond setting up the usual tools for online participation (eg. sitting in a quiet environment,
+listening with headphones and having a decent microphone), no other preparations are required.
+We do recommend you check out the following, though:
 
 * Read "[Announcing Perl 7](https://www.perl.com/article/announcing-perl-7/)"
 * Optionally, buy and read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
 * Bring your greatest worries about Perl 7, so we can help you solve them!
 
-Finally, *Please make sure you carefully follow our COVID-19 considerations above!*
+And finally, *Please stay safe!*
