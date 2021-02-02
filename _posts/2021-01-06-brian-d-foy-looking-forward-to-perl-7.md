@@ -68,8 +68,14 @@ participants, open to both experienced and new members. If you or your
 company depend on the Perl, CPAN or Raku ecosystems, this is the community
 where you want to be.
 
+## Yourself, the participant
 
-## - Yourself, the participant
+You are interested in the future of Perl, but may not have spent much time
+on following the minutia around this topic. If your company depends on Perl,
+but you don't have much time to follow everything closely, then this meeting
+may be for you!
+
+## Preparations
 
 Beyond setting up the usual tools for online participation (eg. sitting in a quiet environment,
 listening with headphones and having a decent microphone), no other preparations are required.
@@ -77,6 +83,7 @@ We do recommend you check out the following, though:
 
 * Read "[Announcing Perl 7](https://www.perl.com/article/announcing-perl-7/)"
 * Optionally, buy and read "[Preparing for Perl 7](https://leanpub.com/preparing_for_perl7)"
+* Check out brian's offerings on [Perl School](https://perlschool.com/).
 * Bring your greatest worries about Perl 7, so we can help you solve them!
 
 And finally, *Please stay safe!*
