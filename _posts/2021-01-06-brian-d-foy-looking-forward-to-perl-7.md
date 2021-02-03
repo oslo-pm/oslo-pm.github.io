@@ -26,8 +26,8 @@ We have invited _brian d foy_ to speak about the upcoming major release
 of Perl! With us, he'll make dive into the rationale behind this release,
 what to expect and how to transition your own codebase to the new version.
 
-The first part of this meeting will be done online and later published on
-[YouTube](https://www.youtube.com/channel/UCqMg7ia28fvx6iN08QR_-ig/videos).
+The first part of this meeting will be streamed and published on
+[YouTube](https://www.youtube.com/watch?v=TiGxe3wYhD8) in addition to on Zoom.
 
 The second part of this meetup (when we're done with the above part), we
 will continue with a closed session where the participants at the meetup
