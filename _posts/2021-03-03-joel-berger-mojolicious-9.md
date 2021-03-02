@@ -5,7 +5,7 @@ date: 2021-03-01 20:30:00 +0100
 when: 2021-03-03 18:30:00 +0100
 where: Online; Please join the meetup to get participation details
 max_attending: 40
-event_url: "https://www.meetup.com/Oslo-pm/events/273374484/"
+event_url: "https://www.meetup.com/Oslo-pm/events/276680727/"
 published: True
 categories: meetups
 tags: event tech perl
@@ -60,14 +60,14 @@ participants, open to both experienced and new members. If you or your
 company depend on the Perl, CPAN or Raku ecosystems, this is the community
 where you want to be.
 
-## Yourself, the participant
+## - Yourself, the participant
 
 You are interested in Perl, web publishing, Mojolicious or async programming,
 and would like to get the latest take on these topics. If your company
 depends on Mojolicous, but you don't have much time to follow everything
 closely, then this meeting may be for you!
 
-## Preparations
+## - Preparations
 
 Beyond setting up the usual tools for online participation (eg. sitting in
 a quiet environment, listening with headphones and having a decent
