@@ -4,8 +4,8 @@ title: "Yearly meeting w/tech talk: Task::Kensho – Perl Module recommendations
 date: 2021-10-26 22:44:59 +0100
 when: 2021-11-17 17:30:00 +0100
 where: "TBD"
-maps_query: "Teknologihuset"
-event_url: "https://www.meetup.com/Oslo-pm/events/234612511/"
+maps_query: "Teknologihuset, Rebel"
+event_url: "https://www.meetup.com/Oslo-pm/events/281679413/"
 published: True
 tags: event tech board
 ---
