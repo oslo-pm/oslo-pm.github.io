@@ -27,6 +27,9 @@ Chris "perigrin" Prather (Orlando Perl Mongers) is a well-know Perl Monger from 
 Chris will be discussing the background for the Task::Kensho recommendations, including what an update in 2022 would look like. After the 40-minute presentation, we'll have a Q&A!
 
 
-<br>ca 19:00-19:30 We go out for beer and maybe some food.
+<br>We're organizing this as a physical meetup, with streaming and online participation. Details around location, our Yearly activity report (Årsberetning), Accounting report (Regnskap), budget and any proposed changes to the bylaws will be sent to <a href="https://mail.pm.org/mailman/listinfo/oslo">our announcement mailing list</a>, and posted on <a href="https://oslo.pm">our main website</a>.
+
+
+<br>Around 19:00-19:30, we go out for beer and maybe some food.
 
 {% include maps.html %}
